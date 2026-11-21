@@ -1,0 +1,50 @@
+name: Archive Casper WY documents
+
+# Manual, resumable only. Each run enforces a 45-minute graceful collection
+# budget (--max-seconds 2700) inside the 60-minute job timeout so progress
+# (documents/, manifest.json, MANIFEST.md) is written and committed cleanly
+# before the runner timeout. Note: a hard runner timeout or manual cancel
+# before the commit step will NOT preserve uncommitted progress.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download documents
+        id: download
+        run: python3 collect.py --delay 3.0 --max-seconds 2700
+
+      - name: Commit the archive
+        run: |
+          set -e
+          git config user.name "casper-record-mirror[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -d documents ]; then
+            git add documents
+          fi
+          if [ -f manifest.json ]; then
+            git add manifest.json
+          fi
+          if [ -f MANIFEST.md ]; then
+            git add MANIFEST.md
+          fi
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to add — archive is current."
+            exit 0
+          fi
+          git commit -m "Archive casperwy.gov documents (${{ github.run_number }})"
+          git push

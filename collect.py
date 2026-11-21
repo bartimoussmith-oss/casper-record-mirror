@@ -2,39 +2,33 @@
 """Polite archiver for the City of Casper, WY official website.
 
 What it does, end to end:
-  1. Fetches robots.txt and parses it (honors Disallow, Sitemap, and crawl-delay).
-  2. Fetches sitemap.xml, recursively walks any child sitemaps (<sitemapindex>,
-     including .xml.gz), and inspects both direct sitemap document URLs and
-     sitemap-listed casperwy.gov HTML pages for links to public documents.
+  1. Fetches robots.txt per contacted host and parses Disallow, Sitemap, and
+     crawl-delay rules.
+  2. Fetches sitemap.xml on casperwy.gov, recursively walks any child sitemaps
+     (<sitemapindex>, including .xml.gz), and inspects both direct sitemap
+     document URLs and sitemap-listed casperwy.gov HTML pages for links to
+     public documents.
   3. Explicitly seeds the City Council documents page
      (https://www.casperwy.gov/government/city_council/documents.php).
   4. Downloads each original document binary (PDF/DOC/DOCX/RTF/XLS/XLSX/PPT/
-     PPTX/ODT/TXT/CSV) on casperwy.gov with polite pacing, writes it under
-     documents/ preserving the original path structure, hashes it (SHA-256),
-     and records full provenance in manifest.json.
+     PPTX/ODT/TXT/CSV) from casperwy.gov (including official redirects strictly
+     within https://cms2.revize.com/revize/casperwy/) with polite sequential
+     pacing, writes it under documents/ preserving path structure, hashes it
+     (SHA-256), and records full provenance (original URL + final download URL)
+     in manifest.json.
   5. Writes MANIFEST.md with an honest, human-readable coverage summary,
      including failed, robots-blocked, external, oversized, and pending items.
 
-Idempotent & resumable:
-  * Documents already recorded as archived in manifest.json (and present on
-    disk) are skipped without network requests.
-  * When a collection budget (--max-seconds, --max-new, --max-requests, or
-    --max-run-bytes) is reached, progress (archived files, pending document
-    queue, and scanned HTML pages) is saved cleanly so the next manual run
-    resumes where the previous run stopped.
-
-Politeness contract:
-  * identifies itself with a custom User-Agent;
-  * waits at least 3.0 seconds between requests (never less), and honors any
-    larger crawl-delay declared by casperwy.gov;
-  * single-threaded, zero concurrency;
-  * archives public documents only -- no media/images or HTML pages are saved
-    into documents/;
-  * never requests external (non-casperwy.gov) hosts, including via redirects;
-  * honors robots.txt across sitemaps, HTML pages, redirects, and documents.
+Approved host & redirect boundary:
+  * Sitemap and HTML page discovery is strictly restricted to casperwy.gov.
+  * Document downloads allow casperwy.gov and exact HTTPS Casper Revize storage
+    paths under https://cms2.revize.com/revize/casperwy/<path> (no HTTP, no
+    other revize.com subdomains, no other tenants on cms2.revize.com, and no
+    '..' path traversal). Every redirect hop is validated before connection.
 
 Usage:
   python3 collect.py                           # full run (sitemaps + pages + council seed)
+  python3 collect.py --max-new 5               # bounded verification run (5 archived docs)
   python3 collect.py --max-seconds 2700        # graceful 45-minute run budget
   python3 collect.py --dry-run                 # discover URLs without downloading documents
   python3 collect.py --headline-only           # only the city-council documents page
@@ -46,6 +40,7 @@ import argparse
 import gzip
 import hashlib
 import json
+import posixpath
 import re
 import signal
 import sys
@@ -63,9 +58,12 @@ from urllib.robotparser import RobotFileParser
 SITE = "https://www.casperwy.gov"
 SITEMAP_URL = SITE + "/sitemap.xml"
 HEADLINE_PAGE = SITE + "/government/city_council/documents.php"
+APPROVED_REVIZE_HOST = "cms2.revize.com"
+APPROVED_REVIZE_PREFIX = "/revize/casperwy/"
 USER_AGENT = "casper-record-mirror/1.0 (+https://github.com/bartimoussmith-oss/casper-record-mirror)"
 MIN_DELAY = 3.0
 DEFAULT_DELAY = 3.0
+MAX_REDIRECTS = 5
 MAX_BYTES = 50 * 1024 * 1024        # 50 MiB per document; bigger files are recorded as oversized
 MAX_HTML_BYTES = 5 * 1024 * 1024    # 5 MiB bound when parsing HTML pages for document links
 MAX_SITEMAP_BYTES = 25 * 1024 * 1024
@@ -89,6 +87,7 @@ NON_HTML_ASSET_EXTS = IMAGE_EXTS + (
     ".xml", ".rss", ".atom",
 )
 SKIP_SCHEMES = ("mailto:", "tel:", "javascript:", "data:", "sms:", "blob:")
+REDIRECT_CODES = (301, 302, 303, 307, 308)
 
 
 class ExternalRedirectError(RuntimeError):
@@ -120,11 +119,63 @@ def is_casper_host(netloc: str) -> bool:
     return host == "casperwy.gov" or host.endswith(".casperwy.gov")
 
 
+def is_approved_revize_casper_url(url: str) -> bool:
+    """Allow ONLY https://cms2.revize.com/revize/casperwy/<non-empty-path> with no '..' traversal."""
+    if not url:
+        return False
+    parsed = urllib.parse.urlsplit(url.strip())
+    if parsed.scheme.lower() != "https":
+        return False
+    raw_netloc = parsed.netloc.lower()
+    if "@" in raw_netloc:
+        return False
+    if ":" in raw_netloc:
+        host, port = raw_netloc.rsplit(":", 1)
+        if port != "443":
+            return False
+    else:
+        host = raw_netloc
+    host = host.strip(".")
+    if host != APPROVED_REVIZE_HOST:
+        return False
+    unquoted_path = urllib.parse.unquote(parsed.path or "")
+    raw_segments = unquoted_path.split("/")
+    if ".." in raw_segments:
+        return False
+    norm = posixpath.normpath(unquoted_path)
+    if not norm.startswith("/"):
+        norm = "/" + norm
+    if not norm.lower().startswith(APPROVED_REVIZE_PREFIX):
+        return False
+    remainder = norm[len(APPROVED_REVIZE_PREFIX):].strip("/")
+    return bool(remainder)
+
+
+def is_approved_robots_url(url: str) -> bool:
+    """Allow /robots.txt only on casperwy.gov hosts or https://cms2.revize.com/robots.txt."""
+    parsed = urllib.parse.urlsplit(url.strip())
+    if parsed.path != "/robots.txt" or parsed.query:
+        return False
+    if is_casper_host(parsed.netloc):
+        return parsed.scheme.lower() in ("http", "https")
+    host = parsed.netloc.split(":", 1)[0].lower().strip(".")
+    return parsed.scheme.lower() == "https" and host == APPROVED_REVIZE_HOST
+
+
 def canonical_host(netloc: str) -> str:
     host = netloc.split(":", 1)[0].lower().strip(".")
     if host == "casperwy.gov":
         return "www.casperwy.gov"
     return host
+
+
+def canonical_doc_relpath(url: str) -> str:
+    """Return unquoted path relative to site root (stripping /revize/casperwy/ on approved Revize URLs)."""
+    parsed = urllib.parse.urlsplit(url)
+    unquoted = re.sub(r"/+", "/", urllib.parse.unquote(parsed.path or ""))
+    if is_approved_revize_casper_url(url) and unquoted.lower().startswith(APPROVED_REVIZE_PREFIX):
+        unquoted = "/" + unquoted[len(APPROVED_REVIZE_PREFIX):]
+    return unquoted.lstrip("/")
 
 
 def _encode_url_part(val: str, safe_chars: str) -> str:
@@ -185,7 +236,7 @@ def is_document_url(url: str) -> bool:
     if not has_doc_extension(url):
         return False
     parsed = urllib.parse.urlsplit(url)
-    return is_casper_host(parsed.netloc)
+    return is_casper_host(parsed.netloc) or is_approved_revize_casper_url(url)
 
 
 def is_html_candidate_url(url: str) -> bool:
@@ -203,6 +254,9 @@ def is_html_candidate_url(url: str) -> bool:
 def normalize_key(url: str) -> str:
     """Strip cache-buster query params and fragments for document deduping."""
     parsed = urllib.parse.urlsplit(url)
+    if is_approved_revize_casper_url(url):
+        rel = canonical_doc_relpath(url).lower()
+        return f"www.casperwy.gov/{rel}"
     host = canonical_host(parsed.netloc)
     path = re.sub(r"/+", "/", urllib.parse.unquote(parsed.path)).lower()
     return f"{host}{path}"
@@ -218,9 +272,8 @@ def normalize_page_key(url: str) -> str:
 
 
 def bucket_for(url: str) -> str:
-    parsed = urllib.parse.urlsplit(url)
-    path = urllib.parse.unquote(parsed.path).lstrip("/")
-    parts = [p for p in path.split("/") if p]
+    rel = canonical_doc_relpath(url)
+    parts = [p for p in rel.split("/") if p]
     if parts and parts[0].lower() == "documents":
         parts = parts[1:]
     return parts[0] if parts else "misc"
@@ -248,8 +301,7 @@ def local_path(url: str, buckets_used: dict[str, str], output_dir: str = "docume
          -> documents/Government/City Council/Gaming Location Survey.pdf
     """
     url_key = normalize_key(url)
-    parsed = urllib.parse.urlsplit(url)
-    rel = urllib.parse.unquote(parsed.path).lstrip("/")
+    rel = canonical_doc_relpath(url)
     parts = [p for p in rel.split("/") if p and p not in (".", "..")]
     if parts and parts[0].lower() == "documents":
         parts = parts[1:]
@@ -274,6 +326,23 @@ def local_path(url: str, buckets_used: dict[str, str], output_dir: str = "docume
             buckets_used[candidate] = url_key
             return candidate
         n += 1
+
+
+def should_requeue_external_skipped(rec: dict) -> bool:
+    """Return True if a prior external_skipped record qualifies under the approved Revize Casper rule."""
+    if rec.get("status") != "external_skipped":
+        return False
+    url = rec.get("url") or ""
+    if not is_document_url(url):
+        return False
+    err = rec.get("error") or ""
+    prefix = "redirected to external host: "
+    if err.startswith(prefix):
+        redirect_target = err[len(prefix):].strip()
+        return is_approved_revize_casper_url(redirect_target) or is_casper_host(
+            urllib.parse.urlsplit(redirect_target).netloc
+        )
+    return is_approved_revize_casper_url(url)
 
 
 class PageLinkParser(HTMLParser):
@@ -339,81 +408,122 @@ def parse_float_crawl_delay(robots_text: str, user_agent: str) -> float:
     return specific_delay if specific_delay > 0 else wildcard_delay
 
 
-class CasperRedirectHandler(urllib.request.HTTPRedirectHandler):
-    def __init__(self, robots_checker) -> None:
-        super().__init__()
-        self._robots_checker = robots_checker
+class NoRedirectHandler(urllib.request.HTTPRedirectHandler):
+    """Return 3xx responses directly so PoliteClient validates & paces every redirect hop."""
 
-    def redirect_request(self, req, fp, code, msg, headers, newurl):
-        resolved = urllib.parse.urljoin(req.full_url, newurl)
-        parsed = urllib.parse.urlsplit(resolved)
-        if not is_casper_host(parsed.netloc):
-            raise ExternalRedirectError(resolved)
-        safe_new = safe_request_url(resolved)
-        if not self._robots_checker(safe_new):
-            raise RobotsDisallowedError(safe_new)
-        new_req = super().redirect_request(req, fp, code, msg, headers, safe_new)
-        if new_req is not None:
-            new_req.add_unredirected_header("User-Agent", USER_AGENT)
-        return new_req
+    def http_error_301(self, req, fp, code, msg, headers):
+        return fp
+
+    http_error_302 = http_error_303 = http_error_307 = http_error_308 = http_error_301
 
 
 class PoliteClient:
-    """Single-threaded HTTP client enforcing delay >= 3.0s, host scope, and robots.txt."""
+    """Single-threaded HTTP client enforcing >=3.0s pacing, per-host robots.txt/crawl-delay, and hop validation."""
 
     def __init__(self, base_delay: float) -> None:
-        self.delay = max(MIN_DELAY, float(base_delay))
+        self.base_delay = max(MIN_DELAY, float(base_delay))
+        self.delay = self.base_delay
         self.requests_made = 0
-        self._robots_by_origin: dict[str, tuple[RobotFileParser | None, list[str]]] = {}
-        self._opener = urllib.request.build_opener(CasperRedirectHandler(self.robots_allowed))
+        self._robots_by_origin: dict[str, tuple[RobotFileParser | None, float, list[str]]] = {}
+        self._opener = urllib.request.build_opener(NoRedirectHandler())
 
     def _origin_for(self, url: str) -> str:
         parsed = urllib.parse.urlsplit(url)
         scheme = parsed.scheme.lower() or "https"
-        return f"{scheme}://{parsed.netloc.lower()}"
+        host = parsed.netloc.lower()
+        if scheme == "https" and host.endswith(":443"):
+            host = host[:-4]
+        elif scheme == "http" and host.endswith(":80"):
+            host = host[:-3]
+        return f"{scheme}://{host}"
+
+    def _is_origin_permitted(self, url: str) -> bool:
+        parsed = urllib.parse.urlsplit(url)
+        if is_casper_host(parsed.netloc):
+            return True
+        return is_approved_revize_casper_url(url) or is_approved_robots_url(url)
+
+    def delay_for_origin(self, origin: str) -> float:
+        entry = self._robots_by_origin.get(origin)
+        host_delay = entry[1] if entry else 0.0
+        return max(MIN_DELAY, self.base_delay, host_delay)
 
     def ensure_robots(self, url: str) -> list[str]:
-        parsed = urllib.parse.urlsplit(url)
-        if not is_casper_host(parsed.netloc):
+        if not self._is_origin_permitted(url):
             return []
         origin = self._origin_for(url)
         if origin in self._robots_by_origin:
-            return self._robots_by_origin[origin][1]
+            return self._robots_by_origin[origin][2]
 
         # Register placeholder first so redirects during robots.txt fetch do not recurse.
-        self._robots_by_origin[origin] = (None, [])
+        self._robots_by_origin[origin] = (None, 0.0, [])
         robots_url = f"{origin}/robots.txt"
         rp = RobotFileParser()
         sitemaps: list[str] = []
+        host_delay = 0.0
         try:
-            _, _, body, _ = self.fetch_raw(robots_url, max_bytes=1024 * 1024, timeout=20, skip_robots=True)
+            _, _, body, _, _ = self.fetch_raw(
+                robots_url,
+                max_bytes=1024 * 1024,
+                timeout=20,
+                is_robots_fetch=True,
+            )
             text = body.decode("utf-8", "replace")
             rp.parse(text.splitlines())
             std_cd = rp.crawl_delay(USER_AGENT) or rp.crawl_delay("*") or 0.0
             flt_cd = parse_float_crawl_delay(text, USER_AGENT)
             host_delay = max(float(std_cd), flt_cd)
-            if host_delay > self.delay:
-                print(f"[*] robots.txt declared crawl-delay={host_delay}s; raising delay to {host_delay}s")
-                self.delay = host_delay
-            for sm in rp.site_maps() or []:
-                sm_clean = sm.strip()
-                if sm_clean and is_casper_host(urllib.parse.urlsplit(sm_clean).netloc):
-                    sitemaps.append(sm_clean)
-            self._robots_by_origin[origin] = (rp, sitemaps)
+            if host_delay > self.base_delay:
+                print(
+                    f"[*] {robots_url} declared crawl-delay={host_delay}s; "
+                    f"using {host_delay}s for {origin}"
+                )
+                self.delay = max(self.delay, host_delay)
+            if is_casper_host(urllib.parse.urlsplit(origin).netloc):
+                for sm in rp.site_maps() or []:
+                    sm_clean = sm.strip()
+                    if sm_clean and is_casper_host(urllib.parse.urlsplit(sm_clean).netloc):
+                        sitemaps.append(sm_clean)
+            self._robots_by_origin[origin] = (rp, host_delay, sitemaps)
         except Exception as exc:
-            print(f"[!] robots.txt at {robots_url} could not be fetched ({exc}); continuing without robots filter for {origin}")
-            self._robots_by_origin[origin] = (None, [])
+            print(
+                f"[!] robots.txt at {robots_url} could not be fetched ({exc}); "
+                f"continuing without robots filter for {origin}"
+            )
+            self._robots_by_origin[origin] = (None, 0.0, [])
         return sitemaps
 
-    def robots_allowed(self, url: str) -> bool:
+    def robots_allowed(self, url: str, *, allow_approved_revize: bool = False) -> bool:
         parsed = urllib.parse.urlsplit(url)
-        if not is_casper_host(parsed.netloc):
+        if is_casper_host(parsed.netloc):
+            pass
+        elif allow_approved_revize and is_approved_revize_casper_url(url):
+            pass
+        else:
             return False
         self.ensure_robots(url)
-        rp, _ = self._robots_by_origin.get(self._origin_for(url), (None, []))
+        rp, _, _ = self._robots_by_origin.get(self._origin_for(url), (None, 0.0, []))
         if rp is None:
             return True
         return rp.can_fetch(USER_AGENT, safe_request_url(url))
+
+    def _validate_target_url(
+        self,
+        safe_url: str,
+        *,
+        allow_approved_revize: bool,
+        is_robots_fetch: bool,
+    ) -> None:
+        parsed = urllib.parse.urlsplit(safe_url)
+        if is_robots_fetch:
+            if not is_approved_robots_url(safe_url):
+                raise ExternalRedirectError(safe_url)
+            return
+        if is_casper_host(parsed.netloc):
+            return
+        if allow_approved_revize and is_approved_revize_casper_url(safe_url):
+            return
+        raise ExternalRedirectError(safe_url)
 
     def fetch_raw(
         self,
@@ -422,63 +532,93 @@ class PoliteClient:
         max_bytes: int,
         timeout: int = 60,
         accept: str = "*/*",
-        skip_robots: bool = False,
+        allow_approved_revize: bool = False,
+        is_robots_fetch: bool = False,
         html_only: bool = False,
-    ) -> tuple[int, object, bytes, str]:
-        safe_url = safe_request_url(url)
-        parsed = urllib.parse.urlsplit(safe_url)
-        if not is_casper_host(parsed.netloc):
-            raise ExternalRedirectError(safe_url)
-        if not skip_robots and not self.robots_allowed(safe_url):
-            raise RobotsDisallowedError(safe_url)
+    ) -> tuple[int, object, bytes, str, list[str]]:
+        current_url = url
+        seen_hops: set[str] = set()
+        redirect_chain: list[str] = []
 
-        time.sleep(self.delay)
-        self.requests_made += 1
-        req = urllib.request.Request(
-            safe_url,
-            headers={"User-Agent": USER_AGENT, "Accept": accept},
-        )
-        with self._opener.open(req, timeout=timeout) as resp:
-            status = getattr(resp, "status", 200)
-            headers = resp.headers
-            final_url = getattr(resp, "url", safe_url) or safe_url
-            if not is_casper_host(urllib.parse.urlsplit(final_url).netloc):
-                raise ExternalRedirectError(final_url)
+        for hop in range(MAX_REDIRECTS + 1):
+            safe_url = safe_request_url(current_url)
+            self._validate_target_url(
+                safe_url,
+                allow_approved_revize=allow_approved_revize,
+                is_robots_fetch=is_robots_fetch,
+            )
+            if safe_url in seen_hops:
+                raise RuntimeError(f"redirect loop detected at {safe_url}")
+            seen_hops.add(safe_url)
 
-            ctype = (headers.get("Content-Type") or "").split(";", 1)[0].strip().lower()
-            if html_only and ctype and ctype not in ("text/html", "application/xhtml+xml"):
-                return status, headers, b"", final_url
+            if not is_robots_fetch:
+                if not self.robots_allowed(safe_url, allow_approved_revize=allow_approved_revize):
+                    raise RobotsDisallowedError(safe_url)
 
-            cl_header = headers.get("Content-Length")
-            expected_len: int | None = None
-            if cl_header:
-                try:
-                    expected_len = int(cl_header.strip())
-                except ValueError:
-                    expected_len = None
-            if expected_len is not None and max_bytes > 0 and expected_len > max_bytes:
-                raise OversizedDocumentError(expected_len, max_bytes, via_header=True)
+            origin = self._origin_for(safe_url)
+            time.sleep(self.delay_for_origin(origin))
+            self.requests_made += 1
 
-            chunks: list[bytes] = []
-            total = 0
-            while True:
-                chunk = resp.read(CHUNK_SIZE)
-                if not chunk:
-                    break
-                total += len(chunk)
-                if max_bytes > 0 and total > max_bytes:
-                    raise OversizedDocumentError(total, max_bytes, via_header=False)
-                chunks.append(chunk)
-            body = b"".join(chunks)
+            req = urllib.request.Request(
+                safe_url,
+                headers={"User-Agent": USER_AGENT, "Accept": accept},
+            )
+            with self._opener.open(req, timeout=timeout) as resp:
+                status = getattr(resp, "status", None) or resp.getcode() or 200
+                headers = resp.headers
 
-            content_enc = (headers.get("Content-Encoding") or "").strip().lower()
-            if (
-                expected_len is not None
-                and content_enc in ("", "identity")
-                and len(body) < expected_len
-            ):
-                raise RuntimeError(f"truncated download ({len(body)} < {expected_len} bytes)")
-            return status, headers, body, final_url
+                if status in REDIRECT_CODES:
+                    resp.read(4096)
+                    loc = headers.get("Location")
+                    if not loc:
+                        raise RuntimeError(f"HTTP {status} redirect without Location header")
+                    if hop >= MAX_REDIRECTS:
+                        raise RuntimeError(f"exceeded max redirects ({MAX_REDIRECTS})")
+                    next_url = urllib.parse.urljoin(safe_url, loc.strip())
+                    next_sp = urllib.parse.urlsplit(next_url)
+                    next_clean = urllib.parse.urlunsplit(
+                        (next_sp.scheme, next_sp.netloc, next_sp.path, next_sp.query, "")
+                    )
+                    redirect_chain.append(next_clean)
+                    current_url = next_clean
+                    continue
+
+                ctype = (headers.get("Content-Type") or "").split(";", 1)[0].strip().lower()
+                if html_only and ctype and ctype not in ("text/html", "application/xhtml+xml"):
+                    return status, headers, b"", safe_url, redirect_chain
+
+                cl_header = headers.get("Content-Length")
+                expected_len: int | None = None
+                if cl_header:
+                    try:
+                        expected_len = int(cl_header.strip())
+                    except ValueError:
+                        expected_len = None
+                if expected_len is not None and max_bytes > 0 and expected_len > max_bytes:
+                    raise OversizedDocumentError(expected_len, max_bytes, via_header=True)
+
+                chunks: list[bytes] = []
+                total = 0
+                while True:
+                    chunk = resp.read(CHUNK_SIZE)
+                    if not chunk:
+                        break
+                    total += len(chunk)
+                    if max_bytes > 0 and total > max_bytes:
+                        raise OversizedDocumentError(total, max_bytes, via_header=False)
+                    chunks.append(chunk)
+                body = b"".join(chunks)
+
+                content_enc = (headers.get("Content-Encoding") or "").strip().lower()
+                if (
+                    expected_len is not None
+                    and content_enc in ("", "identity")
+                    and len(body) < expected_len
+                ):
+                    raise RuntimeError(f"truncated download ({len(body)} < {expected_len} bytes)")
+                return status, headers, body, safe_url, redirect_chain
+
+        raise RuntimeError(f"exceeded max redirects ({MAX_REDIRECTS})")
 
 
 def looks_like_html_error_page(content_type: str, body: bytes) -> bool:
@@ -512,6 +652,7 @@ def load_manifest(path: Path) -> dict:
             "site": SITE,
             "sitemap_url": SITEMAP_URL,
             "documents_page_url": HEADLINE_PAGE,
+            "approved_redirect_prefix": f"https://{APPROVED_REVIZE_HOST}{APPROVED_REVIZE_PREFIX}",
         },
         "generated_at": None,
         "site_map": {
@@ -536,6 +677,9 @@ def load_manifest(path: Path) -> dict:
 
 
 def write_outputs(manifest: dict, manifest_path: Path, markdown_path: Path = Path("MANIFEST.md")) -> None:
+    manifest.setdefault("source", {})[
+        "approved_redirect_prefix"
+    ] = f"https://{APPROVED_REVIZE_HOST}{APPROVED_REVIZE_PREFIX}"
     documents = sorted(manifest.get("documents", []), key=lambda d: normalize_key(d.get("url", "")))
     manifest["documents"] = documents
     manifest["generated_at"] = now_iso()
@@ -563,7 +707,8 @@ def write_outputs(manifest: dict, manifest_path: Path, markdown_path: Path = Pat
         "# Casper, WY — archived documents",
         "",
         f"Generated from [casperwy.gov]({SITE}) via the site sitemaps and the "
-        f"[city council documents page]({HEADLINE_PAGE}).",
+        f"[city council documents page]({HEADLINE_PAGE}) "
+        f"(approved document storage redirect scope: `https://{APPROVED_REVIZE_HOST}{APPROVED_REVIZE_PREFIX}`).",
         "",
         f"- **Sitemaps fetched:** {sm.get('sitemaps_fetched', 0)}",
         f"- **Sitemap `<loc>` entries:** {sm.get('locs_total', 0)}",
@@ -572,7 +717,7 @@ def write_outputs(manifest: dict, manifest_path: Path, markdown_path: Path = Pat
         f"- **HTML pages scanned (sweep total / this run / remaining):** "
         f"{sm.get('html_pages_scanned_total', 0)} / {sm.get('html_pages_scanned_this_run', 0)} / "
         f"{sm.get('html_pages_remaining', 0)}",
-        f"- **Unique casperwy.gov documents discovered:** {sm.get('documents_found', 0)}",
+        f"- **Unique Casper documents discovered:** {sm.get('documents_found', 0)}",
         f"- **Archived documents:** {summary.get('archived', 0)} "
         f"({archived_bytes:,} bytes / {archived_bytes / 1024 / 1024:.2f} MiB)",
         f"- **Needs follow-up run to finish sweep:** {'yes' if rb.get('needs_resume') else 'no'}"
@@ -606,14 +751,14 @@ def write_outputs(manifest: dict, manifest_path: Path, markdown_path: Path = Pat
             if d.get("error"):
                 lines.append(f"  - reason: {d['error']}")
     else:
-        lines.append("None — every discovered casperwy.gov document in scope is archived.")
+        lines.append("None — every discovered Casper document in scope is archived.")
 
     lines += [
         "",
         "## Documents",
         "",
-        "Full provenance (source URL, discovery source, local path, SHA-256, size,",
-        "fetch time, content type) is in [`manifest.json`](manifest.json).",
+        "Full provenance (original city URL, final download URL, discovery source,",
+        "local path, SHA-256, size, fetch time, content type) is in [`manifest.json`](manifest.json).",
         "",
     ]
     by_bucket: dict[str, list[dict]] = {}
@@ -688,17 +833,34 @@ def main(argv: list[str] | None = None) -> int:
         docs_by_key: dict[str, dict] = {}
         buckets_used: dict[str, str] = {}
         discovered: dict[str, dict] = {}
+        requeued_count = 0
 
         for rec in existing_docs:
             u = rec.get("url", "")
             if not u:
                 continue
             key = normalize_key(u)
+            if should_requeue_external_skipped(rec):
+                rec = {
+                    **rec,
+                    "status": "pending",
+                    "error": (
+                        f"requeued under approved https://{APPROVED_REVIZE_HOST}"
+                        f"{APPROVED_REVIZE_PREFIX} redirect rule"
+                    ),
+                }
+                requeued_count += 1
             docs_by_key[key] = rec
             if rec.get("status") == "archived" and rec.get("local_path") and Path(rec["local_path"]).exists():
                 buckets_used[rec["local_path"]] = key
             if is_document_url(u):
                 discovered[key] = {"url": u, "source": rec.get("source", "manifest")}
+
+        if requeued_count:
+            print(
+                f"[*] Requeued {requeued_count} previously external_skipped entries "
+                f"qualifying under https://{APPROVED_REVIZE_HOST}{APPROVED_REVIZE_PREFIX}"
+            )
 
         prior_state = manifest.get("crawl_state") if isinstance(manifest.get("crawl_state"), dict) else {}
         resuming_partial_sweep = (
@@ -736,26 +898,25 @@ def main(argv: list[str] | None = None) -> int:
             return stop_reason
 
         def register_candidate_url(raw_url: str, source: str, base_url: str) -> bool:
-            """Return True if a new casperwy.gov document was added."""
+            """Return True if a new in-scope Casper document was added."""
             if not raw_url:
                 return False
             cleaned = raw_url.strip().strip("\"'<>\t\r\n")
             if not cleaned or cleaned.lower().startswith(SKIP_SCHEMES) or cleaned.startswith("#"):
                 return False
             resolved = urllib.parse.urljoin(base_url, cleaned)
-            # Drop URL fragments.
             sp = urllib.parse.urlsplit(resolved)
             resolved = urllib.parse.urlunsplit((sp.scheme, sp.netloc, sp.path, sp.query, ""))
             if not re.match(r"^https?://", resolved, re.I):
                 return False
             if has_doc_extension(resolved):
                 key = normalize_key(resolved)
-                if is_casper_host(sp.netloc):
+                if is_casper_host(sp.netloc) or is_approved_revize_casper_url(resolved):
                     is_new = key not in discovered
                     if is_new:
                         discovered[key] = {"url": resolved, "source": source}
                     return is_new
-                # External document link: record once without ever requesting it.
+                # Unapproved external document link: record once without ever requesting it.
                 if key not in docs_by_key:
                     docs_by_key[key] = {
                         "url": resolved,
@@ -786,16 +947,17 @@ def main(argv: list[str] | None = None) -> int:
 
             while sitemap_queue and not check_budget():
                 sm_url = sitemap_queue.popleft()
-                if not client.robots_allowed(sm_url):
+                if not client.robots_allowed(sm_url, allow_approved_revize=False):
                     sitemap_errors.append(f"{sm_url}: disallowed by robots.txt")
                     continue
                 print(f"[*] Fetching sitemap {sm_url}")
                 try:
-                    _, _, sm_bytes, final_sm_url = client.fetch_raw(
+                    _, _, sm_bytes, final_sm_url, _ = client.fetch_raw(
                         sm_url,
                         max_bytes=MAX_SITEMAP_BYTES,
                         timeout=60,
                         accept="application/xml,text/xml,*/*;q=0.8",
+                        allow_approved_revize=False,
                     )
                     sitemaps_fetched += 1
                     xml_text = decode_xml_bytes(sm_bytes)
@@ -838,7 +1000,7 @@ def main(argv: list[str] | None = None) -> int:
                                 sitemap_non_doc_skipped += 1
                         print(
                             f"[*] Sitemap {sm_label}: {len(locs)} URLs "
-                            f"({len(discovered)} casperwy.gov documents, {len(html_pages_ordered)} HTML pages queued so far)"
+                            f"({len(discovered)} Casper documents, {len(html_pages_ordered)} HTML pages queued so far)"
                         )
                 except Exception as exc:
                     msg = f"{sm_url}: {exc}"
@@ -850,21 +1012,22 @@ def main(argv: list[str] | None = None) -> int:
         page_scan_errors: list[str] = []
 
         def scan_html_page(page_url: str, source_label: str) -> list[str]:
-            """Fetch an HTML page politely, extract document links, never save HTML."""
+            """Fetch an HTML page on casperwy.gov politely, extract document links, never save HTML."""
             nonlocal pages_scanned_this_run
             newly_added_keys: list[str] = []
             p_key = normalize_page_key(page_url)
-            if not client.robots_allowed(page_url):
+            if not client.robots_allowed(page_url, allow_approved_revize=False):
                 print(f"[robots] Disallowed HTML page — skipping {page_url}")
                 scanned_pages.add(p_key)
                 return newly_added_keys
             print(f"[*] Scanning page {page_url}")
             try:
-                _, headers, body, final_url = client.fetch_raw(
+                _, headers, body, final_url, _ = client.fetch_raw(
                     page_url,
                     max_bytes=MAX_HTML_BYTES,
                     timeout=45,
                     accept="text/html,application/xhtml+xml;q=0.9,*/*;q=0.1",
+                    allow_approved_revize=False,
                     html_only=True,
                 )
                 pages_scanned_this_run += 1
@@ -893,8 +1056,6 @@ def main(argv: list[str] | None = None) -> int:
                     register_candidate_url(raw_href, source_label, effective_base)
                 newly_added_keys = sorted(set(discovered.keys()) - before_keys)
             except Exception as exc:
-                # Mark attempted in this sweep so a single broken 404 page does not block progress,
-                # while recording the error transparently.
                 scanned_pages.add(p_key)
                 err_msg = f"{page_url}: {exc}"
                 print(f"[!] Page scan failed ({err_msg})")
@@ -904,7 +1065,7 @@ def main(argv: list[str] | None = None) -> int:
         # ---- 2. Explicit seed: City Council documents page ----
         if not check_budget():
             scan_html_page(HEADLINE_PAGE, "documents.php")
-            print(f"[*] After council documents page: {len(discovered)} unique casperwy.gov documents known")
+            print(f"[*] After council documents page: {len(discovered)} unique Casper documents known")
 
         # ---- Helper: download one discovered document ----
         checkpoint_counter = 0
@@ -957,7 +1118,7 @@ def main(argv: list[str] | None = None) -> int:
                 return
 
             tried_this_run.add(key)
-            if not client.robots_allowed(url):
+            if not client.robots_allowed(url, allow_approved_revize=True):
                 print(f"[robots] Disallowed — skipping {url}")
                 docs_by_key[key] = {
                     "url": url,
@@ -970,11 +1131,12 @@ def main(argv: list[str] | None = None) -> int:
 
             print(f"[*] Downloading {url}")
             try:
-                _, headers, body, final_url = client.fetch_raw(
+                _, headers, body, final_url, redirect_chain = client.fetch_raw(
                     url,
                     max_bytes=args.max_bytes,
                     timeout=90,
                     accept="*/*",
+                    allow_approved_revize=True,
                 )
                 ctype = headers.get("Content-Type", "")
                 if looks_like_html_error_page(ctype, body):
@@ -984,9 +1146,9 @@ def main(argv: list[str] | None = None) -> int:
                 target = Path(local)
                 target.parent.mkdir(parents=True, exist_ok=True)
                 target.write_bytes(body)
-                docs_by_key[key] = {
+                record = {
                     "url": url,
-                    "final_url": final_url if final_url != safe_request_url(url) else url,
+                    "final_url": final_url,
                     "local_path": local,
                     "bytes": content_len,
                     "sha256": hashlib.sha256(body).hexdigest(),
@@ -995,6 +1157,9 @@ def main(argv: list[str] | None = None) -> int:
                     "fetched_at": now_iso(),
                     "source": entry["source"],
                 }
+                if redirect_chain:
+                    record["redirect_chain"] = redirect_chain
+                docs_by_key[key] = record
                 new_count += 1
                 new_bytes += content_len
             except OversizedDocumentError as exc:
@@ -1035,7 +1200,7 @@ def main(argv: list[str] | None = None) -> int:
                 rem = sum(1 for p in html_pages_ordered if normalize_page_key(p) not in scanned_pages)
                 save_checkpoint(rem)
 
-        # ---- 3. Dry-run shortcut ( optionally scans pages if no download ) ----
+        # ---- 3. Dry-run shortcut ----
         if args.dry_run:
             if not args.headline_only and not args.no_page_scan:
                 for p_url in html_pages_ordered:
@@ -1051,11 +1216,11 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"[dry-run] {entry['url']}{suffix}")
             return 0
 
-        # ---- 4. Download already-discovered pending documents first (sitemaps + council page + prior pending) ----
+        # ---- 4. Download already-discovered pending documents first ----
         for key in sorted(discovered.keys()):
             process_document_key(key, retry_failed=False)
 
-        # ---- 5. Scan remaining sitemap HTML pages & download newly discovered documents as we go ----
+        # ---- 5. Scan remaining sitemap HTML pages & download newly discovered documents ----
         if not args.headline_only and not args.no_page_scan:
             for p_url in html_pages_ordered:
                 if check_budget():
@@ -1119,6 +1284,7 @@ def main(argv: list[str] | None = None) -> int:
             "max_run_bytes": args.max_run_bytes,
             "elapsed_seconds": round(time.monotonic() - start_mono, 1),
             "requests_made": client.requests_made,
+            "requeued_external_skipped": requeued_count,
             "new_documents_archived": new_count,
             "new_bytes_archived": new_bytes,
             "skipped_already_archived": skipped_count,
@@ -1134,7 +1300,7 @@ def main(argv: list[str] | None = None) -> int:
         write_outputs(manifest, manifest_path, markdown_path)
 
         print(
-            f"[done] new={new_count} ({new_bytes / 1024 / 1024:.2f} MiB) "
+            f"[done] requeued={requeued_count} new={new_count} ({new_bytes / 1024 / 1024:.2f} MiB) "
             f"skipped={skipped_count} requests={client.requests_made} "
             f"pages_remaining={pages_remaining} pending_docs={pending_remaining} "
             f"needs_resume={not sweep_complete}"

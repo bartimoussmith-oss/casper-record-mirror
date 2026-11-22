@@ -1,1680 +1,1680 @@
 # Casper, WY — archived documents
 
-Generated from [casperwy.gov](https://www.casperwy.gov) via the site sitemaps and the [city council documents page](https://www.casperwy.gov/government/city_council/documents.php).
+Generated from [casperwy.gov](https://www.casperwy.gov) via the site sitemaps and the [city council documents page](https://www.casperwy.gov/government/city_council/documents.php) (approved document storage redirect scope: `https://cms2.revize.com/revize/casperwy/`).
 
 - **Sitemaps fetched:** 1
 - **Sitemap `<loc>` entries:** 691
 - **Direct document `<loc>` entries in sitemaps:** 287
 - **Sitemap HTML pages queued:** 290
-- **HTML pages scanned (sweep total / this run / remaining):** 5 / 5 / 285
-- **Unique casperwy.gov documents discovered:** 1515
+- **HTML pages scanned (sweep total / this run / remaining):** 5 / 1 / 285
+- **Unique Casper documents discovered:** 1515
 - **Archived documents:** 0 (0 bytes / 0.00 MiB)
 - **Needs follow-up run to finish sweep:** yes (max_seconds_reached (2700s))
-- **Archive run:** 2026-11-21T23:34:32+00:00
+- **Archive run:** 2026-11-22T03:13:16+00:00
 
 ## Summary
 
 | Status | Count |
 | --- | --- |
-| external_skipped | 878 |
-| pending | 637 |
+| pending | 688 |
+| robots_refused | 827 |
 
 ## Not archived
 
-- **external_skipped** — https://www.casperwy.gov/01-08-25 Special Work Session Minutes.pdf?t=202602051126110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/01-08-25%20Special%20Work%20Session%20Minutes.pdf?t=202602051126110
-- **external_skipped** — https://www.casperwy.gov/01-13-26 Special Meeting Minutes.pdf?t=202602021428010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/01-13-26%20Special%20Meeting%20Minutes.pdf?t=202602021428010
-- **external_skipped** — https://www.casperwy.gov/02-02-26 Legislative Dinner Agenda.pdf?t=202601301503400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/02-02-26%20Legislative%20Dinner%20Agenda.pdf?t=202601301503400
-- **external_skipped** — https://www.casperwy.gov/02-08-24 Special Work Session Minutes.pdf?t=202602051746130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/02-08-24%20Special%20Work%20Session%20Minutes.pdf?t=202602051746130
-- **external_skipped** — https://www.casperwy.gov/1-13-26 Special Council Meeting Agenda.pdf?t=202601091531540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/1-13-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202601091531540
-- **external_skipped** — https://www.casperwy.gov/12-30-25 Special Council Meeting Agenda.pdf?t=202512261416410
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/12-30-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202512261416410
-- **external_skipped** — https://www.casperwy.gov/12-30-25 Special Meeting Minutes.pdf?t=202602021427220
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/12-30-25%20Special%20Meeting%20Minutes.pdf?t=202602021427220
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New 53' Box Van Trailer.docx?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%2053'%20Box%20Van%20Trailer.docx?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New Compact Pickup Truck.doc?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20Compact%20Pickup%20Truck.doc?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New One-Ton Crew Cab Pickup Truck.docx?t=202508261044040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20One-Ton%20Crew%20Cab%20Pickup%20Truck.docx?t=202508261044040
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New Rear-Loading, 20 yard, Sanitation Truck.docx?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20Rear-Loading,%2020%20yard,%20Sanitation%20Truck.docx?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/RFP Tree Lighting Services 2025.pdf?t=202508221259500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/RFP%20Tree%20Lighting%20Services%202025.pdf?t=202508221259500
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/Six (6) New 19,000 lb. Portable Lifts.doc?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Six%20(6)%20New%2019,000%20lb.%20Portable%20Lifts.doc?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/TRIB AD FOR Homax Oil Sales.rtf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/TRIB%20AD%20FOR%20Homax%20Oil%20Sales.rtf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/TRIB AD FOR JJM HYT CPR Hospitality.rtf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/TRIB%20AD%20FOR%20JJM%20HYT%20CPR%20Hospitality.rtf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/Two (2) New Front-Loading Sanitation Trucks.docx?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Two%20(2)%20New%20Front-Loading%20Sanitation%20Trucks.docx?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Bids/Two (2) New Side-Loading, 27 yard, Sanitation Trucks.docx?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Two%20(2)%20New%20Side-Loading,%2027%20yard,%20Sanitation%20Trucks.docx?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Fee Schedules/Resolution No. 17-220 Community Development Fee Schedule.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Fee%20Schedules/Resolution%20No.%2017-220%20Community%20Development%20Fee%20Schedule.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Business/Fee Schedules/Resolution No. 18-96 Wireless Communications Facilities Application Fees.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Business/Fee%20Schedules/Resolution%20No.%2018-96%20Wireless%20Communications%20Facilities%20Application%20Fees.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/HistoricalWalkingTour_03-19-2024.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/HistoricalWalkingTour_03-19-2024.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/Monuments & Markers Tour.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/Monuments%20&%20Markers%20Tour.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/South Wolcott Historic District Tour.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/South%20Wolcott%20Historic%20District%20Tour.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/CCPD Application Form - blank FILLABLE 08 17 2022.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/CCPD%20Application%20Form%20-%20blank%20FILLABLE%2008%2017%202022.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Civil Service Commission/title15.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Civil%20Service%20Commission/title15.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Council of People with Disabilities/CCPD Bylaws 10.28.24.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Council%20of%20People%20with%20Disabilities/CCPD%20Bylaws%2010.28.24.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee Application (fillable).pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee%20Application%20(fillable).pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Copy of NDO Flyers Print.pdf ( Flyer (5.5 x 8.5))-4.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Copy%20of%20NDO%20Flyers%20Print.pdf%20(%20Flyer%20(5.5%20x%208.5))-4.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Copy of NDO Flyers Print.pdf ( Flyer (5.5 x 8.5))-5.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Copy%20of%20NDO%20Flyers%20Print.pdf%20(%20Flyer%20(5.5%20x%208.5))-5.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Non-Discrimination Policies.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Non-Discrimination%20Policies.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Planning and Zoning Commission/2025/2025 P and Z Meetings.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Planning%20and%20Zoning%20Commission/2025/2025%20P%20and%20Z%20Meetings.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/01-05-21 Agenda.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/01-05-21%20Agenda.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/01-19-21 Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/01-19-21%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-02-21 Agenda - updated 2-1.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-02-21%20Agenda%20-%20updated%202-1.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-02-21 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-02-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-09-21 Work Session Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-09-21%20Work%20Session%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-16-21 Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-16-21%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-02-21 Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-02-21%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-09-21 Work Session Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-09-21%20Work%20Session%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-16-21 Agenda- Updated (2).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-16-21%20Agenda-%20Updated%20(2).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/04-06-21 Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/04-06-21%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/04-20-21 Agenda - Updated 4-20.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/04-20-21%20Agenda%20-%20Updated%204-20.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-04-21 Agenda- updated 5-3.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-04-21%20Agenda-%20updated%205-3.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-17-21 Special Work Session Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-17-21%20Special%20Work%20Session%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-18-21 Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-18-21%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-19-21 Special Work Session Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-19-21%20Special%20Work%20Session%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-25-21 Special Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-25-21%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/06-01-21 Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/06-01-21%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/06-15-21 Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/06-15-21%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-06-21 Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-06-21%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-20-21 Agenda- updated.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-20-21%20Agenda-%20updated.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-27-21 Special Council Meeting Agenda (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-27-21%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/08-03-21 Agenda- Updated 8-2.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/08-03-21%20Agenda-%20Updated%208-2.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/08-17-21 Agenda- Updated.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/08-17-21%20Agenda-%20Updated.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-07-21 Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-07-21%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-14-21 Special Council Meeting Agenda (Interviews).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-14-21%20Special%20Council%20Meeting%20Agenda%20(Interviews).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-21-21 Agenda- Updated 9-20.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-21-21%20Agenda-%20Updated%209-20.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-05-21 Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-05-21%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-12-21 Special Council Meeting Agenda (Updated 2).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-12-21%20Special%20Council%20Meeting%20Agenda%20(Updated%202).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-19-21 Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-19-21%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-02-21 Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-02-21%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-09-21 Special Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-09-21%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-16-21 Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-16-21%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-07-21 Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-07-21%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-14-21 Special Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-14-21%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-21-21 Agenda- Updated.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-21-21%20Agenda-%20Updated.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/01-05-21 Minutes.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/01-05-21%20Minutes.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/01-19-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/01-19-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-02-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-02-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-09-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-09-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-16-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-16-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-23-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-23-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/03-02-21 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/03-02-21%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/03-16-21 Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/03-16-21%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-06-21 Minutes .pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-06-21%20Minutes%20.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-20-21 Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-20-21%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-27-21 Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-27-21%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-04-21 Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-04-21%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-17-21 Special Work Session Minutes (Budget).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-17-21%20Special%20Work%20Session%20Minutes%20(Budget).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-18-21 Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-18-21%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-25-21 Special Meeting Minutes (1).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-25-21%20Special%20Meeting%20Minutes%20(1).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/06-01-21 Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/06-01-21%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/06-15-21 Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/06-15-21%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-06-21 Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-06-21%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-20-21 Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-20-21%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-27-21 Special Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-27-21%20Special%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/08-03-21 Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/08-03-21%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/08-17-21 Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/08-17-21%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-07-21 Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-07-21%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-14-21 Special Session Minutes (Ward I Interviews).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-14-21%20Special%20Session%20Minutes%20(Ward%20I%20Interviews).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-21-21 Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-21-21%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-05-21 Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-05-21%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-12-21 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-12-21%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-19-21 Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-19-21%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-02-21 Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-02-21%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-09-21 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-09-21%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-16-21 Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-16-21%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-07-21 Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-07-21%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-14-21 Special Council Meeting Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-14-21%20Special%20Council%20Meeting%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-21-21 Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-21-21%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/01-05-21 Packet- Updated Jan. 5.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/01-05-21%20Packet-%20Updated%20Jan.%205.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/01-19-21 Packet- Updated Jan. 18.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/01-19-21%20Packet-%20Updated%20Jan.%2018.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/02-02-21 Packet- updated 2-1.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/02-02-21%20Packet-%20updated%202-1.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/02-16-21 Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/02-16-21%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-02-21 Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-02-21%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-09-21 Work Session Packet.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-09-21%20Work%20Session%20Packet.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-16-21 Packet- Updated 3-16 (3).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-16-21%20Packet-%20Updated%203-16%20(3).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/04-06-21 Packet.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/04-06-21%20Packet.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/04-20-21 Packet - Updated 4-20.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/04-20-21%20Packet%20-%20Updated%204-20.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-04-21 Packet- updated 5-3.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-04-21%20Packet-%20updated%205-3.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-17-21 Special Work Session Packet (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-17-21%20Special%20Work%20Session%20Packet%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-18-21 Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-18-21%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-25-21 Special Council Meeting Packet (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-25-21%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/06-01-21 Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/06-01-21%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/06-15-21 Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/06-15-21%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-06-21 Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-06-21%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-20-21 Packet- updated final.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-20-21%20Packet-%20updated%20final.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-27-21 Special Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-27-21%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/08-03-21 Packet- Updated 8-2.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/08-03-21%20Packet-%20Updated%208-2.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/08-17-21 Packet- Updated.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/08-17-21%20Packet-%20Updated.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/09-07-21 Packet.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/09-07-21%20Packet.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/09-21-21 Packet- Updated 9-21.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/09-21-21%20Packet-%20Updated%209-21.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/10-05-21 Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/10-05-21%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/10-19-21 Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/10-19-21%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/11-02-21 Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/11-02-21%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/11-16-21 Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/11-16-21%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-07-21 Packet.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-07-21%20Packet.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-14-21 Special Council Meeting Packet.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-14-21%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-21-21 Packet- Updated.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-21-21%20Packet-%20Updated.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-04-22 Council Meeting Agenda - Updated 1-3.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-04-22%20Council%20Meeting%20Agenda%20-%20Updated%201-3.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-11-22 Work Session Agenda.pdf?t=202509191132210
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-11-22%20Work%20Session%20Agenda.pdf?t=202509191132210
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-18-22 Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-18-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-25-22 Work Session Agenda.pdf?t=202509191131260
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-25-22%20Work%20Session%20Agenda.pdf?t=202509191131260
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-01-22 Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-15-22 Council Meeting Agenda- Updated 2-15.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-15-22%20Council%20Meeting%20Agenda-%20Updated%202-15.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-22-22 Work Session  Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-22-22%20Work%20Session%20%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/03-01-22 Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/03-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/03-15-22 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/03-15-22%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-05-2022 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-05-2022%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-19-2022 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-19-2022%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-26-22 Special Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-26-22%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-03-22 Council Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-03-22%20Council%20Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-17-22 Council Meeting Agenda - updated 3.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-17-22%20Council%20Meeting%20Agenda%20-%20updated%203.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-31-22 Work Session Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-31-22%20Work%20Session%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/06-07-22 Council Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/06-07-22%20Council%20Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/06-21-22 Council Meeting Agenda - updated.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/06-21-22%20Council%20Meeting%20Agenda%20-%20updated.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-05-22 Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-05-22%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-19-22 Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-19-22%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-26-22 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-26-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-02-22 Council Meeting Agenda (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-02-22%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-09-22 Special Council Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-09-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-16-22 Council Meeting Agenda Final.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-16-22%20Council%20Meeting%20Agenda%20Final.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/09-06-22 Council Meeting Agenda (Version 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/09-06-22%20Council%20Meeting%20Agenda%20(Version%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/09-20-22 Council Meeting Agenda (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/09-20-22%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-04-22 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-04-22%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-18-22 Council Meeting Agenda - updated 2.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-18-22%20Council%20Meeting%20Agenda%20-%20updated%202.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-25-22 Special Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-25-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-01-22 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-15-22 Council Meeting Agenda - updated 3.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-15-22%20Council%20Meeting%20Agenda%20-%20updated%203.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-8-22 Special Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-8-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-06-22 Council Meeting Agenda (2).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-06-22%20Council%20Meeting%20Agenda%20(2).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-13-22 Special Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-13-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-20-22 Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-20-22%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-04-22 Council Meeting Minutes final.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-04-22%20Council%20Meeting%20Minutes%20final.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-11-22 Work Session Minutes - final.pdf?t=202509191133550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-11-22%20Work%20Session%20Minutes%20-%20final.pdf?t=202509191133550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-18-22 Council Meeting Minutes final.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-18-22%20Council%20Meeting%20Minutes%20final.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-01-22 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-01-22%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-08-22 Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-08-22%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-15-22 Council Meeting Minutes - final.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-15-22%20Council%20Meeting%20Minutes%20-%20final.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/03-01-22 Council Meeting Minutes - final.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/03-01-22%20Council%20Meeting%20Minutes%20-%20final.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/03-15-22 Council Meeting Minutes (final).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/03-15-22%20Council%20Meeting%20Minutes%20(final).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-05-22 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-05-22%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-19-22 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-19-22%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-26-22 Special Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-26-22%20Special%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/05-03-22 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/05-03-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/05-17-22 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/05-17-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/06-07-22 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/06-07-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/06-21-22 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/06-21-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-05-22 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-05-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-19-22 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-19-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-26-22 Special Meeting Minutes.docx?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-26-22%20Special%20Meeting%20Minutes.docx?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-02-22 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-02-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-09-22 Special Meeting Minutes.docx?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-09-22%20Special%20Meeting%20Minutes.docx?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-16-22 Council Meeting Minutes - Updated.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-16-22%20Council%20Meeting%20Minutes%20-%20Updated.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/09-06-22 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/09-06-22%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/09-20-22 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/09-20-22%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-04-22 Council Meeting Minutes.pdf?t=202611181720070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-04-22%20Council%20Meeting%20Minutes.pdf?t=202611181720070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-04-22 Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-04-22%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-18-22 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-18-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-25-22 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-25-22%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-01-22 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-01-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-08-22 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-08-22%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-15-22 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-15-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-06-22 Council Meeting Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-06-22%20Council%20Meeting%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-13-22 Special Meeting Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-13-22%20Special%20Meeting%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-20-22 Council Meeting Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-20-22%20Council%20Meeting%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-04-22 Council Meeting Packet - Updated 1-3 (223).pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-04-22%20Council%20Meeting%20Packet%20-%20Updated%201-3%20(223).pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-11-22 Work Session Packet- Updated 1-10.pdf?t=202509191132430
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-11-22%20Work%20Session%20Packet-%20Updated%201-10.pdf?t=202509191132430
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-18-22 Council Meeting Packet- Updated.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-18-22%20Council%20Meeting%20Packet-%20Updated.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-25-22 Work Session Packet.pdf?t=202509191130130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-25-22%20Work%20Session%20Packet.pdf?t=202509191130130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-01-22 Council Meeting Packet - Updated 1-31.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-01-22%20Council%20Meeting%20Packet%20-%20Updated%201-31.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-08-22 Work Session Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-08-22%20Work%20Session%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-15-22 Council Meeting Packet- Updated 2-15.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-15-22%20Council%20Meeting%20Packet-%20Updated%202-15.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/03-01-22 Council Meeting Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/03-01-22%20Council%20Meeting%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/03-15-22 Council Meeting Packet (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/03-15-22%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-05-2022 Council Meeting Packet (updated 3).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-05-2022%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-19-22 Council Meeting Packet (updated 3).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-19-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-26-22 Special Council Meeting Packet (updated 2).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-26-22%20Special%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/05-03-22 Council Meeting Packet final gaming.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/05-03-22%20Council%20Meeting%20Packet%20final%20gaming.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/05-17-22 Council Meeting Packet - updated 5.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/05-17-22%20Council%20Meeting%20Packet%20-%20updated%205.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/06-07-22 Council Meeting Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/06-07-22%20Council%20Meeting%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/06-21-22 Council Meeting Packet (updated 3).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/06-21-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/07-05-22 Council Meeting Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/07-05-22%20Council%20Meeting%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/07-19-22 Council Meeting Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/07-19-22%20Council%20Meeting%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-02-22 Council Meeting Packet (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-02-22%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-16-2022 Council Meeting Packet Final.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-16-2022%20Council%20Meeting%20Packet%20Final.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-23-22 Work Session Packet.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-23-22%20Work%20Session%20Packet.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-06-22 Council Meeting Packet (Version 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-06-22%20Council%20Meeting%20Packet%20(Version%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-20-22 Council Meeting Packet (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-20-22%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-27-22 Work Session Packet.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-27-22%20Work%20Session%20Packet.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/10-18-22 Council Meeting Packet - updated 2 (1).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/10-18-22%20Council%20Meeting%20Packet%20-%20updated%202%20(1).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/11-01-22 Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/11-01-22%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/11-15-22 Council Meeting Packet (updated 3).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/11-15-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/12-06-22  Council Meeting Packet (3).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/12-06-22%20%20Council%20Meeting%20Packet%20(3).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/01-03-23 Council Meeting Agenda.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/01-03-23%20Council%20Meeting%20Agenda.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/01-17-23 Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/01-17-23%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-06-23 Strategic Planning Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-06-23%20Strategic%20Planning%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-07-23 Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-07-23%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-14-23 Work Session Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-14-23%20Work%20Session%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-21-23 Council Meeting Agenda - updated.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-21-23%20Council%20Meeting%20Agenda%20-%20updated.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-28-23 Work Session Agenda - updated.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-28-23%20Work%20Session%20Agenda%20-%20updated.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-07-23 Council Meeting Agenda updated 2.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-07-23%20Council%20Meeting%20Agenda%20updated%202.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-21-23 Council Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-21-23%20Council%20Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-30-23 Special Council Meeting Agenda updated.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-30-23%20Special%20Council%20Meeting%20Agenda%20updated.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/04-04-23 Council Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/04-04-23%20Council%20Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/04-18-23 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/04-18-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-02-23 Council Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-02-23%20Council%20Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-16-23 Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-16-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-23-23 Budget Work Session Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-23-23%20Budget%20Work%20Session%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-24-23 Special Budget Work Session Agenda (updated 2).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-24-23%20Special%20Budget%20Work%20Session%20Agenda%20(updated%202).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/06-06-23 Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/06-06-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/06-20-23 Council Meeting Agenda (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/06-20-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/07-05-23 Council Meeting Agenda (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/07-05-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/07-18-23 Council Meeting Agenda (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/07-18-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/08-01-23 Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/08-01-23%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/08-15-23 Council Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/08-15-23%20Council%20Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-05-23 Council Meeting Agenda (UPDATE 1).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-05-23%20Council%20Meeting%20Agenda%20(UPDATE%201).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-12-23 Special Council Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-12-23%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-19-23 Council Meeting Agenda (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-19-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-22-2023 Special Council Meeting Agenda (updated).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-22-2023%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-03-23 Council Meeting Agenda (updated 3).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-03-23%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-17-23 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-17-23%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-24-23 Special Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-24-23%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-07-23 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-07-23%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-21-23 Council Meeting Agenda (updated).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-21-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-28-2023 Special Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-28-2023%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/12-05-23 Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/12-05-23%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/12-19-23 Council Meeting Agenda (updated 5).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/12-19-23%20Council%20Meeting%20Agenda%20(updated%205).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/01-03-23 Council Meeting Minutes.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/01-03-23%20Council%20Meeting%20Minutes.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/01-17-23 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/01-17-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-07-23 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-14-23 Work Session Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-14-23%20Work%20Session%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-21-23 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-07-23 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-21-23 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-30-23 Special Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-30-23%20Special%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/04-04-23 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/04-04-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/04-18-23 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/04-18-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/05-02-23 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/05-02-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/05-16-23 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/05-16-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-06-23 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-06-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-16-23 Emergency Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-16-23%20Emergency%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-20-23 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-20-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/07-05-23 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/07-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/07-18-23 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/07-18-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/08-01-23 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/08-01-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/08-15-23 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/08-15-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-05-23 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-12-23 Special Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-12-23%20Special%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-19-23 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-19-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-22-23 Special Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-22-23%20Special%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-03-23 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-03-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-17-23 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-17-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-24-23 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-24-23%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-07-23 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-21-23 Council Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-28-23 Special Meeting Minutes.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-28-23%20Special%20Meeting%20Minutes.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/12-05-23 Council Meeting Minutes.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/12-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/12-19-23 Council Meeting Minutes (1).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/12-19-23%20Council%20Meeting%20Minutes%20(1).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/May 24, 2023 Special Budget Session Minutes.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/May%2024,%202023%20Special%20Budget%20Session%20Minutes.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/01-03-23 Council Meeting Packet.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/01-03-23%20Council%20Meeting%20Packet.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/01-17-23 Council Meeting Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/01-17-23%20Council%20Meeting%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-06-23 - Special Work Session - Strategic Planning Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-06-23%20-%20Special%20Work%20Session%20-%20Strategic%20Planning%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-07-23 Council Meeting Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-07-23%20Council%20Meeting%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-21-23 Council Meeting Packet - updated 2.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-21-23%20Council%20Meeting%20Packet%20-%20updated%202.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-07-23 Council Meeting Packet updated 2.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-07-23%20Council%20Meeting%20Packet%20updated%202.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-21-23 Council Meeting Packet - updated 2.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-21-23%20Council%20Meeting%20Packet%20-%20updated%202.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-30-23 Special Council Meeting Packet (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-30-23%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/04-04-23 Council Meeting Packet (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/04-04-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/04-18-23 Council Meeting Packet (updated 2).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/04-18-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-02-23 Council Meeting Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-02-23%20Council%20Meeting%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-16-23 Council Meeting Packet (updated 2).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-16-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-23-23 Budget Work Session Packet.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-23-23%20Budget%20Work%20Session%20Packet.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-24-23 Special Budget Work Session Packet (4).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-24-23%20Special%20Budget%20Work%20Session%20Packet%20(4).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/06-06-23 Council Meeting Packet (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/06-06-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/06-20-23 Council Meeting Packet (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/06-20-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/07-05-23 Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/07-05-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/07-18-23 Council Meeting Packet (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/07-18-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/08-01-23 Council Meeting Packet (updated 3).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/08-01-23%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/08-15-23 Council Meeting Packet ( Small Final.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/08-15-23%20Council%20Meeting%20Packet%20(%20Small%20Final.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/09-05-23 Council Meeting Packet.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/09-05-23%20Council%20Meeting%20Packet.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/09-19-23 Council Meeting Packet (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/09-19-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-03-23 Council Meeting Packet (updated 3).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-03-23%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-17-23 Council Meeting Packet (Updated).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-17-23%20Council%20Meeting%20Packet%20(Updated).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-24-23 Special Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-24-23%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/11-07-23 Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/11-07-23%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/11-21-23 Council Meeting Packet (updated).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/11-21-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/12-05-23 Council Meeting Packet (updated).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/12-05-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/12-19-23 Council Meeting Packet (updated 5) (1).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/12-19-23%20Council%20Meeting%20Packet%20(updated%205)%20(1).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/6.2023 emergency declaration.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/6.2023%20emergency%20declaration.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-02-24 Council Meeting Agenda.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-02-24%20Council%20Meeting%20Agenda.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-16-24 Council Meeting Agenda (updated 3).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-16-24%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-23-24 Special Council Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-23-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-06-24 Council Meeting Agenda (updated).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-06-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-08-24 Special Work Session Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-08-24%20Special%20Work%20Session%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-20-24 Council Meeting Agenda (updated).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-20-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-05-24 Council Meeting Agenda (updated 2).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-05-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-12-24 Special Council Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-12-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-19-24 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-19-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-26-24 Special Council Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-26-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/04-02-24 Council Meeting Agenda (updated 2).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/04-02-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/04-16-24 Council Meeting Agenda (Updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/04-16-24%20Council%20Meeting%20Agenda%20(Updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-07-24 Council Meeting Agenda (updated).pdf?t=202510021608270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-07-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202510021608270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-21-24 Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-21-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-28-24 Budget Work Session Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-28-24%20Budget%20Work%20Session%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-04-24 Council Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-04-24%20Council%20Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-11-24 Special Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-11-24%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-18-24 Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-18-24%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-02-24 Council Meeting Agenda (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-02-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-16-24 Council Meeting Agenda (Updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-16-24%20Council%20Meeting%20Agenda%20(Updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-23-24 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-23-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/08-06-24 Council Meeting Agenda (updated).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/08-06-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/08-20-24 Council Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/08-20-24%20Council%20Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/09-03-24 Council Meeting Agenda (updated).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/09-03-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/09-17-24 Council Meeting Agenda (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/09-17-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-01-24 Council Meeting Agenda (updated 2).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-01-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-08-24 Special Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-08-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-15-24 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-15-24%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/11-05-24 Council Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/11-05-24%20Council%20Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/12-03-24 Council Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/12-03-24%20Council%20Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/12-17-24 Council Meeting Agenda (final 3).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/12-17-24%20Council%20Meeting%20Agenda%20(final%203).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-02-24 Council Meeting Minutes (updated).pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-02-24%20Council%20Meeting%20Minutes%20(updated).pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-16-24 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-23-24  Special Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-23-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/02-06-24 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/02-06-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/02-20-24 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/02-20-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-05-24 Council Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-05-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-12-24  Special Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-12-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-19-24 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-19-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-26-24  Special Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-26-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/04-02-24 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/04-02-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/04-16-24 Council Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/04-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/05-07-24 Council Meeting Minutes.pdf?t=202510021608370
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/05-07-24%20Council%20Meeting%20Minutes.pdf?t=202510021608370
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/05-21-24 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/05-21-24%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-04-24 Council Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-04-24%20Council%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-11-24  Special Meeting Minutes.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-11-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-18-24 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-18-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-02-24 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-02-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-16-24 Council Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-23-24 Special Meeting Minutes.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-23-24%20Special%20Meeting%20Minutes.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/08-06-24 Council Meeting Minutes.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/08-06-24%20Council%20Meeting%20Minutes.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/08-20-24 Council Meeting Minutes.pdf?t=202508201324430
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/08-20-24%20Council%20Meeting%20Minutes.pdf?t=202508201324430
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/09-03-24 Council Meeting Minutes.pdf?t=202508201325110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/09-03-24%20Council%20Meeting%20Minutes.pdf?t=202508201325110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/09-17-24 Council Meeting Minutes.pdf?t=202508201325420
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/09-17-24%20Council%20Meeting%20Minutes.pdf?t=202508201325420
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-01-24 Council Meeting Minutes.pdf?t=202508201337270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-01-24%20Council%20Meeting%20Minutes.pdf?t=202508201337270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-08-24 Special Meeting Minutes.pdf?t=202509181744300
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-08-24%20Special%20Meeting%20Minutes.pdf?t=202509181744300
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-15-24 Council Meeting Minutes.pdf?t=202508201401370
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-15-24%20Council%20Meeting%20Minutes.pdf?t=202508201401370
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/11-05-24 Council Meeting Minutes.pdf?t=202508201402480
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/11-05-24%20Council%20Meeting%20Minutes.pdf?t=202508201402480
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/11-19-24 Council Meeting Minutes.pdf?t=202508201404000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/11-19-24%20Council%20Meeting%20Minutes.pdf?t=202508201404000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/12-03-24 Council Meeting Minutes.pdf?t=202508201404310
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/12-03-24%20Council%20Meeting%20Minutes.pdf?t=202508201404310
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/12-17-24 Council Meeting Minutes.pdf?t=202508201405060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/12-17-24%20Council%20Meeting%20Minutes.pdf?t=202508201405060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/01-02-24 Council Meeting Packet (updated 3).pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/01-02-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/01-16-24 Council Meeting Packet (updated 3).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/01-16-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/02-06-24 Council Meeting Packet (updated 2).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/02-06-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/02-20-24 Council Meeting Packet (updated).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/02-20-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/03-05-24 Council Meeting Packet (updated 3).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/03-05-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/03-19-24 Council Meeting Packet (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/03-19-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/04-02-24 Council Meeting Packet (updated 3).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/04-02-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/04-16-24 Council Meeting Packet (Updated 3).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/04-16-24%20Council%20Meeting%20Packet%20(Updated%203).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-07-24 Council Meeting Packet (updated).pdf?t=202510021607550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-07-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202510021607550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-21-24 Council Meeting Packet (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-21-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-28-24 Budget Work Session Packet (updated 2).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-28-24%20Budget%20Work%20Session%20Packet%20(updated%202).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/06-04-24 Council Meeting Packet (updated 3).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/06-04-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/06-18-24 Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/06-18-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-02-24 Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-02-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-16-24 Council Meeting Packet (Updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-16-24%20Council%20Meeting%20Packet%20(Updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-23-24 Special Council Meeting Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-23-24%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/08-06-24 Council Meeting Packet (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/08-06-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/08-20-24 Council Meeting Packet (updated).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/08-20-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/09-03-24 Council Meeting Packet (updated).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/09-03-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/09-17-24 Council Meeting Packet (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/09-17-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-01-24 Council Meeting Packet (updated 4).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-01-24%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-08-24 Special Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-08-24%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-15-24 Council Meeting Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-15-24%20Council%20Meeting%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/11-05-24 Council Meeting Packet (updated).pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/11-05-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/12-03-24 Council Meeting Packet.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/12-03-24%20Council%20Meeting%20Packet.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/12-17-24 Council Meeting Packet (final 3).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/12-17-24%20Council%20Meeting%20Packet%20(final%203).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/01-07-25 Council Meeting Agenda (updated).pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/01-07-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/03-04-25 Council Meeting Agenda (updated).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/03-04-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/03-18-25 Council Meeting Agenda (updated 2).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/03-18-25%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-01-25 Council Meeting Agenda (updated).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-01-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-08-25 Special Council Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-08-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-15-25 Council Meeting Agenda (updated 4).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-15-25%20Council%20Meeting%20Agenda%20(updated%204).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/05-06-25 Council Meeting Agenda (updated 3).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/05-06-25%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/05-20-25 Council Meeting Agenda (updated 4).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/05-20-25%20Council%20Meeting%20Agenda%20(updated%204).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-03-25 Council Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-03-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-17-25 Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-17-25%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-24-25 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-24-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-01-25 Council Meeting Agenda (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-01-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-08-25 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-08-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-15-25 Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-15-25%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-18-25 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-18-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-22-25 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-22-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-29-25 Special Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-29-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-05-2025 Regular Council Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-05-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-19-2025 Regular Council Meeting Agenda.pdf?t=202508201204040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-19-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202508201204040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-26-25 Special Council Meeting Agenda.pdf?t=202508261134260
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-26-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508261134260
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-02-2025 Regular Council Meeting Agenda.pdf?t=202509021613440
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-02-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202509021613440
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-09-25 Special Council Meeting Agenda.pdf?t=202509051757100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-09-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509051757100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-16-2025 Regular Council Meeting Agenda.pdf?t=202509161727150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-16-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202509161727150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-23-25 Special Council Meeting Agenda.pdf?t=202509191848550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-23-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509191848550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-30-25 Special Council Meeting Agenda.pdf?t=202509291848070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-30-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509291848070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/1-21-25 Council Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/1-21-25%20Council%20Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-07-2025 Regular Council Meeting Agenda.docx?t=202510061737380
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-07-2025%20Regular%20Council%20Meeting%20Agenda.docx?t=202510061737380
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-14-25 Special Council Meeting Agenda.pdf?t=202510141201310
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-14-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202510141201310
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-21-2025 Regular Council Meeting Agenda.pdf?t=202510201613100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-21-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202510201613100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-28-25 Special Council Meeting Agenda.pdf?t=202510241908350
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-28-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202510241908350
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-04-2025 Regular Council Meeting Agenda.pdf?t=202511041641150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-04-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202511041641150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-18-2025 Regular Council Meeting Agenda.pdf?t=202511181612550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-18-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202511181612550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-18-2025 Regular Council Meeting Packet.pdf?t=202511181613200
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-18-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202511181613200
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-02-2025 Regular Council Meeting Agenda.pdf?t=202512021744490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-02-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202512021744490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-09-25 Special Council Meeting Agenda.pdf?t=202512091600220
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-09-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202512091600220
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-16-2025 Regular Council Meeting Agenda.pdf?t=202512121852270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-16-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202512121852270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-30-25 Work Session Agenda.pdf?t=202512261532010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-30-25%20Work%20Session%20Agenda.pdf?t=202512261532010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/2-04-25 Council Meeting Agenda (updated).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/2-04-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/2-18-25 Council Meeting Agenda (updated).pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/2-18-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/8-19-2025 Regular Council Meeting Packet (updated 2.5).pdf?t=202508201204310
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/8-19-2025%20Regular%20Council%20Meeting%20Packet%20(updated%202.5).pdf?t=202508201204310
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/01-07-25 Council Meeting Minutes.pdf?t=202508201151160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/01-07-25%20Council%20Meeting%20Minutes.pdf?t=202508201151160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/01-21-25 Council Meeting Minutes.pdf?t=202508201152420
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/01-21-25%20Council%20Meeting%20Minutes.pdf?t=202508201152420
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/02-04-25 Council Meeting Minutes.pdf?t=202508201153270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/02-04-25%20Council%20Meeting%20Minutes.pdf?t=202508201153270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/02-18-25 Council Meeting Minutes.pdf?t=202508201154190
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/02-18-25%20Council%20Meeting%20Minutes.pdf?t=202508201154190
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/03-04-25 Council Meeting Minutes.pdf?t=202508201154580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/03-04-25%20Council%20Meeting%20Minutes.pdf?t=202508201154580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/03-18-25 Council Meeting Minutes.pdf?t=202508201157120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/03-18-25%20Council%20Meeting%20Minutes.pdf?t=202508201157120
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-01-25 Council Meeting Minutes.pdf?t=202509171204560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-01-25%20Council%20Meeting%20Minutes.pdf?t=202509171204560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-08-25 Special Meeting Minutes.pdf?t=202509171207350
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-08-25%20Special%20Meeting%20Minutes.pdf?t=202509171207350
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-15-25 Council Meeting Minutes.pdf?t=202508201202280
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-15-25%20Council%20Meeting%20Minutes.pdf?t=202508201202280
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/05-06-25 Minutes.pdf?t=202508201209510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/05-06-25%20Minutes.pdf?t=202508201209510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/05-20-25 Minutes.pdf?t=202508201213160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/05-20-25%20Minutes.pdf?t=202508201213160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-03-25 Minutes.pdf?t=202508201214400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-03-25%20Minutes.pdf?t=202508201214400
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-10-25 Work Session Minutes.pdf?t=202509191352290
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-10-25%20Work%20Session%20Minutes.pdf?t=202509191352290
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-17-25 Minutes.pdf?t=202508201321210
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-17-25%20Minutes.pdf?t=202508201321210
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-24-25 Special Meeting Minutes.pdf?t=202509171215540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-24-25%20Special%20Meeting%20Minutes.pdf?t=202509171215540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-01-25 Minutes.pdf?t=202508201323190
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-01-25%20Minutes.pdf?t=202508201323190
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-15-25 Minutes.pdf?t=202509181657290
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-15-25%20Minutes.pdf?t=202509181657290
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-18-25 Special Meeting Minutes.pdf?t=202509181651400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-18-25%20Special%20Meeting%20Minutes.pdf?t=202509181651400
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-22-25 Special Meeting Minutes.pdf?t=202509181658410
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-22-25%20Special%20Meeting%20Minutes.pdf?t=202509181658410
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-29-25 Special Meeting Minutes.pdf?t=202509181701040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-29-25%20Special%20Meeting%20Minutes.pdf?t=202509181701040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-05-25 Minutes.pdf?t=202509181702040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-05-25%20Minutes.pdf?t=202509181702040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-19-25 Minutes.pdf?t=202509181703050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-19-25%20Minutes.pdf?t=202509181703050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-26-25 Special Meeting Minutes.pdf?t=202509181704070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-26-25%20Special%20Meeting%20Minutes.pdf?t=202509181704070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-02-25 Minutes.pdf?t=202510031218560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-02-25%20Minutes.pdf?t=202510031218560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-09-25 Special Meeting Minutes.pdf?t=202510031219400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-09-25%20Special%20Meeting%20Minutes.pdf?t=202510031219400
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-16-25 Minutes.pdf?t=202510031220250
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-16-25%20Minutes.pdf?t=202510031220250
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-23-25 Special Meeting Minutes.pdf?t=202510031221080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-23-25%20Special%20Meeting%20Minutes.pdf?t=202510031221080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-30-25 Special Meeting Minutes.pdf?t=202510101240140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-30-25%20Special%20Meeting%20Minutes.pdf?t=202510101240140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-14-25 Special Meeting Minutes.pdf?t=202511211840140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-14-25%20Special%20Meeting%20Minutes.pdf?t=202511211840140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-21-25 Council Meeting Minutes.pdf?t=202511211839270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-21-25%20Council%20Meeting%20Minutes.pdf?t=202511211839270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-28-25 Special Meeting Minutes.pdf?t=202511211841000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-28-25%20Special%20Meeting%20Minutes.pdf?t=202511211841000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-7-25 Council Meeting Mintues.pdf?t=202511211838440
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-7-25%20Council%20Meeting%20Mintues.pdf?t=202511211838440
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/11-04-25 Council Meeting Minutes.pdf?t=202512021241070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/11-04-25%20Council%20Meeting%20Minutes.pdf?t=202512021241070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/11-18-25 Council Meeting Minutes.pdf?t=202512091129130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/11-18-25%20Council%20Meeting%20Minutes.pdf?t=202512091129130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-09-25 Special Meeting Minutes.pdf?t=202512161219180
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-09-25%20Special%20Meeting%20Minutes.pdf?t=202512161219180
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-16-25 Council Meeting Minutes.pdf?t=202602021432390
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-16-25%20Council%20Meeting%20Minutes.pdf?t=202602021432390
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-2-25 Council Meeting Minutes.pdf?t=202512161218030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-2-25%20Council%20Meeting%20Minutes.pdf?t=202512161218030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/01-07-25 Council Meeting Packet (updated).pdf?t=202508201148320
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/01-07-25%20Council%20Meeting%20Packet%20(updated).pdf?t=202508201148320
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/02-04-24 Council Meeting Packet (updated).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/02-04-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/02-18-25 Council Meeting Packet (updated 3).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/02-18-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/03-04-25 Council Meeting Packet (updated 3).pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/03-04-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/03-18-25 Council Meeting Packet (updated 2).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/03-18-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/04-01-25 Council Meeting Packet (updated)_Redacted.pdf?t=202604011308490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/04-01-25%20Council%20Meeting%20Packet%20(updated)_Redacted.pdf?t=202604011308490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/04-15-25 Council Meeting Packet (updated 4).pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/04-15-25%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/05-06-25 Council Meeting Packet (updated 3).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/05-06-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/05-20-25 Council Meeting Packet (updated 4).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/05-20-25%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-03-25 Council Meeting Packet (updated 2).pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-03-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-17-25 Council Meeting Packet (updated 3).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-17-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-24-25 Special Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-24-25%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/07-01-25 Council Meeting Packet (updated 2).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/07-01-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/07-15-25 Council Meeting Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/07-15-25%20Council%20Meeting%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/08-05-2025 Regular Council Meeting Packet (updated).pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/08-05-2025%20Regular%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-02-2025 Regular Council Meeting Packet.pdf?t=202509021518390
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-02-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202509021518390
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-09-25 Special Council Meeting Packet.pdf?t=202509051757330
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-09-25%20Special%20Council%20Meeting%20Packet.pdf?t=202509051757330
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-16-2025 Regular Council Meeting Packet.pdf?t=202509161729200
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-16-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202509161729200
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-30-25 Special Council Meeting Packet.pdf?t=202509291851430
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-30-25%20Special%20Council%20Meeting%20Packet.pdf?t=202509291851430
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/1-21-25 Council Meeting Packet (updated 2).pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/1-21-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/10-07-2025 Regular Council Meeting Packet.pdf?t=202510061739080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/10-07-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202510061739080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/10-21-25 Regular Council Meeting Packet.pdf?t=202510201616110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/10-21-25%20Regular%20Council%20Meeting%20Packet.pdf?t=202510201616110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/11-04-2025 Regular Council Meeting Packet.pdf?t=202511041644040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/11-04-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202511041644040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-02-2025 Regular Council Meeting Packet.pdf?t=202512021752190
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-02-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202512021752190
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-16-2025 Regular Council Meeting Packet.pdf?t=202512161550340
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-16-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202512161550340
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-30-25 Work Session Packet.pdf?t=202512261532180
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-30-25%20Work%20Session%20Packet.pdf?t=202512261532180
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/02.03.26 Regular Meeting Agenda.pdf?t=202602031056310
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/02.03.26%20Regular%20Meeting%20Agenda.pdf?t=202602031056310
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/04-07-2026 Regular Council Meeting Packet.pdf?t=202604061046000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/04-07-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202604061046000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/05-26-26 Special Council Meeting Agenda.pdf?t=202605221533370
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/05-26-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202605221533370
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-02-2026 Regular Council Meeting Agenda.pdf?t=202606021248370
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-02-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202606021248370
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-16-2026 Regular Council Meeting Agenda.pdf?t=202606161240340
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-16-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202606161240340
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-16-2026 Regular Council Meeting Packet (updated).pdf?t=202606161917160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-16-2026%20Regular%20Council%20Meeting%20Packet%20(updated).pdf?t=202606161917160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-07-2026 Regular Council Meeting Agenda - update.pdf?t=202607061149060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-07-2026%20Regular%20Council%20Meeting%20Agenda%20-%20update.pdf?t=202607061149060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-07-2026 Regular Council Meeting Packet (2) - update.pdf?t=202607131129520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-07-2026%20Regular%20Council%20Meeting%20Packet%20(2)%20-%20update.pdf?t=202607131129520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-21-2026 Regular Council Meeting Agenda.pdf?t=202607171329430
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-21-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202607171329430
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/08-04-26 Regular Council Meeting Agenda.pdf?t=202607311348170
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/08-04-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202607311348170
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/08-18-26 Regular Council Meeting Agenda.pdf?t=202608141523450
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/08-18-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202608141523450
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/09-01-26 Regular Council Meeting Agenda.pdf?t=202609011618080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/09-01-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202609011618080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/09-15-26 Regular Council Meeting Agenda.pdf?t=202609151324110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/09-15-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202609151324110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-20-2026 Regular Council Meeting Agenda.pdf?t=202601161423170
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-20-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202601161423170
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-20-26 Regular Council Meeting Packet.pdf?t=202601161639410
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-20-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202601161639410
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-27-26 Special Council Meeting Agenda.pdf?t=202601231241250
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-27-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202601231241250
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-6-2026 Regular Council Meeting Agenda.pdf?t=202601061612480
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-6-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202601061612480
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-06-26 Regular Council Meeting Agenda.pdf?t=202610051904430
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-06-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202610051904430
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-20-26 Regular Council Meeting Agenda.pdf?t=202610201423440
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-20-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202610201423440
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-27-26 Special Council Meeting Agenda.pdf?t=202610231336210
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-27-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202610231336210
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-03-26 Regular Council Meeting Agenda.pdf?t=202611031126480
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-03-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202611031126480
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-10-26 Special Council Meeting Agenda.pdf?t=202611061404180
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-10-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202611061404180
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-17-26 Regular Council Meeting Agenda.pdf?t=202611171146560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-17-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202611171146560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/2-17-2026 Regular Council Meeting Agenda.pdf?t=202602171050270
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/2-17-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202602171050270
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/3-17-2026 Regular Council Meeting Agenda.pdf?t=202603131515220
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/3-17-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202603131515220
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/3-3-2026 Regular Council Meeting Agenda.pdf?t=202602271653150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/3-3-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202602271653150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/4-07-2026 Regular Council Meeting Agenda.pdf?t=202604061023490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/4-07-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202604061023490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/4-21-2026 Regular Council Meeting Agenda.pdf?t=202604211447080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/4-21-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202604211447080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/5-19-2026 Regular Council Meeting Agenda.pdf?t=202605191421370
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/5-19-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202605191421370
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/5-5-2026 Regular Council Meeting Agenda.pdf?t=202605011546570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/5-5-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202605011546570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-06-26 Council Meeting Minutes.pdf?t=202602021430010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-06-26%20Council%20Meeting%20Minutes.pdf?t=202602021430010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-20-26 Council Meeting Minutes.pdf?t=202602021430420
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-20-26%20Council%20Meeting%20Minutes.pdf?t=202602021430420
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-27-26 Special Meeting Minutes.pdf?t=202602021428510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-27-26%20Special%20Meeting%20Minutes.pdf?t=202602021428510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/02-03-26 Council Meeting Minutes.pdf?t=202603091728200
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/02-03-26%20Council%20Meeting%20Minutes.pdf?t=202603091728200
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/02-17-26 Council Meeting Minutes.pdf?t=202603091728580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/02-17-26%20Council%20Meeting%20Minutes.pdf?t=202603091728580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/03-03-26 Council Meeting Minutes.pdf?t=202603311156530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/03-03-26%20Council%20Meeting%20Minutes.pdf?t=202603311156530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/03-17-26 Council Meeting Minutes.pdf?t=202605051650050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/03-17-26%20Council%20Meeting%20Minutes.pdf?t=202605051650050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/04-07-26 Council Meeting Minutes.pdf?t=202605051650420
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/04-07-26%20Council%20Meeting%20Minutes.pdf?t=202605051650420
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/04-21-26 Council Meeting Minutes.pdf?t=202605051651200
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/04-21-26%20Council%20Meeting%20Minutes.pdf?t=202605051651200
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-05-26 Council Meeting Minutes.pdf?t=202606081528040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-05-26%20Council%20Meeting%20Minutes.pdf?t=202606081528040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-19-26 Council Meeting Minutes.pdf?t=202606081528560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-19-26%20Council%20Meeting%20Minutes.pdf?t=202606081528560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-26-26 Special Meeting Minutes.pdf?t=202606081529490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-26-26%20Special%20Meeting%20Minutes.pdf?t=202606081529490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/06-02-26 Council Meeting Minutes.pdf?t=202606151344290
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/06-02-26%20Council%20Meeting%20Minutes.pdf?t=202606151344290
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/06-16-26 Council Meeting Minutes.pdf?t=202607171602550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/06-16-26%20Council%20Meeting%20Minutes.pdf?t=202607171602550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/07-07-26 Council Meeting Minutes.pdf?t=202607171602100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/07-07-26%20Council%20Meeting%20Minutes.pdf?t=202607171602100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/07-21-26 Council Meeting Minutes.pdf?t=202608201257250
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/07-21-26%20Council%20Meeting%20Minutes.pdf?t=202608201257250
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08-04-26 Council Meeting Minutes.pdf?t=202608201257570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/08-04-26%20Council%20Meeting%20Minutes.pdf?t=202608201257570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08-18-26 Council Meeting Minutes.pdf?t=202608311550450
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/08-18-26%20Council%20Meeting%20Minutes.pdf?t=202608311550450
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09-01-26 Council Meeting Minutes.pdf?t=202609221642400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/09-01-26%20Council%20Meeting%20Minutes.pdf?t=202609221642400
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09-15-26 Council Meeting Minutes.pdf?t=202610191720420
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/09-15-26%20Council%20Meeting%20Minutes.pdf?t=202610191720420
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-06-26 Council Meeting Minutes.pdf?t=202610191721560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-06-26%20Council%20Meeting%20Minutes.pdf?t=202610191721560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-20-26 Council Meeting Minutes.pdf?t=202611091430310
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-20-26%20Council%20Meeting%20Minutes.pdf?t=202611091430310
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-27-26 Special Meeting Minutes.pdf?t=202611091432330
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-27-26%20Special%20Meeting%20Minutes.pdf?t=202611091432330
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/11-03-26 Council Meeting Minutes.pdf?t=202611171148080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/11-03-26%20Council%20Meeting%20Minutes.pdf?t=202611171148080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/02.03.26 Regular Meeting Packet.pdf?t=202602031058170
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/02.03.26%20Regular%20Meeting%20Packet.pdf?t=202602031058170
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/06-02-2026 Regular Council Meeting Packet.pdf?t=202606021841110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/06-02-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202606021841110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/07-21-2026 Regular Council Meeting Packet.pdf?t=202607171333470
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/07-21-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202607171333470
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/08-04-26 Regular Council Meeting Packet.pdf?t=202608051803450
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/08-04-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202608051803450
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/08-18-26 Regular Council Meeting Packet (reduced size).pdf?t=202608171434010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/08-18-26%20Regular%20Council%20Meeting%20Packet%20(reduced%20size).pdf?t=202608171434010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/09-01-26 Regular Council Meeting Packet.pdf?t=202609011810060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/09-01-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202609011810060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/09-15-26 Regular Council Meeting Packet.pdf?t=202609151758070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/09-15-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202609151758070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/1-6-2026 Regular Council Meeting Packet.pdf?t=202601061613090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/1-6-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202601061613090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/10-06-26 Regular Council Meeting Packet.pdf?t=202610061402540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/10-06-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202610061402540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/10-20-26 Regular Council Meeting Packet.pdf?t=202610201519050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/10-20-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202610201519050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-03-26 Regular Council Meeting Packet.pdf?t=202611031127010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-03-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202611031127010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-10-26 Work Session Packet.pdf?t=202611061359230
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-10-26%20Work%20Session%20Packet.pdf?t=202611061359230
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-17-26 Regular Council Meeting Packet.pdf?t=202611171147220
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-17-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202611171147220
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/2-17-2026 Regular Council Meeting Packet.pdf?t=202602171051200
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/2-17-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202602171051200
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/3-17-2026 Regular Council Meeting Packet.pdf?t=202603131515450
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/3-17-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202603131515450
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/3-3-2026 Regular Council Meeting Packet.pdf?t=202602271653410
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/3-3-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202602271653410
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/4-21-2026 Regular Council Meeting Packet.pdf?t=202604211447440
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/4-21-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202604211447440
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/5-19-2026 Regular Council Meeting Packet.pdf?t=202605191422010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/5-19-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202605191422010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/5-5-26 Regular Council Meeting Packet.pdf?t=202605051128070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/5-5-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202605051128070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/02-02-21 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/02-02-21%20Pre-Meeting%20Packet.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/04-06-21 Pre-Meeting Minutes.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/04-06-21%20Pre-Meeting%20Minutes.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/01-05-21 Pre-Meeting Agenda.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/01-05-21%20Pre-Meeting%20Agenda.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/01-19-21 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/01-19-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/02-16-21 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/02-16-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/03-02-21 Pre-Meeting Agenda - Updated.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/03-02-21%20Pre-Meeting%20Agenda%20-%20Updated.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/03-16-21 Pre-Meeting Agenda- Updated.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/03-16-21%20Pre-Meeting%20Agenda-%20Updated.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/04-06-21 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/04-06-21%20Pre-Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/04-20-21 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/04-20-21%20Pre-Meeting%20Agenda.pdf?t=202508180935510
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/05-04-21 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/05-04-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/05-18-21 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/05-18-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/06-01-21 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/06-01-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/06-15-21 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/06-15-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/07-06-21 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/07-06-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/07-20-21 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/07-20-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/08-03-21 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/08-03-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/08-17-21 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/08-17-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/09-07-21 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/09-07-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/09-21-21 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/09-21-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/10-05-21 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/10-05-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/10-19-21 Pre-Meeting Agenda- Updated 10-19.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/10-19-21%20Pre-Meeting%20Agenda-%20Updated%2010-19.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/11-02-21 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/11-02-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/11-16-21 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/11-16-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/12-07-21 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/12-07-21%20Pre-Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/12-21-21 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/12-21-21%20Pre-Meeting%20Agenda.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/01-05-21 Pre-Meeting Minutes.pdf?t=202508180935490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/01-05-21%20Pre-Meeting%20Minutes.pdf?t=202508180935490
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/01-19-21 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/01-19-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/02-02-21 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/02-02-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/02-16-21 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/02-16-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/03-02-21 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/03-02-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/03-16-21 Pre-Meeting Minutes.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/04-20-21 Pre-Meeting Minutes.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/05-04-21 Pre-Meeting Minutes.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/05-18-21 Pre-Meeting Minutes.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/06-01-21 Pre-Meeting Minutes - final.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/06-15-21 Pre-Meeting Minutes.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/07-06-21 Pre-Meeting Minutes.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/07-20-21 Pre-Meeting Minutes.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/08-03-21 Pre-Meeting Minutes.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/08-17-21 Pre-Meeting Minutes.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/09-07-21 Pre-Meeting Minutes.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/10-05-21 Pre-Meeting Minutes.pete.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/10-19-21 Pre-Meeting Minutes.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/11-02-21 Pre-Meeting Minutes.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/11-16-21 Pre-Meeting Minutes.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/12-07-21 Pre-Meeting Minutes.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/12-21-21 Pre-Meeting Minutes.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/9-21-21 Pre-Meeting Minutes.pdf?t=202508180935580
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/01-19-21 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/02-16-21 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/03-02-21 Pre-Meeting Packet- Updated.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/03-16-21 Pre-Meeting Packet- Updated.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/04-06-21 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/04-20-21 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/05-18-21 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/07-06-21 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/08-17-21 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/09-07-21 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/09-21-21 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/10-05-21 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/11-02-21 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/11-16-21 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/12-07-21 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/12-21-21 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/0. 09-20-22 Pre-Meeting Agenda.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/01-04-21 Pre-Meeting Agenda - Updated 1-4.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/01-18-22 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/02-01-22 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/02-15-22 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/03-01-22 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/03-15-22 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/04-05-22 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/04-19-22 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/05-03-22 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/05-17-22 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/06-07-22 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/06-21-22 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/07-05-22 Pre-Meeting Agenda - updated.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/07-19-22 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/08-02-22 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/08-16-22 Pre-Meeting Agenda Final.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/09-06-22 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/10-04-22 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/10-18-22 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/11-01-22 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/11-15-22 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/12-06-22 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/12-20-22 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/01-04-22 Pre-Meeting Minutes.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/01-18-22 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/02-01-22 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/02-15-22 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/03-01-22 Pre-Meeting Minutes.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/03-15-22 Pre Meeting Minutes.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/04-05-22 Pre-Meeting Minutes.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/04-19-22 Pre Meeting Minutes.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/05-17-22 Pre-Meeting Minutes.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/8-2-2022 Pre Meeting Minutes.pdf?t=202508180935580
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/02-01-22 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/03-01-22 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/03-15-22 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/04-05-22 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/04-19-22 Pre-Meeting Packet (updated).pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/05-03-22 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/05-17-22 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/07-19-22 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/08-02-22 Pre-Meeting Packet (2).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/08-16-2022 Pre-Meeting Packet Final.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/09-20-22 Pre-Meeting Packet (updated).pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/10-04-22 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/11-01-22 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/11-15-22 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/12-06-2022 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/12-20-22 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/01-03-23 Pre-Meeting Agenda.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/01-17-23 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/02-07-23 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/02-21-23 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/03-07-23 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/03-21-23 Pre-Meeting Agenda - updated.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/04-04-23 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/04-18-23 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/05-02-23 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/05-16-23 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/06-06-23 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/06-20-23 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/07-05-23 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/07-18-23 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/08-01-23 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/08-15-23 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/09-05-23 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/09-19-23 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/10-17-23 Pre-Meeting Agenda (updated 2).pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/10-3-23 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/11-21-23 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/11-7-23 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/12-05-23 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/12-19-23 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/01-03-23 Pre-Meeting Packet.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/02-07-23 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/02-21-23 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/03-07-23 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/03-21-23 Pre-Meeting Packet - updated.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/04-04-23 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/04-18-23 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/05-02-23 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/05-16-23 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/06-06-23 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/07-18-23 Pre-Meeting Packet (1).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/08-01-23 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/08-15-23 Pre-Meeting Packet final.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/10-17-23 Pre-Meeting Packet (updated 2).pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/10-3-23 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/11-21-23 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/11-7-23 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/12-19-23 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/6-20-23 Pre-Meeting Packet Packet (Updated 1).pdf?t=202508180935580
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/01-02-24 Pre-Meeting Agenda.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/01-16-24 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/02-06-24 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/02-20-24 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/03-05-24 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/03-19-24 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/04-02-24 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/04-16-24 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/05-07-24 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/05-21-24 Pre-Meeting Agenda (updated 2).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/06-04-24 Pre-Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/06-18-24 Pre-Meeting Agenda (updated 2).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/07-16-2024 Pre-Meeting Agenda (Updated).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/08-06-2024 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/08-20-2024 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/09-03-2024 Pre-Meeting Agenda.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/09-17-2024 Pre-Meeting Agenda (updated).pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/10-01-2024 Pre-Meeting Agenda (Updated 3).pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/10-15-2024 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/11-05-2024 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/11-19-2024 Pre-Meeting Agenda.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/12-03-2024 Pre-Meeting Agenda (updated).pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/12-17-2024 Pre-Meeting Agenda.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/01-16-24 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/02-06-24 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/02-20-24 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/03-05-24 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/03-19-24 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/04-02-24 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/04-16-24 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/05-07-24 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/05-21-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/06-04-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/06-18-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/07-02-24 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/07-16-2024 Pre-Meeting Packet (Updated).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/08-06-2024 Pre-Meeting Packet (updated).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/08-20-2024 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-03-2024 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-10-2024 Work Session Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-17-2024 Pre-Meeting Packet.pdf?t=202508180935540
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/10-01-24 Pre-Meeting Packet (Updated 3).pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/10-15-2024 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/11-05-24 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/11-19-24 Pre-Meeting Packet.pdf?t=202508180935550
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/12-03-2024 Pre-Meeting Packet (updated).pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/12-17-24 Pre-Meeting Packet.pdf?t=202508180935560
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/01-07-2025 Pre-Meeting Agenda.pdf?t=202508180935490
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/01-21-25 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/02-04-25 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/02-18-25 Pre-Meeting Agenda (updated).pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/03-04-25 Pre-Meeting Agenda.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/03-18-25 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/04-01-25 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/04-15-25 Pre-Meeting Agenda.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/05-06-25 Pre-Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/05-20-25 Pre-Meeting Agenda (updated).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/06-03-25 Pre-Meeting Agenda.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/06-17-25 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/07-01-25 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/07-15-25 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/08-05-25 Pre-Meeting Agenda.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/08-19-2025 Pre Meeting Agenda.pdf?t=202508261003160
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/09-02-25 Pre-Meeting Agenda.pdf?t=202508291929290
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/09-16-25 Pre-Meeting Agenda.pdf?t=202509121855160
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/10-07-25 Pre-Meeting Agenda.pdf?t=202510031704060
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/10-21-25 Pre-Meeting Agenda.pdf?t=202510172039580
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/11-04-25 Pre-Meeting Agenda.pdf?t=202510311755260
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/11-18-25 Pre-Meeting Agenda.pdf?t=202511141956010
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/12-02-2025 Pre-Meeting Agenda.pdf?t=202511261858370
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/12-16-2025 Pre-Meeting Agenda.pdf?t=202512121849090
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/01-21-25 Pre-Meeting Packet.pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/02-04-24 Pre-Meeting Packet (final).pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/02-18-25 Pre-Meeting Packet (updated).pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/03-04-25 Pre-Meeting Packet (updated).pdf?t=202508180935500
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/03-18-25 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/04-01-25 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/04-15-25 Pre-Meeting Packet.pdf?t=202508180935510
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/05-06-25 Pre-Meeting Packet (updated).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/05-20-25 Pre-Meeting Packet (updated).pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/06-03-25 Pre-Meeting Packet.pdf?t=202508180935520
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/06-17-25 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/07-01-25 Pre-Meeting Packet (updated).pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/07-15-25 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/08-05-25 Pre-Meeting Packet.pdf?t=202508180935530
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/08-19-25 Pre-Meeting Packet.pdf?t=202508261003290
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/09-02-25 Pre-Meeting Packet.pdf?t=202508291930340
-  - reason: deferred (max_seconds_reached (2700s))
-- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/09-16-25 Pre-Meeting Packet.pdf?t=202509121855360
-  - reason: deferred (max_seconds_reached (2700s))
+- **robots_refused** — https://www.casperwy.gov/01-08-25 Special Work Session Minutes.pdf?t=202602051126110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/01-08-25%20Special%20Work%20Session%20Minutes.pdf?t=202602051126110
+- **robots_refused** — https://www.casperwy.gov/01-13-26 Special Meeting Minutes.pdf?t=202602021428010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/01-13-26%20Special%20Meeting%20Minutes.pdf?t=202602021428010
+- **robots_refused** — https://www.casperwy.gov/02-02-26 Legislative Dinner Agenda.pdf?t=202601301503400
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/02-02-26%20Legislative%20Dinner%20Agenda.pdf?t=202601301503400
+- **robots_refused** — https://www.casperwy.gov/02-08-24 Special Work Session Minutes.pdf?t=202602051746130
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/02-08-24%20Special%20Work%20Session%20Minutes.pdf?t=202602051746130
+- **robots_refused** — https://www.casperwy.gov/1-13-26 Special Council Meeting Agenda.pdf?t=202601091531540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/1-13-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202601091531540
+- **robots_refused** — https://www.casperwy.gov/12-30-25 Special Council Meeting Agenda.pdf?t=202512261416410
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/12-30-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202512261416410
+- **robots_refused** — https://www.casperwy.gov/12-30-25 Special Meeting Minutes.pdf?t=202602021427220
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/12-30-25%20Special%20Meeting%20Minutes.pdf?t=202602021427220
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New 53' Box Van Trailer.docx?t=202508180936090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%2053'%20Box%20Van%20Trailer.docx?t=202508180936090
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New Compact Pickup Truck.doc?t=202508180936090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20Compact%20Pickup%20Truck.doc?t=202508180936090
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New One-Ton Crew Cab Pickup Truck.docx?t=202508261044040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20One-Ton%20Crew%20Cab%20Pickup%20Truck.docx?t=202508261044040
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/One (1) New Rear-Loading, 20 yard, Sanitation Truck.docx?t=202508180936090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/One%20(1)%20New%20Rear-Loading,%2020%20yard,%20Sanitation%20Truck.docx?t=202508180936090
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/RFP Tree Lighting Services 2025.pdf?t=202508221259500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/RFP%20Tree%20Lighting%20Services%202025.pdf?t=202508221259500
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/Six (6) New 19,000 lb. Portable Lifts.doc?t=202508180936120
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Six%20(6)%20New%2019,000%20lb.%20Portable%20Lifts.doc?t=202508180936120
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/TRIB AD FOR Homax Oil Sales.rtf?t=202508180936140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/TRIB%20AD%20FOR%20Homax%20Oil%20Sales.rtf?t=202508180936140
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/TRIB AD FOR JJM HYT CPR Hospitality.rtf?t=202508180936140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/TRIB%20AD%20FOR%20JJM%20HYT%20CPR%20Hospitality.rtf?t=202508180936140
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/Two (2) New Front-Loading Sanitation Trucks.docx?t=202508180936140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Two%20(2)%20New%20Front-Loading%20Sanitation%20Trucks.docx?t=202508180936140
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Bids/Two (2) New Side-Loading, 27 yard, Sanitation Trucks.docx?t=202508180936140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Bids/Two%20(2)%20New%20Side-Loading,%2027%20yard,%20Sanitation%20Trucks.docx?t=202508180936140
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Fee Schedules/Resolution No. 17-220 Community Development Fee Schedule.pdf?t=202508180936110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Fee%20Schedules/Resolution%20No.%2017-220%20Community%20Development%20Fee%20Schedule.pdf?t=202508180936110
+- **robots_refused** — https://www.casperwy.gov/Documents/Business/Fee Schedules/Resolution No. 18-96 Wireless Communications Facilities Application Fees.pdf?t=202508180936110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Business/Fee%20Schedules/Resolution%20No.%2018-96%20Wireless%20Communications%20Facilities%20Application%20Fees.pdf?t=202508180936110
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/HistoricalWalkingTour_03-19-2024.pdf
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/HistoricalWalkingTour_03-19-2024.pdf
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/Monuments & Markers Tour.pdf
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/Monuments%20&%20Markers%20Tour.pdf
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Casper Historic Preservation Commission/South Wolcott Historic District Tour.pdf
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Casper%20Historic%20Preservation%20Commission/South%20Wolcott%20Historic%20District%20Tour.pdf
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/CCPD Application Form - blank FILLABLE 08 17 2022.pdf?t=202508180936010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/CCPD%20Application%20Form%20-%20blank%20FILLABLE%2008%2017%202022.pdf?t=202508180936010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Civil Service Commission/title15.pdf?t=202508180936140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Civil%20Service%20Commission/title15.pdf?t=202508180936140
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Council of People with Disabilities/CCPD Bylaws 10.28.24.pdf?t=202508180936010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Council%20of%20People%20with%20Disabilities/CCPD%20Bylaws%2010.28.24.pdf?t=202508180936010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee Application (fillable).pdf
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee%20Application%20(fillable).pdf
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Copy of NDO Flyers Print.pdf ( Flyer (5.5 x 8.5))-4.pdf?t=202508180936030
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Copy%20of%20NDO%20Flyers%20Print.pdf%20(%20Flyer%20(5.5%20x%208.5))-4.pdf?t=202508180936030
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Copy of NDO Flyers Print.pdf ( Flyer (5.5 x 8.5))-5.pdf?t=202508180936030
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Copy%20of%20NDO%20Flyers%20Print.pdf%20(%20Flyer%20(5.5%20x%208.5))-5.pdf?t=202508180936030
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/LGBTQ Advisory Committee/Non-Discrimination Policies.pdf?t=202508180936090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/LGBTQ%20Advisory%20Committee/Non-Discrimination%20Policies.pdf?t=202508180936090
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/Boards and Commissions/Planning and Zoning Commission/2025/2025 P and Z Meetings.pdf?t=202508180935570
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/Boards%20and%20Commissions/Planning%20and%20Zoning%20Commission/2025/2025%20P%20and%20Z%20Meetings.pdf?t=202508180935570
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/01-05-21 Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/01-05-21%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/01-19-21 Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/01-19-21%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-02-21 Agenda - updated 2-1.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-02-21%20Agenda%20-%20updated%202-1.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-02-21 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-02-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-09-21 Work Session Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-09-21%20Work%20Session%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/02-16-21 Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/02-16-21%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-02-21 Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-02-21%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-09-21 Work Session Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-09-21%20Work%20Session%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/03-16-21 Agenda- Updated (2).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/03-16-21%20Agenda-%20Updated%20(2).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/04-06-21 Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/04-06-21%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/04-20-21 Agenda - Updated 4-20.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/04-20-21%20Agenda%20-%20Updated%204-20.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-04-21 Agenda- updated 5-3.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-04-21%20Agenda-%20updated%205-3.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-17-21 Special Work Session Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-17-21%20Special%20Work%20Session%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-18-21 Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-18-21%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-19-21 Special Work Session Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-19-21%20Special%20Work%20Session%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/05-25-21 Special Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/05-25-21%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/06-01-21 Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/06-01-21%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/06-15-21 Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/06-15-21%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-06-21 Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-06-21%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-20-21 Agenda- updated.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-20-21%20Agenda-%20updated.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/07-27-21 Special Council Meeting Agenda (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/07-27-21%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/08-03-21 Agenda- Updated 8-2.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/08-03-21%20Agenda-%20Updated%208-2.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/08-17-21 Agenda- Updated.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/08-17-21%20Agenda-%20Updated.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-07-21 Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-07-21%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-14-21 Special Council Meeting Agenda (Interviews).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-14-21%20Special%20Council%20Meeting%20Agenda%20(Interviews).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/09-21-21 Agenda- Updated 9-20.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/09-21-21%20Agenda-%20Updated%209-20.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-05-21 Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-05-21%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-12-21 Special Council Meeting Agenda (Updated 2).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-12-21%20Special%20Council%20Meeting%20Agenda%20(Updated%202).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/10-19-21 Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/10-19-21%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-02-21 Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-02-21%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-09-21 Special Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-09-21%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/11-16-21 Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/11-16-21%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-07-21 Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-07-21%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-14-21 Special Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-14-21%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Agendas/12-21-21 Agenda- Updated.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Agendas/12-21-21%20Agenda-%20Updated.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/01-05-21 Minutes.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/01-05-21%20Minutes.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/01-19-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/01-19-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-02-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-02-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-09-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-09-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-16-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-16-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/02-23-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/02-23-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/03-02-21 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/03-02-21%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/03-16-21 Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/03-16-21%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-06-21 Minutes .pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-06-21%20Minutes%20.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-20-21 Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-20-21%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/04-27-21 Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/04-27-21%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-04-21 Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-04-21%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-17-21 Special Work Session Minutes (Budget).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-17-21%20Special%20Work%20Session%20Minutes%20(Budget).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-18-21 Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-18-21%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/05-25-21 Special Meeting Minutes (1).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/05-25-21%20Special%20Meeting%20Minutes%20(1).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/06-01-21 Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/06-01-21%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/06-15-21 Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/06-15-21%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-06-21 Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-06-21%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-20-21 Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-20-21%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/07-27-21 Special Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/07-27-21%20Special%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/08-03-21 Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/08-03-21%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/08-17-21 Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/08-17-21%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-07-21 Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-07-21%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-14-21 Special Session Minutes (Ward I Interviews).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-14-21%20Special%20Session%20Minutes%20(Ward%20I%20Interviews).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/09-21-21 Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/09-21-21%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-05-21 Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-05-21%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-12-21 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-12-21%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/10-19-21 Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/10-19-21%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-02-21 Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-02-21%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-09-21 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-09-21%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/11-16-21 Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/11-16-21%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-07-21 Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-07-21%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-14-21 Special Council Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-14-21%20Special%20Council%20Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Minutes/12-21-21 Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Minutes/12-21-21%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/01-05-21 Packet- Updated Jan. 5.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/01-05-21%20Packet-%20Updated%20Jan.%205.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/01-19-21 Packet- Updated Jan. 18.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/01-19-21%20Packet-%20Updated%20Jan.%2018.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/02-02-21 Packet- updated 2-1.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/02-02-21%20Packet-%20updated%202-1.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/02-16-21 Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/02-16-21%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-02-21 Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-02-21%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-09-21 Work Session Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-09-21%20Work%20Session%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/03-16-21 Packet- Updated 3-16 (3).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/03-16-21%20Packet-%20Updated%203-16%20(3).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/04-06-21 Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/04-06-21%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/04-20-21 Packet - Updated 4-20.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/04-20-21%20Packet%20-%20Updated%204-20.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-04-21 Packet- updated 5-3.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-04-21%20Packet-%20updated%205-3.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-17-21 Special Work Session Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-17-21%20Special%20Work%20Session%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-18-21 Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-18-21%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/05-25-21 Special Council Meeting Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/05-25-21%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/06-01-21 Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/06-01-21%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/06-15-21 Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/06-15-21%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-06-21 Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-06-21%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-20-21 Packet- updated final.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-20-21%20Packet-%20updated%20final.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/07-27-21 Special Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/07-27-21%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/08-03-21 Packet- Updated 8-2.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/08-03-21%20Packet-%20Updated%208-2.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/08-17-21 Packet- Updated.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/08-17-21%20Packet-%20Updated.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/09-07-21 Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/09-07-21%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/09-21-21 Packet- Updated 9-21.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/09-21-21%20Packet-%20Updated%209-21.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/10-05-21 Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/10-05-21%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/10-19-21 Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/10-19-21%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/11-02-21 Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/11-02-21%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/11-16-21 Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/11-16-21%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-07-21 Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-07-21%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-14-21 Special Council Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-14-21%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2021/Packet/12-21-21 Packet- Updated.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2021/Packet/12-21-21%20Packet-%20Updated.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-04-22 Council Meeting Agenda - Updated 1-3.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-04-22%20Council%20Meeting%20Agenda%20-%20Updated%201-3.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-11-22 Work Session Agenda.pdf?t=202509191132210
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-11-22%20Work%20Session%20Agenda.pdf?t=202509191132210
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-18-22 Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-18-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/01-25-22 Work Session Agenda.pdf?t=202509191131260
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/01-25-22%20Work%20Session%20Agenda.pdf?t=202509191131260
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-01-22 Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-15-22 Council Meeting Agenda- Updated 2-15.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-15-22%20Council%20Meeting%20Agenda-%20Updated%202-15.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/02-22-22 Work Session  Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/02-22-22%20Work%20Session%20%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/03-01-22 Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/03-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/03-15-22 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/03-15-22%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-05-2022 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-05-2022%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-19-2022 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-19-2022%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/04-26-22 Special Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/04-26-22%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-03-22 Council Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-03-22%20Council%20Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-17-22 Council Meeting Agenda - updated 3.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-17-22%20Council%20Meeting%20Agenda%20-%20updated%203.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/05-31-22 Work Session Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/05-31-22%20Work%20Session%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/06-07-22 Council Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/06-07-22%20Council%20Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/06-21-22 Council Meeting Agenda - updated.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/06-21-22%20Council%20Meeting%20Agenda%20-%20updated.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-05-22 Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-05-22%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-19-22 Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-19-22%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/07-26-22 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/07-26-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-02-22 Council Meeting Agenda (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-02-22%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-09-22 Special Council Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-09-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/08-16-22 Council Meeting Agenda Final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/08-16-22%20Council%20Meeting%20Agenda%20Final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/09-06-22 Council Meeting Agenda (Version 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/09-06-22%20Council%20Meeting%20Agenda%20(Version%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/09-20-22 Council Meeting Agenda (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/09-20-22%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-04-22 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-04-22%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-18-22 Council Meeting Agenda - updated 2.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-18-22%20Council%20Meeting%20Agenda%20-%20updated%202.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/10-25-22 Special Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/10-25-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-01-22 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-01-22%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-15-22 Council Meeting Agenda - updated 3.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-15-22%20Council%20Meeting%20Agenda%20-%20updated%203.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/11-8-22 Special Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/11-8-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-06-22 Council Meeting Agenda (2).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-06-22%20Council%20Meeting%20Agenda%20(2).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-13-22 Special Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-13-22%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Agendas/12-20-22 Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Agendas/12-20-22%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-04-22 Council Meeting Minutes final.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-04-22%20Council%20Meeting%20Minutes%20final.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-11-22 Work Session Minutes - final.pdf?t=202509191133550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-11-22%20Work%20Session%20Minutes%20-%20final.pdf?t=202509191133550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/01-18-22 Council Meeting Minutes final.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/01-18-22%20Council%20Meeting%20Minutes%20final.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-01-22 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-01-22%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-08-22 Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-08-22%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/02-15-22 Council Meeting Minutes - final.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/02-15-22%20Council%20Meeting%20Minutes%20-%20final.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/03-01-22 Council Meeting Minutes - final.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/03-01-22%20Council%20Meeting%20Minutes%20-%20final.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/03-15-22 Council Meeting Minutes (final).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/03-15-22%20Council%20Meeting%20Minutes%20(final).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-05-22 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-05-22%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-19-22 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-19-22%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/04-26-22 Special Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/04-26-22%20Special%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/05-03-22 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/05-03-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/05-17-22 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/05-17-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/06-07-22 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/06-07-22%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/06-21-22 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/06-21-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-05-22 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-05-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-19-22 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-19-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/07-26-22 Special Meeting Minutes.docx?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/07-26-22%20Special%20Meeting%20Minutes.docx?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-02-22 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-02-22%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-09-22 Special Meeting Minutes.docx?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-09-22%20Special%20Meeting%20Minutes.docx?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/08-16-22 Council Meeting Minutes - Updated.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/08-16-22%20Council%20Meeting%20Minutes%20-%20Updated.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/09-06-22 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/09-06-22%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/09-20-22 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/09-20-22%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-04-22 Council Meeting Minutes.pdf?t=202611181720070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-04-22%20Council%20Meeting%20Minutes.pdf?t=202611181720070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-04-22 Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-04-22%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-18-22 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-18-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/10-25-22 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/10-25-22%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-01-22 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-01-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-08-22 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-08-22%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/11-15-22 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/11-15-22%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-06-22 Council Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-06-22%20Council%20Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-13-22 Special Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-13-22%20Special%20Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Minutes/12-20-22 Council Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Minutes/12-20-22%20Council%20Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-04-22 Council Meeting Packet - Updated 1-3 (223).pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-04-22%20Council%20Meeting%20Packet%20-%20Updated%201-3%20(223).pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-11-22 Work Session Packet- Updated 1-10.pdf?t=202509191132430
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-11-22%20Work%20Session%20Packet-%20Updated%201-10.pdf?t=202509191132430
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-18-22 Council Meeting Packet- Updated.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-18-22%20Council%20Meeting%20Packet-%20Updated.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/01-25-22 Work Session Packet.pdf?t=202509191130130
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/01-25-22%20Work%20Session%20Packet.pdf?t=202509191130130
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-01-22 Council Meeting Packet - Updated 1-31.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-01-22%20Council%20Meeting%20Packet%20-%20Updated%201-31.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-08-22 Work Session Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-08-22%20Work%20Session%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/02-15-22 Council Meeting Packet- Updated 2-15.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/02-15-22%20Council%20Meeting%20Packet-%20Updated%202-15.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/03-01-22 Council Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/03-01-22%20Council%20Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/03-15-22 Council Meeting Packet (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/03-15-22%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-05-2022 Council Meeting Packet (updated 3).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-05-2022%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-19-22 Council Meeting Packet (updated 3).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-19-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/04-26-22 Special Council Meeting Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/04-26-22%20Special%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/05-03-22 Council Meeting Packet final gaming.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/05-03-22%20Council%20Meeting%20Packet%20final%20gaming.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/05-17-22 Council Meeting Packet - updated 5.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/05-17-22%20Council%20Meeting%20Packet%20-%20updated%205.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/06-07-22 Council Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/06-07-22%20Council%20Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/06-21-22 Council Meeting Packet (updated 3).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/06-21-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/07-05-22 Council Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/07-05-22%20Council%20Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/07-19-22 Council Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/07-19-22%20Council%20Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-02-22 Council Meeting Packet (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-02-22%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-16-2022 Council Meeting Packet Final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-16-2022%20Council%20Meeting%20Packet%20Final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/08-23-22 Work Session Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/08-23-22%20Work%20Session%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-06-22 Council Meeting Packet (Version 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-06-22%20Council%20Meeting%20Packet%20(Version%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-20-22 Council Meeting Packet (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-20-22%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/09-27-22 Work Session Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/09-27-22%20Work%20Session%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/10-18-22 Council Meeting Packet - updated 2 (1).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/10-18-22%20Council%20Meeting%20Packet%20-%20updated%202%20(1).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/11-01-22 Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/11-01-22%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/11-15-22 Council Meeting Packet (updated 3).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/11-15-22%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2022/Packet/12-06-22  Council Meeting Packet (3).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2022/Packet/12-06-22%20%20Council%20Meeting%20Packet%20(3).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/01-03-23 Council Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/01-03-23%20Council%20Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/01-17-23 Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/01-17-23%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-06-23 Strategic Planning Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-06-23%20Strategic%20Planning%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-07-23 Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-07-23%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-14-23 Work Session Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-14-23%20Work%20Session%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-21-23 Council Meeting Agenda - updated.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-21-23%20Council%20Meeting%20Agenda%20-%20updated.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/02-28-23 Work Session Agenda - updated.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/02-28-23%20Work%20Session%20Agenda%20-%20updated.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-07-23 Council Meeting Agenda updated 2.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-07-23%20Council%20Meeting%20Agenda%20updated%202.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-21-23 Council Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-21-23%20Council%20Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/03-30-23 Special Council Meeting Agenda updated.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/03-30-23%20Special%20Council%20Meeting%20Agenda%20updated.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/04-04-23 Council Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/04-04-23%20Council%20Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/04-18-23 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/04-18-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-02-23 Council Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-02-23%20Council%20Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-16-23 Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-16-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-23-23 Budget Work Session Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-23-23%20Budget%20Work%20Session%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/05-24-23 Special Budget Work Session Agenda (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/05-24-23%20Special%20Budget%20Work%20Session%20Agenda%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/06-06-23 Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/06-06-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/06-20-23 Council Meeting Agenda (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/06-20-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/07-05-23 Council Meeting Agenda (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/07-05-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/07-18-23 Council Meeting Agenda (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/07-18-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/08-01-23 Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/08-01-23%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/08-15-23 Council Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/08-15-23%20Council%20Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-05-23 Council Meeting Agenda (UPDATE 1).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-05-23%20Council%20Meeting%20Agenda%20(UPDATE%201).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-12-23 Special Council Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-12-23%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-19-23 Council Meeting Agenda (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-19-23%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/09-22-2023 Special Council Meeting Agenda (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/09-22-2023%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-03-23 Council Meeting Agenda (updated 3).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-03-23%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-17-23 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-17-23%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/10-24-23 Special Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/10-24-23%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-07-23 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-07-23%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-21-23 Council Meeting Agenda (updated).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-21-23%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/11-28-2023 Special Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/11-28-2023%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/12-05-23 Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/12-05-23%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Agendas/12-19-23 Council Meeting Agenda (updated 5).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Agendas/12-19-23%20Council%20Meeting%20Agenda%20(updated%205).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/01-03-23 Council Meeting Minutes.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/01-03-23%20Council%20Meeting%20Minutes.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/01-17-23 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/01-17-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-07-23 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-14-23 Work Session Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-14-23%20Work%20Session%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/02-21-23 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/02-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-07-23 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-21-23 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/03-30-23 Special Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/03-30-23%20Special%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/04-04-23 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/04-04-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/04-18-23 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/04-18-23%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/05-02-23 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/05-02-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/05-16-23 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/05-16-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-06-23 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-06-23%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-16-23 Emergency Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-16-23%20Emergency%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/06-20-23 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/06-20-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/07-05-23 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/07-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/07-18-23 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/07-18-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/08-01-23 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/08-01-23%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/08-15-23 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/08-15-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-05-23 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-12-23 Special Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-12-23%20Special%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-19-23 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-19-23%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/09-22-23 Special Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/09-22-23%20Special%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-03-23 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-03-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-17-23 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-17-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/10-24-23 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/10-24-23%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-07-23 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-07-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-21-23 Council Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-21-23%20Council%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/11-28-23 Special Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/11-28-23%20Special%20Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/12-05-23 Council Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/12-05-23%20Council%20Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/12-19-23 Council Meeting Minutes (1).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/12-19-23%20Council%20Meeting%20Minutes%20(1).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Minutes/May 24, 2023 Special Budget Session Minutes.pdf?t=202508180936070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Minutes/May%2024,%202023%20Special%20Budget%20Session%20Minutes.pdf?t=202508180936070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/01-03-23 Council Meeting Packet.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/01-03-23%20Council%20Meeting%20Packet.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/01-17-23 Council Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/01-17-23%20Council%20Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-06-23 - Special Work Session - Strategic Planning Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-06-23%20-%20Special%20Work%20Session%20-%20Strategic%20Planning%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-07-23 Council Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-07-23%20Council%20Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/02-21-23 Council Meeting Packet - updated 2.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/02-21-23%20Council%20Meeting%20Packet%20-%20updated%202.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-07-23 Council Meeting Packet updated 2.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-07-23%20Council%20Meeting%20Packet%20updated%202.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-21-23 Council Meeting Packet - updated 2.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-21-23%20Council%20Meeting%20Packet%20-%20updated%202.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/03-30-23 Special Council Meeting Packet (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/03-30-23%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/04-04-23 Council Meeting Packet (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/04-04-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/04-18-23 Council Meeting Packet (updated 2).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/04-18-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-02-23 Council Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-02-23%20Council%20Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-16-23 Council Meeting Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-16-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-23-23 Budget Work Session Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-23-23%20Budget%20Work%20Session%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/05-24-23 Special Budget Work Session Packet (4).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/05-24-23%20Special%20Budget%20Work%20Session%20Packet%20(4).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/06-06-23 Council Meeting Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/06-06-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/06-20-23 Council Meeting Packet (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/06-20-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/07-05-23 Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/07-05-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/07-18-23 Council Meeting Packet (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/07-18-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/08-01-23 Council Meeting Packet (updated 3).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/08-01-23%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/08-15-23 Council Meeting Packet ( Small Final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/08-15-23%20Council%20Meeting%20Packet%20(%20Small%20Final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/09-05-23 Council Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/09-05-23%20Council%20Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/09-19-23 Council Meeting Packet (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/09-19-23%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-03-23 Council Meeting Packet (updated 3).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-03-23%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-17-23 Council Meeting Packet (Updated).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-17-23%20Council%20Meeting%20Packet%20(Updated).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/10-24-23 Special Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/10-24-23%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/11-07-23 Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/11-07-23%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/11-21-23 Council Meeting Packet (updated).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/11-21-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/12-05-23 Council Meeting Packet (updated).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/12-05-23%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/12-19-23 Council Meeting Packet (updated 5) (1).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/12-19-23%20Council%20Meeting%20Packet%20(updated%205)%20(1).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2023/Packet/6.2023 emergency declaration.pdf?t=202508180935580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2023/Packet/6.2023%20emergency%20declaration.pdf?t=202508180935580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-02-24 Council Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-02-24%20Council%20Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-16-24 Council Meeting Agenda (updated 3).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-16-24%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/01-23-24 Special Council Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/01-23-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-06-24 Council Meeting Agenda (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-06-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-08-24 Special Work Session Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-08-24%20Special%20Work%20Session%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/02-20-24 Council Meeting Agenda (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/02-20-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-05-24 Council Meeting Agenda (updated 2).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-05-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-12-24 Special Council Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-12-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-19-24 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-19-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/03-26-24 Special Council Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/03-26-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/04-02-24 Council Meeting Agenda (updated 2).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/04-02-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/04-16-24 Council Meeting Agenda (Updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/04-16-24%20Council%20Meeting%20Agenda%20(Updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-07-24 Council Meeting Agenda (updated).pdf?t=202510021608270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-07-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202510021608270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-21-24 Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-21-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/05-28-24 Budget Work Session Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/05-28-24%20Budget%20Work%20Session%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-04-24 Council Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-04-24%20Council%20Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-11-24 Special Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-11-24%20Special%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/06-18-24 Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/06-18-24%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-02-24 Council Meeting Agenda (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-02-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-16-24 Council Meeting Agenda (Updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-16-24%20Council%20Meeting%20Agenda%20(Updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/07-23-24 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/07-23-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/08-06-24 Council Meeting Agenda (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/08-06-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/08-20-24 Council Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/08-20-24%20Council%20Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/09-03-24 Council Meeting Agenda (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/09-03-24%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/09-17-24 Council Meeting Agenda (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/09-17-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-01-24 Council Meeting Agenda (updated 2).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-01-24%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-08-24 Special Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-08-24%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/10-15-24 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/10-15-24%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/11-05-24 Council Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/11-05-24%20Council%20Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/12-03-24 Council Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/12-03-24%20Council%20Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Agendas/12-17-24 Council Meeting Agenda (final 3).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Agendas/12-17-24%20Council%20Meeting%20Agenda%20(final%203).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-02-24 Council Meeting Minutes (updated).pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-02-24%20Council%20Meeting%20Minutes%20(updated).pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-16-24 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/01-23-24  Special Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/01-23-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/02-06-24 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/02-06-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/02-20-24 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/02-20-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-05-24 Council Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-05-24%20Council%20Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-12-24  Special Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-12-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-19-24 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-19-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/03-26-24  Special Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/03-26-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/04-02-24 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/04-02-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/04-16-24 Council Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/04-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/05-07-24 Council Meeting Minutes.pdf?t=202510021608370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/05-07-24%20Council%20Meeting%20Minutes.pdf?t=202510021608370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/05-21-24 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/05-21-24%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-04-24 Council Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-04-24%20Council%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-11-24  Special Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-11-24%20%20Special%20Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/06-18-24 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/06-18-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-02-24 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-02-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-16-24 Council Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-16-24%20Council%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/07-23-24 Special Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/07-23-24%20Special%20Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/08-06-24 Council Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/08-06-24%20Council%20Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/08-20-24 Council Meeting Minutes.pdf?t=202508201324430
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/08-20-24%20Council%20Meeting%20Minutes.pdf?t=202508201324430
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/09-03-24 Council Meeting Minutes.pdf?t=202508201325110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/09-03-24%20Council%20Meeting%20Minutes.pdf?t=202508201325110
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/09-17-24 Council Meeting Minutes.pdf?t=202508201325420
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/09-17-24%20Council%20Meeting%20Minutes.pdf?t=202508201325420
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-01-24 Council Meeting Minutes.pdf?t=202508201337270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-01-24%20Council%20Meeting%20Minutes.pdf?t=202508201337270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-08-24 Special Meeting Minutes.pdf?t=202509181744300
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-08-24%20Special%20Meeting%20Minutes.pdf?t=202509181744300
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/10-15-24 Council Meeting Minutes.pdf?t=202508201401370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/10-15-24%20Council%20Meeting%20Minutes.pdf?t=202508201401370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/11-05-24 Council Meeting Minutes.pdf?t=202508201402480
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/11-05-24%20Council%20Meeting%20Minutes.pdf?t=202508201402480
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/11-19-24 Council Meeting Minutes.pdf?t=202508201404000
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/11-19-24%20Council%20Meeting%20Minutes.pdf?t=202508201404000
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/12-03-24 Council Meeting Minutes.pdf?t=202508201404310
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/12-03-24%20Council%20Meeting%20Minutes.pdf?t=202508201404310
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/12-17-24 Council Meeting Minutes.pdf?t=202508201405060
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Minutes/12-17-24%20Council%20Meeting%20Minutes.pdf?t=202508201405060
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/01-02-24 Council Meeting Packet (updated 3).pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/01-02-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/01-16-24 Council Meeting Packet (updated 3).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/01-16-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/02-06-24 Council Meeting Packet (updated 2).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/02-06-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/02-20-24 Council Meeting Packet (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/02-20-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/03-05-24 Council Meeting Packet (updated 3).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/03-05-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/03-19-24 Council Meeting Packet (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/03-19-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/04-02-24 Council Meeting Packet (updated 3).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/04-02-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/04-16-24 Council Meeting Packet (Updated 3).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/04-16-24%20Council%20Meeting%20Packet%20(Updated%203).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-07-24 Council Meeting Packet (updated).pdf?t=202510021607550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-07-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202510021607550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-21-24 Council Meeting Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-21-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/05-28-24 Budget Work Session Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/05-28-24%20Budget%20Work%20Session%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/06-04-24 Council Meeting Packet (updated 3).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/06-04-24%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/06-18-24 Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/06-18-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-02-24 Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-02-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-16-24 Council Meeting Packet (Updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-16-24%20Council%20Meeting%20Packet%20(Updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/07-23-24 Special Council Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/07-23-24%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/08-06-24 Council Meeting Packet (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/08-06-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/08-20-24 Council Meeting Packet (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/08-20-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/09-03-24 Council Meeting Packet (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/09-03-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/09-17-24 Council Meeting Packet (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/09-17-24%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-01-24 Council Meeting Packet (updated 4).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-01-24%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-08-24 Special Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-08-24%20Special%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/10-15-24 Council Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/10-15-24%20Council%20Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/11-05-24 Council Meeting Packet (updated).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/11-05-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/12-03-24 Council Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/12-03-24%20Council%20Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2024/Packet/12-17-24 Council Meeting Packet (final 3).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2024/Packet/12-17-24%20Council%20Meeting%20Packet%20(final%203).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/01-07-25 Council Meeting Agenda (updated).pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/01-07-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/03-04-25 Council Meeting Agenda (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/03-04-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/03-18-25 Council Meeting Agenda (updated 2).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/03-18-25%20Council%20Meeting%20Agenda%20(updated%202).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-01-25 Council Meeting Agenda (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-01-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-08-25 Special Council Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-08-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/04-15-25 Council Meeting Agenda (updated 4).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/04-15-25%20Council%20Meeting%20Agenda%20(updated%204).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/05-06-25 Council Meeting Agenda (updated 3).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/05-06-25%20Council%20Meeting%20Agenda%20(updated%203).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/05-20-25 Council Meeting Agenda (updated 4).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/05-20-25%20Council%20Meeting%20Agenda%20(updated%204).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-03-25 Council Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-03-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-17-25 Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-17-25%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/06-24-25 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/06-24-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-01-25 Council Meeting Agenda (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-01-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-08-25 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-08-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-15-25 Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-15-25%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-18-25 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-18-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-22-25 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-22-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/07-29-25 Special Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/07-29-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-05-2025 Regular Council Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-05-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-19-2025 Regular Council Meeting Agenda.pdf?t=202508201204040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-19-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202508201204040
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/08-26-25 Special Council Meeting Agenda.pdf?t=202508261134260
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/08-26-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202508261134260
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-02-2025 Regular Council Meeting Agenda.pdf?t=202509021613440
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-02-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202509021613440
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-09-25 Special Council Meeting Agenda.pdf?t=202509051757100
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-09-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509051757100
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-16-2025 Regular Council Meeting Agenda.pdf?t=202509161727150
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-16-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202509161727150
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-23-25 Special Council Meeting Agenda.pdf?t=202509191848550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-23-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509191848550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/09-30-25 Special Council Meeting Agenda.pdf?t=202509291848070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/09-30-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202509291848070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/1-21-25 Council Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/1-21-25%20Council%20Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-07-2025 Regular Council Meeting Agenda.docx?t=202510061737380
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-07-2025%20Regular%20Council%20Meeting%20Agenda.docx?t=202510061737380
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-14-25 Special Council Meeting Agenda.pdf?t=202510141201310
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-14-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202510141201310
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-21-2025 Regular Council Meeting Agenda.pdf?t=202510201613100
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-21-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202510201613100
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/10-28-25 Special Council Meeting Agenda.pdf?t=202510241908350
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/10-28-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202510241908350
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-04-2025 Regular Council Meeting Agenda.pdf?t=202511041641150
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-04-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202511041641150
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-18-2025 Regular Council Meeting Agenda.pdf?t=202511181612550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-18-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202511181612550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/11-18-2025 Regular Council Meeting Packet.pdf?t=202511181613200
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/11-18-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202511181613200
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-02-2025 Regular Council Meeting Agenda.pdf?t=202512021744490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-02-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202512021744490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-09-25 Special Council Meeting Agenda.pdf?t=202512091600220
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-09-25%20Special%20Council%20Meeting%20Agenda.pdf?t=202512091600220
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-16-2025 Regular Council Meeting Agenda.pdf?t=202512121852270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-16-2025%20Regular%20Council%20Meeting%20Agenda.pdf?t=202512121852270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/12-30-25 Work Session Agenda.pdf?t=202512261532010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/12-30-25%20Work%20Session%20Agenda.pdf?t=202512261532010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/2-04-25 Council Meeting Agenda (updated).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/2-04-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/2-18-25 Council Meeting Agenda (updated).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/2-18-25%20Council%20Meeting%20Agenda%20(updated).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Agendas/8-19-2025 Regular Council Meeting Packet (updated 2.5).pdf?t=202508201204310
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Agendas/8-19-2025%20Regular%20Council%20Meeting%20Packet%20(updated%202.5).pdf?t=202508201204310
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/01-07-25 Council Meeting Minutes.pdf?t=202508201151160
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/01-07-25%20Council%20Meeting%20Minutes.pdf?t=202508201151160
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/01-21-25 Council Meeting Minutes.pdf?t=202508201152420
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/01-21-25%20Council%20Meeting%20Minutes.pdf?t=202508201152420
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/02-04-25 Council Meeting Minutes.pdf?t=202508201153270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/02-04-25%20Council%20Meeting%20Minutes.pdf?t=202508201153270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/02-18-25 Council Meeting Minutes.pdf?t=202508201154190
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/02-18-25%20Council%20Meeting%20Minutes.pdf?t=202508201154190
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/03-04-25 Council Meeting Minutes.pdf?t=202508201154580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/03-04-25%20Council%20Meeting%20Minutes.pdf?t=202508201154580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/03-18-25 Council Meeting Minutes.pdf?t=202508201157120
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/03-18-25%20Council%20Meeting%20Minutes.pdf?t=202508201157120
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-01-25 Council Meeting Minutes.pdf?t=202509171204560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-01-25%20Council%20Meeting%20Minutes.pdf?t=202509171204560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-08-25 Special Meeting Minutes.pdf?t=202509171207350
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-08-25%20Special%20Meeting%20Minutes.pdf?t=202509171207350
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/04-15-25 Council Meeting Minutes.pdf?t=202508201202280
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/04-15-25%20Council%20Meeting%20Minutes.pdf?t=202508201202280
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/05-06-25 Minutes.pdf?t=202508201209510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/05-06-25%20Minutes.pdf?t=202508201209510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/05-20-25 Minutes.pdf?t=202508201213160
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/05-20-25%20Minutes.pdf?t=202508201213160
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-03-25 Minutes.pdf?t=202508201214400
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-03-25%20Minutes.pdf?t=202508201214400
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-10-25 Work Session Minutes.pdf?t=202509191352290
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-10-25%20Work%20Session%20Minutes.pdf?t=202509191352290
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-17-25 Minutes.pdf?t=202508201321210
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-17-25%20Minutes.pdf?t=202508201321210
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/06-24-25 Special Meeting Minutes.pdf?t=202509171215540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/06-24-25%20Special%20Meeting%20Minutes.pdf?t=202509171215540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-01-25 Minutes.pdf?t=202508201323190
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-01-25%20Minutes.pdf?t=202508201323190
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-15-25 Minutes.pdf?t=202509181657290
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-15-25%20Minutes.pdf?t=202509181657290
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-18-25 Special Meeting Minutes.pdf?t=202509181651400
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-18-25%20Special%20Meeting%20Minutes.pdf?t=202509181651400
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-22-25 Special Meeting Minutes.pdf?t=202509181658410
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-22-25%20Special%20Meeting%20Minutes.pdf?t=202509181658410
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/07-29-25 Special Meeting Minutes.pdf?t=202509181701040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/07-29-25%20Special%20Meeting%20Minutes.pdf?t=202509181701040
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-05-25 Minutes.pdf?t=202509181702040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-05-25%20Minutes.pdf?t=202509181702040
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-19-25 Minutes.pdf?t=202509181703050
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-19-25%20Minutes.pdf?t=202509181703050
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/08-26-25 Special Meeting Minutes.pdf?t=202509181704070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/08-26-25%20Special%20Meeting%20Minutes.pdf?t=202509181704070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-02-25 Minutes.pdf?t=202510031218560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-02-25%20Minutes.pdf?t=202510031218560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-09-25 Special Meeting Minutes.pdf?t=202510031219400
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-09-25%20Special%20Meeting%20Minutes.pdf?t=202510031219400
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-16-25 Minutes.pdf?t=202510031220250
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-16-25%20Minutes.pdf?t=202510031220250
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-23-25 Special Meeting Minutes.pdf?t=202510031221080
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-23-25%20Special%20Meeting%20Minutes.pdf?t=202510031221080
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/09-30-25 Special Meeting Minutes.pdf?t=202510101240140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/09-30-25%20Special%20Meeting%20Minutes.pdf?t=202510101240140
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-14-25 Special Meeting Minutes.pdf?t=202511211840140
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-14-25%20Special%20Meeting%20Minutes.pdf?t=202511211840140
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-21-25 Council Meeting Minutes.pdf?t=202511211839270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-21-25%20Council%20Meeting%20Minutes.pdf?t=202511211839270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-28-25 Special Meeting Minutes.pdf?t=202511211841000
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-28-25%20Special%20Meeting%20Minutes.pdf?t=202511211841000
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/10-7-25 Council Meeting Mintues.pdf?t=202511211838440
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/10-7-25%20Council%20Meeting%20Mintues.pdf?t=202511211838440
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/11-04-25 Council Meeting Minutes.pdf?t=202512021241070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/11-04-25%20Council%20Meeting%20Minutes.pdf?t=202512021241070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/11-18-25 Council Meeting Minutes.pdf?t=202512091129130
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/11-18-25%20Council%20Meeting%20Minutes.pdf?t=202512091129130
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-09-25 Special Meeting Minutes.pdf?t=202512161219180
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-09-25%20Special%20Meeting%20Minutes.pdf?t=202512161219180
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-16-25 Council Meeting Minutes.pdf?t=202602021432390
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-16-25%20Council%20Meeting%20Minutes.pdf?t=202602021432390
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Minutes/12-2-25 Council Meeting Minutes.pdf?t=202512161218030
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Minutes/12-2-25%20Council%20Meeting%20Minutes.pdf?t=202512161218030
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/01-07-25 Council Meeting Packet (updated).pdf?t=202508201148320
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/01-07-25%20Council%20Meeting%20Packet%20(updated).pdf?t=202508201148320
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/02-04-24 Council Meeting Packet (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/02-04-24%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/02-18-25 Council Meeting Packet (updated 3).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/02-18-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/03-04-25 Council Meeting Packet (updated 3).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/03-04-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/03-18-25 Council Meeting Packet (updated 2).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/03-18-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/04-01-25 Council Meeting Packet (updated)_Redacted.pdf?t=202604011308490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/04-01-25%20Council%20Meeting%20Packet%20(updated)_Redacted.pdf?t=202604011308490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/04-15-25 Council Meeting Packet (updated 4).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/04-15-25%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/05-06-25 Council Meeting Packet (updated 3).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/05-06-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/05-20-25 Council Meeting Packet (updated 4).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/05-20-25%20Council%20Meeting%20Packet%20(updated%204).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-03-25 Council Meeting Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-03-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-17-25 Council Meeting Packet (updated 3).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-17-25%20Council%20Meeting%20Packet%20(updated%203).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/06-24-25 Special Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/06-24-25%20Special%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/07-01-25 Council Meeting Packet (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/07-01-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/07-15-25 Council Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/07-15-25%20Council%20Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/08-05-2025 Regular Council Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/08-05-2025%20Regular%20Council%20Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-02-2025 Regular Council Meeting Packet.pdf?t=202509021518390
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-02-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202509021518390
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-09-25 Special Council Meeting Packet.pdf?t=202509051757330
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-09-25%20Special%20Council%20Meeting%20Packet.pdf?t=202509051757330
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-16-2025 Regular Council Meeting Packet.pdf?t=202509161729200
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-16-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202509161729200
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/09-30-25 Special Council Meeting Packet.pdf?t=202509291851430
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/09-30-25%20Special%20Council%20Meeting%20Packet.pdf?t=202509291851430
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/1-21-25 Council Meeting Packet (updated 2).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/1-21-25%20Council%20Meeting%20Packet%20(updated%202).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/10-07-2025 Regular Council Meeting Packet.pdf?t=202510061739080
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/10-07-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202510061739080
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/10-21-25 Regular Council Meeting Packet.pdf?t=202510201616110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/10-21-25%20Regular%20Council%20Meeting%20Packet.pdf?t=202510201616110
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/11-04-2025 Regular Council Meeting Packet.pdf?t=202511041644040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/11-04-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202511041644040
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-02-2025 Regular Council Meeting Packet.pdf?t=202512021752190
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-02-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202512021752190
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-16-2025 Regular Council Meeting Packet.pdf?t=202512161550340
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-16-2025%20Regular%20Council%20Meeting%20Packet.pdf?t=202512161550340
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2025/Packet/12-30-25 Work Session Packet.pdf?t=202512261532180
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2025/Packet/12-30-25%20Work%20Session%20Packet.pdf?t=202512261532180
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/02.03.26 Regular Meeting Agenda.pdf?t=202602031056310
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/02.03.26%20Regular%20Meeting%20Agenda.pdf?t=202602031056310
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/04-07-2026 Regular Council Meeting Packet.pdf?t=202604061046000
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/04-07-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202604061046000
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/05-26-26 Special Council Meeting Agenda.pdf?t=202605221533370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/05-26-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202605221533370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-02-2026 Regular Council Meeting Agenda.pdf?t=202606021248370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-02-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202606021248370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-16-2026 Regular Council Meeting Agenda.pdf?t=202606161240340
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-16-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202606161240340
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/06-16-2026 Regular Council Meeting Packet (updated).pdf?t=202606161917160
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/06-16-2026%20Regular%20Council%20Meeting%20Packet%20(updated).pdf?t=202606161917160
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-07-2026 Regular Council Meeting Agenda - update.pdf?t=202607061149060
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-07-2026%20Regular%20Council%20Meeting%20Agenda%20-%20update.pdf?t=202607061149060
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-07-2026 Regular Council Meeting Packet (2) - update.pdf?t=202607131129520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-07-2026%20Regular%20Council%20Meeting%20Packet%20(2)%20-%20update.pdf?t=202607131129520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/07-21-2026 Regular Council Meeting Agenda.pdf?t=202607171329430
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/07-21-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202607171329430
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/08-04-26 Regular Council Meeting Agenda.pdf?t=202607311348170
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/08-04-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202607311348170
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/08-18-26 Regular Council Meeting Agenda.pdf?t=202608141523450
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/08-18-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202608141523450
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/09-01-26 Regular Council Meeting Agenda.pdf?t=202609011618080
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/09-01-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202609011618080
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/09-15-26 Regular Council Meeting Agenda.pdf?t=202609151324110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/09-15-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202609151324110
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-20-2026 Regular Council Meeting Agenda.pdf?t=202601161423170
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-20-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202601161423170
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-20-26 Regular Council Meeting Packet.pdf?t=202601161639410
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-20-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202601161639410
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-27-26 Special Council Meeting Agenda.pdf?t=202601231241250
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-27-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202601231241250
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/1-6-2026 Regular Council Meeting Agenda.pdf?t=202601061612480
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/1-6-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202601061612480
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-06-26 Regular Council Meeting Agenda.pdf?t=202610051904430
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-06-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202610051904430
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-20-26 Regular Council Meeting Agenda.pdf?t=202610201423440
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-20-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202610201423440
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/10-27-26 Special Council Meeting Agenda.pdf?t=202610231336210
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/10-27-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202610231336210
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-03-26 Regular Council Meeting Agenda.pdf?t=202611031126480
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-03-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202611031126480
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-10-26 Special Council Meeting Agenda.pdf?t=202611061404180
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-10-26%20Special%20Council%20Meeting%20Agenda.pdf?t=202611061404180
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/11-17-26 Regular Council Meeting Agenda.pdf?t=202611171146560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/11-17-26%20Regular%20Council%20Meeting%20Agenda.pdf?t=202611171146560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/2-17-2026 Regular Council Meeting Agenda.pdf?t=202602171050270
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/2-17-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202602171050270
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/3-17-2026 Regular Council Meeting Agenda.pdf?t=202603131515220
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/3-17-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202603131515220
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/3-3-2026 Regular Council Meeting Agenda.pdf?t=202602271653150
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/3-3-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202602271653150
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/4-07-2026 Regular Council Meeting Agenda.pdf?t=202604061023490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/4-07-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202604061023490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/4-21-2026 Regular Council Meeting Agenda.pdf?t=202604211447080
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/4-21-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202604211447080
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/5-19-2026 Regular Council Meeting Agenda.pdf?t=202605191421370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/5-19-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202605191421370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agendas/5-5-2026 Regular Council Meeting Agenda.pdf?t=202605011546570
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Agendas/5-5-2026%20Regular%20Council%20Meeting%20Agenda.pdf?t=202605011546570
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-06-26 Council Meeting Minutes.pdf?t=202602021430010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-06-26%20Council%20Meeting%20Minutes.pdf?t=202602021430010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-20-26 Council Meeting Minutes.pdf?t=202602021430420
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-20-26%20Council%20Meeting%20Minutes.pdf?t=202602021430420
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/01-27-26 Special Meeting Minutes.pdf?t=202602021428510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/01-27-26%20Special%20Meeting%20Minutes.pdf?t=202602021428510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/02-03-26 Council Meeting Minutes.pdf?t=202603091728200
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/02-03-26%20Council%20Meeting%20Minutes.pdf?t=202603091728200
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/02-17-26 Council Meeting Minutes.pdf?t=202603091728580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/02-17-26%20Council%20Meeting%20Minutes.pdf?t=202603091728580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/03-03-26 Council Meeting Minutes.pdf?t=202603311156530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/03-03-26%20Council%20Meeting%20Minutes.pdf?t=202603311156530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/03-17-26 Council Meeting Minutes.pdf?t=202605051650050
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/03-17-26%20Council%20Meeting%20Minutes.pdf?t=202605051650050
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/04-07-26 Council Meeting Minutes.pdf?t=202605051650420
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/04-07-26%20Council%20Meeting%20Minutes.pdf?t=202605051650420
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/04-21-26 Council Meeting Minutes.pdf?t=202605051651200
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/04-21-26%20Council%20Meeting%20Minutes.pdf?t=202605051651200
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-05-26 Council Meeting Minutes.pdf?t=202606081528040
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-05-26%20Council%20Meeting%20Minutes.pdf?t=202606081528040
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-19-26 Council Meeting Minutes.pdf?t=202606081528560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-19-26%20Council%20Meeting%20Minutes.pdf?t=202606081528560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/05-26-26 Special Meeting Minutes.pdf?t=202606081529490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/05-26-26%20Special%20Meeting%20Minutes.pdf?t=202606081529490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/06-02-26 Council Meeting Minutes.pdf?t=202606151344290
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/06-02-26%20Council%20Meeting%20Minutes.pdf?t=202606151344290
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/06-16-26 Council Meeting Minutes.pdf?t=202607171602550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/06-16-26%20Council%20Meeting%20Minutes.pdf?t=202607171602550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/07-07-26 Council Meeting Minutes.pdf?t=202607171602100
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/07-07-26%20Council%20Meeting%20Minutes.pdf?t=202607171602100
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/07-21-26 Council Meeting Minutes.pdf?t=202608201257250
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/07-21-26%20Council%20Meeting%20Minutes.pdf?t=202608201257250
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08-04-26 Council Meeting Minutes.pdf?t=202608201257570
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/08-04-26%20Council%20Meeting%20Minutes.pdf?t=202608201257570
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08-18-26 Council Meeting Minutes.pdf?t=202608311550450
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/08-18-26%20Council%20Meeting%20Minutes.pdf?t=202608311550450
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09-01-26 Council Meeting Minutes.pdf?t=202609221642400
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/09-01-26%20Council%20Meeting%20Minutes.pdf?t=202609221642400
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09-15-26 Council Meeting Minutes.pdf?t=202610191720420
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/09-15-26%20Council%20Meeting%20Minutes.pdf?t=202610191720420
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-06-26 Council Meeting Minutes.pdf?t=202610191721560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-06-26%20Council%20Meeting%20Minutes.pdf?t=202610191721560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-20-26 Council Meeting Minutes.pdf?t=202611091430310
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-20-26%20Council%20Meeting%20Minutes.pdf?t=202611091430310
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10-27-26 Special Meeting Minutes.pdf?t=202611091432330
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/10-27-26%20Special%20Meeting%20Minutes.pdf?t=202611091432330
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/11-03-26 Council Meeting Minutes.pdf?t=202611171148080
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Minutes/11-03-26%20Council%20Meeting%20Minutes.pdf?t=202611171148080
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/02.03.26 Regular Meeting Packet.pdf?t=202602031058170
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/02.03.26%20Regular%20Meeting%20Packet.pdf?t=202602031058170
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/06-02-2026 Regular Council Meeting Packet.pdf?t=202606021841110
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/06-02-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202606021841110
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/07-21-2026 Regular Council Meeting Packet.pdf?t=202607171333470
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/07-21-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202607171333470
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/08-04-26 Regular Council Meeting Packet.pdf?t=202608051803450
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/08-04-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202608051803450
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/08-18-26 Regular Council Meeting Packet (reduced size).pdf?t=202608171434010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/08-18-26%20Regular%20Council%20Meeting%20Packet%20(reduced%20size).pdf?t=202608171434010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/09-01-26 Regular Council Meeting Packet.pdf?t=202609011810060
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/09-01-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202609011810060
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/09-15-26 Regular Council Meeting Packet.pdf?t=202609151758070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/09-15-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202609151758070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/1-6-2026 Regular Council Meeting Packet.pdf?t=202601061613090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/1-6-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202601061613090
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/10-06-26 Regular Council Meeting Packet.pdf?t=202610061402540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/10-06-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202610061402540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/10-20-26 Regular Council Meeting Packet.pdf?t=202610201519050
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/10-20-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202610201519050
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-03-26 Regular Council Meeting Packet.pdf?t=202611031127010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-03-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202611031127010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-10-26 Work Session Packet.pdf?t=202611061359230
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-10-26%20Work%20Session%20Packet.pdf?t=202611061359230
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/11-17-26 Regular Council Meeting Packet.pdf?t=202611171147220
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/11-17-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202611171147220
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/2-17-2026 Regular Council Meeting Packet.pdf?t=202602171051200
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/2-17-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202602171051200
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/3-17-2026 Regular Council Meeting Packet.pdf?t=202603131515450
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/3-17-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202603131515450
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/3-3-2026 Regular Council Meeting Packet.pdf?t=202602271653410
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/3-3-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202602271653410
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/4-21-2026 Regular Council Meeting Packet.pdf?t=202604211447440
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/4-21-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202604211447440
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/5-19-2026 Regular Council Meeting Packet.pdf?t=202605191422010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/5-19-2026%20Regular%20Council%20Meeting%20Packet.pdf?t=202605191422010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/2026/Packet/5-5-26 Regular Council Meeting Packet.pdf?t=202605051128070
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/2026/Packet/5-5-26%20Regular%20Council%20Meeting%20Packet.pdf?t=202605051128070
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/02-02-21 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/02-02-21%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/04-06-21 Pre-Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/04-06-21%20Pre-Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/01-05-21 Pre-Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/01-05-21%20Pre-Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/01-19-21 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/01-19-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/02-16-21 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/02-16-21%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/03-02-21 Pre-Meeting Agenda - Updated.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/03-02-21%20Pre-Meeting%20Agenda%20-%20Updated.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/03-16-21 Pre-Meeting Agenda- Updated.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/03-16-21%20Pre-Meeting%20Agenda-%20Updated.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/04-06-21 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/04-06-21%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/04-20-21 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/04-20-21%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/05-04-21 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/05-04-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/05-18-21 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/05-18-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/06-01-21 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/06-01-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/06-15-21 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/06-15-21%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/07-06-21 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/07-06-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/07-20-21 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/07-20-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/08-03-21 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/08-03-21%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/08-17-21 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/08-17-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/09-07-21 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/09-07-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/09-21-21 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/09-21-21%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/10-05-21 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/10-05-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/10-19-21 Pre-Meeting Agenda- Updated 10-19.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/10-19-21%20Pre-Meeting%20Agenda-%20Updated%2010-19.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/11-02-21 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/11-02-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/11-16-21 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/11-16-21%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/12-07-21 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/12-07-21%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Agendas/12-21-21 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Agendas/12-21-21%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/01-05-21 Pre-Meeting Minutes.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/01-05-21%20Pre-Meeting%20Minutes.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/01-19-21 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/01-19-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/02-02-21 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/02-02-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/02-16-21 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/02-16-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/03-02-21 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/03-02-21%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/03-16-21 Pre-Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/03-16-21%20Pre-Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/04-20-21 Pre-Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/04-20-21%20Pre-Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/05-04-21 Pre-Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/05-04-21%20Pre-Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/05-18-21 Pre-Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/05-18-21%20Pre-Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/06-01-21 Pre-Meeting Minutes - final.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/06-01-21%20Pre-Meeting%20Minutes%20-%20final.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/06-15-21 Pre-Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/06-15-21%20Pre-Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/07-06-21 Pre-Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/07-06-21%20Pre-Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/07-20-21 Pre-Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/07-20-21%20Pre-Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/08-03-21 Pre-Meeting Minutes.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/08-03-21%20Pre-Meeting%20Minutes.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/08-17-21 Pre-Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/08-17-21%20Pre-Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/09-07-21 Pre-Meeting Minutes.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/09-07-21%20Pre-Meeting%20Minutes.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/10-05-21 Pre-Meeting Minutes.pete.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/10-05-21%20Pre-Meeting%20Minutes.pete.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/10-19-21 Pre-Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/10-19-21%20Pre-Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/11-02-21 Pre-Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/11-02-21%20Pre-Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/11-16-21 Pre-Meeting Minutes.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/11-16-21%20Pre-Meeting%20Minutes.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/12-07-21 Pre-Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/12-07-21%20Pre-Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/12-21-21 Pre-Meeting Minutes.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/12-21-21%20Pre-Meeting%20Minutes.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Minutes/9-21-21 Pre-Meeting Minutes.pdf?t=202508180935580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Minutes/9-21-21%20Pre-Meeting%20Minutes.pdf?t=202508180935580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/01-19-21 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/01-19-21%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/02-16-21 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/02-16-21%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/03-02-21 Pre-Meeting Packet- Updated.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/03-02-21%20Pre-Meeting%20Packet-%20Updated.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/03-16-21 Pre-Meeting Packet- Updated.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/03-16-21%20Pre-Meeting%20Packet-%20Updated.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/04-06-21 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/04-06-21%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/04-20-21 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/04-20-21%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/05-18-21 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/05-18-21%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/07-06-21 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/07-06-21%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/08-17-21 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/08-17-21%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/09-07-21 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/09-07-21%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/09-21-21 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/09-21-21%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/10-05-21 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/10-05-21%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/11-02-21 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/11-02-21%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/11-16-21 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/11-16-21%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/12-07-21 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/12-07-21%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2021/Packet/12-21-21 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2021/Packet/12-21-21%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/0. 09-20-22 Pre-Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/0.%2009-20-22%20Pre-Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/01-04-21 Pre-Meeting Agenda - Updated 1-4.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/01-04-21%20Pre-Meeting%20Agenda%20-%20Updated%201-4.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/01-18-22 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/01-18-22%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/02-01-22 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/02-01-22%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/02-15-22 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/02-15-22%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/03-01-22 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/03-01-22%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/03-15-22 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/03-15-22%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/04-05-22 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/04-05-22%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/04-19-22 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/04-19-22%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/05-03-22 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/05-03-22%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/05-17-22 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/05-17-22%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/06-07-22 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/06-07-22%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/06-21-22 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/06-21-22%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/07-05-22 Pre-Meeting Agenda - updated.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/07-05-22%20Pre-Meeting%20Agenda%20-%20updated.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/07-19-22 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/07-19-22%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/08-02-22 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/08-02-22%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/08-16-22 Pre-Meeting Agenda Final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/08-16-22%20Pre-Meeting%20Agenda%20Final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/09-06-22 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/09-06-22%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/10-04-22 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/10-04-22%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/10-18-22 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/10-18-22%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/11-01-22 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/11-01-22%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/11-15-22 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/11-15-22%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/12-06-22 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/12-06-22%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Agendas/12-20-22 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Agendas/12-20-22%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/01-04-22 Pre-Meeting Minutes.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/01-04-22%20Pre-Meeting%20Minutes.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/01-18-22 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/01-18-22%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/02-01-22 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/02-01-22%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/02-15-22 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/02-15-22%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/03-01-22 Pre-Meeting Minutes.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/03-01-22%20Pre-Meeting%20Minutes.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/03-15-22 Pre Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/03-15-22%20Pre%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/04-05-22 Pre-Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/04-05-22%20Pre-Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/04-19-22 Pre Meeting Minutes.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/04-19-22%20Pre%20Meeting%20Minutes.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/05-17-22 Pre-Meeting Minutes.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/05-17-22%20Pre-Meeting%20Minutes.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Minutes/8-2-2022 Pre Meeting Minutes.pdf?t=202508180935580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Minutes/8-2-2022%20Pre%20Meeting%20Minutes.pdf?t=202508180935580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/02-01-22 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/02-01-22%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/03-01-22 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/03-01-22%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/03-15-22 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/03-15-22%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/04-05-22 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/04-05-22%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/04-19-22 Pre-Meeting Packet (updated).pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/04-19-22%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/05-03-22 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/05-03-22%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/05-17-22 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/05-17-22%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/07-19-22 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/07-19-22%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/08-02-22 Pre-Meeting Packet (2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/08-02-22%20Pre-Meeting%20Packet%20(2).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/08-16-2022 Pre-Meeting Packet Final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/08-16-2022%20Pre-Meeting%20Packet%20Final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/09-20-22 Pre-Meeting Packet (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/09-20-22%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/10-04-22 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/10-04-22%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/11-01-22 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/11-01-22%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/11-15-22 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/11-15-22%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/12-06-2022 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/12-06-2022%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2022/Packet/12-20-22 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2022/Packet/12-20-22%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/01-03-23 Pre-Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/01-03-23%20Pre-Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/01-17-23 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/01-17-23%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/02-07-23 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/02-07-23%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/02-21-23 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/02-21-23%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/03-07-23 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/03-07-23%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/03-21-23 Pre-Meeting Agenda - updated.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/03-21-23%20Pre-Meeting%20Agenda%20-%20updated.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/04-04-23 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/04-04-23%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/04-18-23 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/04-18-23%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/05-02-23 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/05-02-23%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/05-16-23 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/05-16-23%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/06-06-23 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/06-06-23%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/06-20-23 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/06-20-23%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/07-05-23 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/07-05-23%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/07-18-23 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/07-18-23%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/08-01-23 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/08-01-23%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/08-15-23 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/08-15-23%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/09-05-23 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/09-05-23%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/09-19-23 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/09-19-23%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/10-17-23 Pre-Meeting Agenda (updated 2).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/10-17-23%20Pre-Meeting%20Agenda%20(updated%202).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/10-3-23 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/10-3-23%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/11-21-23 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/11-21-23%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/11-7-23 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/11-7-23%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/12-05-23 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/12-05-23%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Agendas/12-19-23 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Agendas/12-19-23%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/01-03-23 Pre-Meeting Packet.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/01-03-23%20Pre-Meeting%20Packet.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/02-07-23 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/02-07-23%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/02-21-23 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/02-21-23%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/03-07-23 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/03-07-23%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/03-21-23 Pre-Meeting Packet - updated.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/03-21-23%20Pre-Meeting%20Packet%20-%20updated.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/04-04-23 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/04-04-23%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/04-18-23 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/04-18-23%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/05-02-23 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/05-02-23%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/05-16-23 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/05-16-23%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/06-06-23 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/06-06-23%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/07-18-23 Pre-Meeting Packet (1).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/07-18-23%20Pre-Meeting%20Packet%20(1).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/08-01-23 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/08-01-23%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/08-15-23 Pre-Meeting Packet final.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/08-15-23%20Pre-Meeting%20Packet%20final.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/10-17-23 Pre-Meeting Packet (updated 2).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/10-17-23%20Pre-Meeting%20Packet%20(updated%202).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/10-3-23 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/10-3-23%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/11-21-23 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/11-21-23%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/11-7-23 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/11-7-23%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/12-19-23 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/12-19-23%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2023/Packet/6-20-23 Pre-Meeting Packet Packet (Updated 1).pdf?t=202508180935580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2023/Packet/6-20-23%20Pre-Meeting%20Packet%20Packet%20(Updated%201).pdf?t=202508180935580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/01-02-24 Pre-Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/01-02-24%20Pre-Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/01-16-24 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/01-16-24%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/02-06-24 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/02-06-24%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/02-20-24 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/02-20-24%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/03-05-24 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/03-05-24%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/03-19-24 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/03-19-24%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/04-02-24 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/04-02-24%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/04-16-24 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/04-16-24%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/05-07-24 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/05-07-24%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/05-21-24 Pre-Meeting Agenda (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/05-21-24%20Pre-Meeting%20Agenda%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/06-04-24 Pre-Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/06-04-24%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/06-18-24 Pre-Meeting Agenda (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/06-18-24%20Pre-Meeting%20Agenda%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/07-16-2024 Pre-Meeting Agenda (Updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/07-16-2024%20Pre-Meeting%20Agenda%20(Updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/08-06-2024 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/08-06-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/08-20-2024 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/08-20-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/09-03-2024 Pre-Meeting Agenda.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/09-03-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/09-17-2024 Pre-Meeting Agenda (updated).pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/09-17-2024%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/10-01-2024 Pre-Meeting Agenda (Updated 3).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/10-01-2024%20Pre-Meeting%20Agenda%20(Updated%203).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/10-15-2024 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/10-15-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/11-05-2024 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/11-05-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/11-19-2024 Pre-Meeting Agenda.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/11-19-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/12-03-2024 Pre-Meeting Agenda (updated).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/12-03-2024%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Agendas/12-17-2024 Pre-Meeting Agenda.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Agendas/12-17-2024%20Pre-Meeting%20Agenda.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/01-16-24 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/01-16-24%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/02-06-24 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/02-06-24%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/02-20-24 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/02-20-24%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/03-05-24 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/03-05-24%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/03-19-24 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/03-19-24%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/04-02-24 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/04-02-24%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/04-16-24 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/04-16-24%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/05-07-24 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/05-07-24%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/05-21-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/05-21-24%20Pre-Meeting%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/06-04-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/06-04-24%20Pre-Meeting%20Packet%20(updated%202).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/06-18-24 Pre-Meeting Packet (updated 2).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/06-18-24%20Pre-Meeting%20Packet%20(updated%202).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/07-02-24 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/07-02-24%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/07-16-2024 Pre-Meeting Packet (Updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/07-16-2024%20Pre-Meeting%20Packet%20(Updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/08-06-2024 Pre-Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/08-06-2024%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/08-20-2024 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/08-20-2024%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-03-2024 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/09-03-2024%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-10-2024 Work Session Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/09-10-2024%20Work%20Session%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/09-17-2024 Pre-Meeting Packet.pdf?t=202508180935540
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/09-17-2024%20Pre-Meeting%20Packet.pdf?t=202508180935540
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/10-01-24 Pre-Meeting Packet (Updated 3).pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/10-01-24%20Pre-Meeting%20Packet%20(Updated%203).pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/10-15-2024 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/10-15-2024%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/11-05-24 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/11-05-24%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/11-19-24 Pre-Meeting Packet.pdf?t=202508180935550
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/11-19-24%20Pre-Meeting%20Packet.pdf?t=202508180935550
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/12-03-2024 Pre-Meeting Packet (updated).pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/12-03-2024%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2024/Packet/12-17-24 Pre-Meeting Packet.pdf?t=202508180935560
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2024/Packet/12-17-24%20Pre-Meeting%20Packet.pdf?t=202508180935560
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/01-07-2025 Pre-Meeting Agenda.pdf?t=202508180935490
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/01-07-2025%20Pre-Meeting%20Agenda.pdf?t=202508180935490
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/01-21-25 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/01-21-25%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/02-04-25 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/02-04-25%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/02-18-25 Pre-Meeting Agenda (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/02-18-25%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/03-04-25 Pre-Meeting Agenda.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/03-04-25%20Pre-Meeting%20Agenda.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/03-18-25 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/03-18-25%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/04-01-25 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/04-01-25%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/04-15-25 Pre-Meeting Agenda.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/04-15-25%20Pre-Meeting%20Agenda.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/05-06-25 Pre-Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/05-06-25%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/05-20-25 Pre-Meeting Agenda (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/05-20-25%20Pre-Meeting%20Agenda%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/06-03-25 Pre-Meeting Agenda.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/06-03-25%20Pre-Meeting%20Agenda.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/06-17-25 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/06-17-25%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/07-01-25 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/07-01-25%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/07-15-25 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/07-15-25%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/08-05-25 Pre-Meeting Agenda.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/08-05-25%20Pre-Meeting%20Agenda.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/08-19-2025 Pre Meeting Agenda.pdf?t=202508261003160
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/08-19-2025%20Pre%20Meeting%20Agenda.pdf?t=202508261003160
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/09-02-25 Pre-Meeting Agenda.pdf?t=202508291929290
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/09-02-25%20Pre-Meeting%20Agenda.pdf?t=202508291929290
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/09-16-25 Pre-Meeting Agenda.pdf?t=202509121855160
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/09-16-25%20Pre-Meeting%20Agenda.pdf?t=202509121855160
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/10-07-25 Pre-Meeting Agenda.pdf?t=202510031704060
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/10-07-25%20Pre-Meeting%20Agenda.pdf?t=202510031704060
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/10-21-25 Pre-Meeting Agenda.pdf?t=202510172039580
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/10-21-25%20Pre-Meeting%20Agenda.pdf?t=202510172039580
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/11-04-25 Pre-Meeting Agenda.pdf?t=202510311755260
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/11-04-25%20Pre-Meeting%20Agenda.pdf?t=202510311755260
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/11-18-25 Pre-Meeting Agenda.pdf?t=202511141956010
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/11-18-25%20Pre-Meeting%20Agenda.pdf?t=202511141956010
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/12-02-2025 Pre-Meeting Agenda.pdf?t=202511261858370
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/12-02-2025%20Pre-Meeting%20Agenda.pdf?t=202511261858370
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Agendas/12-16-2025 Pre-Meeting Agenda.pdf?t=202512121849090
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Agendas/12-16-2025%20Pre-Meeting%20Agenda.pdf?t=202512121849090
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/01-21-25 Pre-Meeting Packet.pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/01-21-25%20Pre-Meeting%20Packet.pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/02-04-24 Pre-Meeting Packet (final).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/02-04-24%20Pre-Meeting%20Packet%20(final).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/02-18-25 Pre-Meeting Packet (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/02-18-25%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/03-04-25 Pre-Meeting Packet (updated).pdf?t=202508180935500
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/03-04-25%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935500
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/03-18-25 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/03-18-25%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/04-01-25 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/04-01-25%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/04-15-25 Pre-Meeting Packet.pdf?t=202508180935510
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/04-15-25%20Pre-Meeting%20Packet.pdf?t=202508180935510
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/05-06-25 Pre-Meeting Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/05-06-25%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/05-20-25 Pre-Meeting Packet (updated).pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/05-20-25%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/06-03-25 Pre-Meeting Packet.pdf?t=202508180935520
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/06-03-25%20Pre-Meeting%20Packet.pdf?t=202508180935520
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/06-17-25 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/06-17-25%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/07-01-25 Pre-Meeting Packet (updated).pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/07-01-25%20Pre-Meeting%20Packet%20(updated).pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/07-15-25 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/07-15-25%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/08-05-25 Pre-Meeting Packet.pdf?t=202508180935530
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/08-05-25%20Pre-Meeting%20Packet.pdf?t=202508180935530
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/08-19-25 Pre-Meeting Packet.pdf?t=202508261003290
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/08-19-25%20Pre-Meeting%20Packet.pdf?t=202508261003290
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/09-02-25 Pre-Meeting Packet.pdf?t=202508291930340
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/09-02-25%20Pre-Meeting%20Packet.pdf?t=202508291930340
+- **robots_refused** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/09-16-25 Pre-Meeting Packet.pdf?t=202509121855360
+  - reason: disallowed by robots.txt: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Agendas%20and%20Minutes/Pre%20Meetings/2025/Packet/09-16-25%20Pre-Meeting%20Packet.pdf?t=202509121855360
 - **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/10-21-25 Pre-Meeting Packet.pdf?t=202510172058570
   - reason: deferred (max_seconds_reached (2700s))
 - **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Pre Meetings/2025/Packet/10-7-25 Pre-Meeting Packet.pdf?t=202510031704430
@@ -2519,540 +2519,540 @@ Generated from [casperwy.gov](https://www.casperwy.gov) via the site sitemaps an
   - reason: deferred (max_seconds_reached (2700s))
 - **pending** — https://www.casperwy.gov/Documents/Government/City Council/Agendas and Minutes/Work Sessions/2026/Packets/9-8-26 Work Session Packet.pdf?t=202609041455030
   - reason: deferred (max_seconds_reached (2700s))
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Council Goals Summary Document - 23-25.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Council%20Goals%20Summary%20Document%20-%2023-25.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Documents/Appendix_FINAL_v3.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Documents/Appendix_FINAL_v3.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Documents/FY26 Council Priorities.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Documents/FY26%20Council%20Priorities.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Gaming Location Survey.pdf?t=202609141130230
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Gaming%20Location%20Survey.pdf?t=202609141130230
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example A (Arbor Day) 2023.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Proclamations/Proclamation%20Example%20A%20(Arbor%20Day)%202023.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example B 2023.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Proclamations/Proclamation%20Example%20B%202023.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example C 2023.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Proclamations/Proclamation%20Example%20C%202023.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.06.23 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/10.06.23%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.13.23 Information Packet.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/10.13.23%20Information%20Packet.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.20.23 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/10.20.23%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.03.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/11.03.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.17.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/11.17.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.9.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/11.9.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.1.23 IP Updated.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/12.1.23%20IP%20Updated.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.15.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/12.15.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.22.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/12.22.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.8.23 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/12.8.23%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/IP 10.27.23.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/IP%2010.27.23.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/TOC 12-29-23 ( No Packet).pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2023/Packet/TOC%2012-29-23%20(%20No%20Packet).pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.12.24 IP.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/1.12.24%20IP.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.19.24 IP.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/1.19.24%20IP.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.26.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/1.26.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.4.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/1.4.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.11.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/10.11.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.17.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/10.17.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.25.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/10.25.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.4.24 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/10.4.24%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.15.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/11.15.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.21.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/11.21.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.8.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/11.8.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.13.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/12.13.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.20.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/12.20.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.27.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/12.27.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.6.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/12.6.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.16.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/2.16.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.2.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/2.2.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.23.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/2.23.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.9.24 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/2.9.24%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.1.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/3.1.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.15.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/3.15.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.22.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/3.22.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.29.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/3.29.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.8.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/3.8.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.12.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/4.12.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.19.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/4.19.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.26.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/4.26.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.5.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/4.5.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.10.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/5.10.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.17.24 IP1.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/5.17.24%20IP1.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.24.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/5.24.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.31.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/5.31.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.14.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/6.14.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.21.24 IP1.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/6.21.24%20IP1.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.26.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/6.26.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.12.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/7.12.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.26.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/7.26.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.5.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/7.5.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.23.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/8.23.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.30.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/8.30.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.9.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/8.9.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.13.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/9.13.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.27.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/9.27.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.6.24 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2024/Packet/9.6.24%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/05-16-25 IP.pdf?t=202508180935520
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/05-16-25%20IP.pdf?t=202508180935520
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/06.06.25 Info Packet.pdf?t=202508180935530
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/06.06.25%20Info%20Packet.pdf?t=202508180935530
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.10.25 IP.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/1.10.25%20IP.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.17.25 IP.pdf?t=202508180935540
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/1.17.25%20IP.pdf?t=202508180935540
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.24.25 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/1.24.25%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.31.25 IP.pdf?t=202508180935550
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/1.31.25%20IP.pdf?t=202508180935550
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.14.25 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/2.14.25%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.21.25 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/2.21.25%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.28.25 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/2.28.25%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.7.25 IP.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/2.7.25%20IP.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.14.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/3.14.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.21.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/3.21.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.28.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/3.28.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.7.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/3.7.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.11.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/4.11.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.18.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/4.18.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.25.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/4.25.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.4.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/4.4.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.2.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/5.2.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.23.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/5.23.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.30.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/5.30.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.9.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/5.9.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/6.13.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/6.13.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/6.27.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/6.27.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/7.3.25 IP.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/City%20Council/Weekly%20Information%20Packets/2025/Packet/7.3.25%20IP.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/CAPITAL BOOK - FY 2026 - WORK SESSION - 25 03 04.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/CAPITAL%20BOOK%20-%20FY%202026%20-%20WORK%20SESSION%20-%2025%2003%2004.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Current Budget Year/FY25 Budget Adopted.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Current%20Budget%20Year/FY25%20Budget%20Adopted.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Fiscal Year 2024 Casper ACFR.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Fiscal%20Year%202024%20Casper%20ACFR.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Five Year Capital Improvement Plan/Capital Book - Adopted - FY25 - 24 07 22.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Five%20Year%20Capital%20Improvement%20Plan/Capital%20Book%20-%20Adopted%20-%20FY25%20-%2024%2007%2022.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Five Year Capital Improvement Plan/CAPITAL BOOK - FY 2026 - WORK SESSION - 25 03 04.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Five%20Year%20Capital%20Improvement%20Plan/CAPITAL%20BOOK%20-%20FY%202026%20-%20WORK%20SESSION%20-%2025%2003%2004.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/FY26 Proposed Budget.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/FY26%20Proposed%20Budget.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/April 2025 Financial Report.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/April%202025%20Financial%20Report.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/August 2024 Financial Report.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/August%202024%20Financial%20Report.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/Council Financial Reports_Dec 2024.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/Council%20Financial%20Reports_Dec%202024.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/Council Financial Reports_Working2-May2025.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/Council%20Financial%20Reports_Working2-May2025.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/February 2025 Financial Report.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/February%202025%20Financial%20Report.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/January 2025 Financial Report.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/January%202025%20Financial%20Report.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/July 2024 - Financial Report.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/July%202024%20-%20Financial%20Report.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/March 2025 Financial Report.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/March%202025%20Financial%20Report.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/November 2024 Financial Reports.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/November%202024%20Financial%20Reports.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/October 2024 Financial Reports.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/October%202024%20Financial%20Reports.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/September 2024 Financial Report.pdf?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Monthly%20Financial%20Reports/September%202024%20Financial%20Report.pdf?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2020 City of Casper Audited Financial Statements.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/2020%20City%20of%20Casper%20Audited%20Financial%20Statements.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2021 FINAL Financial SECURE.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/2021%20FINAL%20Financial%20SECURE.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2023 City of Casper Adopted Budget.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/2023%20City%20of%20Casper%20Adopted%20Budget.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Adopted Budget FY21.pdf?t=202508180935590
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/Adopted%20Budget%20FY21.pdf?t=202508180935590
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/April 2024 Financial Report.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/April%202024%20Financial%20Report.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/August 2023 - Financial Report.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/August%202023%20-%20Financial%20Report.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Budget Book FY22 - Adopted.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/Budget%20Book%20FY22%20-%20Adopted.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/December 2023 Financial Report.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/December%202023%20Financial%20Report.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/February 2024 - Financial Report.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/February%202024%20-%20Financial%20Report.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Fiscal Year 2024 Casper ACFR.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/Fiscal%20Year%202024%20Casper%20ACFR.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY 22 Audited Financial Report.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/FY%2022%20Audited%20Financial%20Report.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY 23 Audited Financial Statements City of Casper - FINAL FS.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/FY%2023%20Audited%20Financial%20Statements%20City%20of%20Casper%20-%20FINAL%20FS.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY24 Adopted Budget -final.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/FY24%20Adopted%20Budget%20-final.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY25 Budget Adopted.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/FY25%20Budget%20Adopted.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/January 2024 Financial Report.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/January%202024%20Financial%20Report.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/July 2023 - Financial Report.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/July%202023%20-%20Financial%20Report.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/March 2024 - Financial Report.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/March%202024%20-%20Financial%20Report.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/May 2024 Financial Report.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/May%202024%20Financial%20Report.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/November 2023 - Financial Report.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/November%202023%20-%20Financial%20Report.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/October 2023 - Financial Report.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/October%202023%20-%20Financial%20Report.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/September 2023 - Financial Report.pdf?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Finance/Previous%20Years%20Financial%20Documents/September%202023%20-%20Financial%20Report.pdf?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/How do I apply sign up for job alerts.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Human%20Resources/Job%20Seekers/How%20do%20I%20apply%20sign%20up%20for%20job%20alerts.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/How to apply for a job.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Human%20Resources/Job%20Seekers/How%20to%20apply%20for%20a%20job.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/job-fair-flyer.pdf?t=202508201828280
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Human%20Resources/Job%20Seekers/job-fair-flyer.pdf?t=202508201828280
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/Minors Reference Sheet 2.6.2025.pdf?t=202508180936080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Human%20Resources/Job%20Seekers/Minors%20Reference%20Sheet%202.6.2025.pdf?t=202508180936080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/Why the City of Casper.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Human%20Resources/Job%20Seekers/Why%20the%20City%20of%20Casper.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Approved TIP with signatures.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Approved%20TIP%20with%20signatures.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/DRAFT Casper Urban Center Parking Plan.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/DRAFT%20Casper%20Urban%20Center%20Parking%20Plan.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/DRAFT Executive Summary.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/DRAFT%20Executive%20Summary.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Initial Parking Plan RFP.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Initial%20Parking%20Plan%20RFP.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Open House Materials - 2_13_2018.pdf?t=202508180936100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Open%20House%20Materials%20-%202_13_2018.pdf?t=202508180936100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Parking and Economic Development White Paper.pdf?t=202508180936100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Parking%20and%20Economic%20Development%20White%20Paper.pdf?t=202508180936100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Parking Plan Consultant Contract.pdf?t=202508180936100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Parking%20Plan%20Consultant%20Contract.pdf?t=202508180936100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Presentation to City Council - 2_13_2018.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Presentation%20to%20City%20Council%20-%202_13_2018.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Project Kickoff Presentation - 12_13_2017.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Project%20Kickoff%20Presentation%20-%2012_13_2017.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Supply-Demand Assessment Draft.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Supply-Demand%20Assessment%20Draft.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Town Hall Meeting Notes - 12_13_2017.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Casper%20Parking%20Plan/Town%20Hall%20Meeting%20Notes%20-%2012_13_2017.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Connecting Crossroads Final Plan FINAL_v4_reduced.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Connecting%20Crossroads%20Final%20Plan%20FINAL_v4_reduced.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FT24047 FAIN letter.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FT24047%20FAIN%20letter.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY 24UPWP Final.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY%2024UPWP%20Final.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY22 - FY25 MTIP Casper Area MPO signed.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY22%20-%20FY25%20MTIP%20Casper%20Area%20MPO%20signed.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY22 UPWP FINAL.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY22%20UPWP%20FINAL.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY23 UPWP Final.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY23%20UPWP%20Final.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY24 - FY27 MTIP Casper Area MPO final signed2.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY24%20-%20FY27%20MTIP%20Casper%20Area%20MPO%20final%20signed2.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Fy24-FY27 MTIP Amendment with signatures.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Fy24-FY27%20MTIP%20Amendment%20with%20signatures.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY25 UPWP FINAL FHA changes.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY25%20UPWP%20FINAL%20FHA%20changes.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/FY26 UPWP.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/FY26%20UPWP.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Casper Area 2021 PPP Combined Reduced.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Casper%20Area%202021%20PPP%20Combined%20Reduced.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FT24047 FAIN letter.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/FT24047%20FAIN%20letter.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY24 - FY27 MTIP Casper Area MPO final signed2.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/FY24%20-%20FY27%20MTIP%20Casper%20Area%20MPO%20final%20signed2.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY24 Annual Performance Report.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/FY24%20Annual%20Performance%20Report.pdf
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Fy24-FY27 MTIP Amendment with signatures.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Fy24-FY27%20MTIP%20Amendment%20with%20signatures.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY25 UPWP FINAL FHA changes.pdf?t=202508180936050
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/FY25%20UPWP%20FINAL%20FHA%20changes.pdf?t=202508180936050
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Non disccrimination Statement.pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Non%20disccrimination%20Statement.pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Signed Title VI Program 2019.pdf?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Signed%20Title%20VI%20Program%202019.pdf?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Statement of Rights.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Statement%20of%20Rights.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Title VI Complaint Form.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Title%20VI%20Complaint%20Form.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Title VI Complaint Process.pdf?t=202508201403300
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/Title%20VI%20Complaint%20Process.pdf?t=202508201403300
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/UPWP Budget Revision FY25.pdf?t=202508180936150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Governing%20Documents/UPWP%20Budget%20Revision%20FY25.pdf?t=202508180936150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Master Agreement with All Signatures.pdf?t=202508201342570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Master%20Agreement%20with%20All%20Signatures.pdf?t=202508201342570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/mem_RobertsonRd_Meeting1Summary_v3_web.pdf?t=202508201322180
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/mem_RobertsonRd_Meeting1Summary_v3_web.pdf?t=202508201322180
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/MPO_Area.pdf?t=202508180936080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/MPO_Area.pdf?t=202508180936080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/14050_Final Report_sm_063015.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/14050_Final%20Report_sm_063015.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/20120119_Bar_Nunn_Sub_Area_Planning_Study.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/20120119_Bar_Nunn_Sub_Area_Planning_Study.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2015 TDP Update Final.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2015%20TDP%20Update%20Final.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2015 Traffic Counts Report for website.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2015%20Traffic%20Counts%20Report%20for%20website.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2016 Traffic COunts Report for website.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2016%20Traffic%20COunts%20Report%20for%20website.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2017 Traffic Counts Report for website.pdf?t=202508180935560
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2017%20Traffic%20Counts%20Report%20for%20website.pdf?t=202508180935560
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2018 Casper MPO_Recap.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2018%20Casper%20MPO_Recap.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2020_0401_CasperWyo_WayfindingBook_Reduced.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2020_0401_CasperWyo_WayfindingBook_Reduced.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2022_Bar Nunn Streetsacpe Revitalization Plan FINAL Reduced.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2022_Bar%20Nunn%20Streetsacpe%20Revitalization%20Plan%20FINAL%20Reduced.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2023 Traffic Counts.pdf?t=202508180935570
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/2023%20Traffic%20Counts.pdf?t=202508180935570
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/7-20-23_CAT Electric Fleet Conversion Study_FINAL.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/7-20-23_CAT%20Electric%20Fleet%20Conversion%20Study_FINAL.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Antelope Drive and Salt Creek Highway Access Study and Plan Final.pdf?t=202508180935590
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Antelope%20Drive%20and%20Salt%20Creek%20Highway%20Access%20Study%20and%20Plan%20Final.pdf?t=202508180935590
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Bar Nunn Interchange Feasibility Study.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Bar%20Nunn%20Interchange%20Feasibility%20Study.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Bar Nunn Traffic Study - Draft Report.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Bar%20Nunn%20Traffic%20Study%20-%20Draft%20Report.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Beverly & 2nd Intersection Study 2013.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Beverly%20&%202nd%20Intersection%20Study%202013.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper 15th-21st Subarea Study 2013.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%2015th-21st%20Subarea%20Study%202013.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Bicycle and Pedestrian Master Plan Appendices.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Area%20Bicycle%20and%20Pedestrian%20Master%20Plan%20Appendices.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Bicycle and Pedestrian Master Plan.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Area%20Bicycle%20and%20Pedestrian%20Master%20Plan.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Trails, Path, and Bikeway Plan 2013.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Area%20Trails,%20Path,%20and%20Bikeway%20Plan%202013.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Complete Streets Plan and Policy Appendix.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Complete%20Streets%20Plan%20and%20Policy%20Appendix.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Fare Study Final Report.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Fare%20Study%20Final%20Report.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper High Hazard Intersection Study Final Report 4-9-09.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20High%20Hazard%20Intersection%20Study%20Final%20Report%204-9-09.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Impact Fee Feasiblity Study July 23 Final.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Impact%20Fee%20Feasiblity%20Study%20July%2023%20Final.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Rail-Trail_Report_FINAL v9.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Rail-Trail_Report_FINAL%20v9.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Streets Enhancement Study - Complete Document.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20Streets%20Enhancement%20Study%20-%20Complete%20Document.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper TSDP report FINAL.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Casper%20TSDP%20report%20FINAL.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/CasperWY_SafeRoutesToSchool_final.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/CasperWY_SafeRoutesToSchool_final.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Chamberlin Road Planning and Enviormental Linkage Study FINAL.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Chamberlin%20Road%20Planning%20and%20Enviormental%20Linkage%20Study%20FINAL.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Downtown Casper Two-Way Traffic Study FINAL.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Downtown%20Casper%20Two-Way%20Traffic%20Study%20FINAL.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Elkhorn Report_final.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Elkhorn%20Report_final.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Evansville-Final-reduced.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Evansville-Final-reduced.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Casper Routes and Schedule Analysis 1-6-17.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Final%20Casper%20Routes%20and%20Schedule%20Analysis%201-6-17.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Draft - Urban Center Parking Plan Report.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Final%20Draft%20-%20Urban%20Center%20Parking%20Plan%20Report.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/FINAL East Yellowstone Intersection Study.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/FINAL%20East%20Yellowstone%20Intersection%20Study.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Report Casper Signal Timing Study 4 5 16.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Final%20Report%20Casper%20Signal%20Timing%20Study%204%205%2016.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Texas Street Extension Corridor Report- reduced.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Final%20Texas%20Street%20Extension%20Corridor%20Report-%20reduced.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Highway 2026 Enhancement Study Dec 2008.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Highway%202026%20Enhancement%20Study%20Dec%202008.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Lathrop Road Traffic Study FINAL with Appendices.pdf?t=202508180936070
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Lathrop%20Road%20Traffic%20Study%20FINAL%20with%20Appendices.pdf?t=202508180936070
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Mills Main Street Corridor Study_Final Draft.pdf?t=202508180936080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Mills%20Main%20Street%20Corridor%20Study_Final%20Draft.pdf?t=202508180936080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Mills Platte River Trail Connectivity Study-FINAL.pdf?t=202508180936080
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Mills%20Platte%20River%20Trail%20Connectivity%20Study-FINAL.pdf?t=202508180936080
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/North Platte Park Master Plan - Final (2023).pdf?t=202508180936090
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/North%20Platte%20Park%20Master%20Plan%20-%20Final%20(2023).pdf?t=202508180936090
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Polaris PEL Report 2013.pdf?t=202508180936100
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Polaris%20PEL%20Report%202013.pdf?t=202508180936100
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Public Participation Plan FINAL.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Public%20Participation%20Plan%20FINAL.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/rep_w-app_Western_Gateway_Corridor_2023-0715.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/rep_w-app_Western_Gateway_Corridor_2023-0715.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Salt Creek Report.pdf?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Salt%20Creek%20Report.pdf?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts 2019 Master List.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Traffic%20Counts%202019%20Master%20List.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2020_FINAL.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Traffic%20Counts%20Master%20List%202020_FINAL.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2021.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Traffic%20Counts%20Master%20List%202021.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2022.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Traffic%20Counts%20Master%20List%202022.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Bar Nunn_Final_Draft August 2017.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Transportation%20Plan%20-%20Bar%20Nunn_Final_Draft%20August%202017.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Evansville_Final_November 2017.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Transportation%20Plan%20-%20Evansville_Final_November%202017.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Mills_Final_November 2017.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Transportation%20Plan%20-%20Mills_Final_November%202017.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/West Belt Loop Study_Final Report PDF.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/West%20Belt%20Loop%20Study_Final%20Report%20PDF.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/West_Gateway-PHASE II FINAL Report_2024-10-15-reduced.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/West_Gateway-PHASE%20II%20FINAL%20Report_2024-10-15-reduced.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Westwinds Final Report.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Westwinds%20Final%20Report.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/WY Platte Park PEL Report_1-12-16_FINAL DOCUMENT.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/WY%20Platte%20Park%20PEL%20Report_1-12-16_FINAL%20DOCUMENT.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Wyoming Blvd Sidepath Report_Final with Appendixes_082613_1.pdf?t=202508180936160
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Past%20Project%20Index/Wyoming%20Blvd%20Sidepath%20Report_Final%20with%20Appendixes_082613_1.pdf?t=202508180936160
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Public Comment/Casper Navigating 2055_Final Plan FOR REVIEW 20250714.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Public%20Comment/Casper%20Navigating%202055_Final%20Plan%20FOR%20REVIEW%2020250714.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/Title VI Statement of Rights.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/Title%20VI%20Statement%20of%20Rights.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/UPWP Budget Revision FY25.pdf?t=202508180936150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/UPWP%20Budget%20Revision%20FY25.pdf?t=202508180936150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/MPO/UPWP Budget Revision.pdf?t=202508180936150
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/MPO/UPWP%20Budget%20Revision.pdf?t=202508180936150
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Change of Address, Phone or Employment.pdf?t=202508180936010
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Change%20of%20Address,%20Phone%20or%20Employment.pdf?t=202508180936010
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Deft Request Form.pdf?t=202508180936030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Deft%20Request%20Form.pdf?t=202508180936030
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Adult Nonstatus Offenses.doc?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Expungment%20Packet2018%20Adult%20Nonstatus%20Offenses.doc?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Adult Status Offenses.doc?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Expungment%20Packet2018%20Adult%20Status%20Offenses.doc?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Records of Arrest, Dismissal.doc?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Expungment%20Packet2018%20Records%20of%20Arrest,%20Dismissal.doc?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018Juvenile.doc?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Expungment%20Packet2018Juvenile.doc?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Juror Questionnaire 8.20.25.pdf?t=202508201349110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Juror%20Questionnaire%208.20.25.pdf?t=202508201349110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Pro Se Packet 2.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Pro%20Se%20Packet%202.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Records Check.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Records%20Check.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Request for Interpreter.docx?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Request%20for%20Interpreter.docx?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Restitution and Victim Impact Statement.pdf?t=202508180936110
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Restitution%20and%20Victim%20Impact%20Statement.pdf?t=202508180936110
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Subpoena for Defendant.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Subpoena%20for%20Defendant.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Subpoena Instructions.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Forms/Subpoena%20Instructions.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Documents/Government/Municipal Court/Resources/Bond Schedule for July 2024 Website version.pdf?t=202508180936000
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Government/Municipal%20Court/Resources/Bond%20Schedule%20for%20July%202024%20Website%20version.pdf?t=202508180936000
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/ADA Complaint Form revised 2-1-24.pdf?t=202508180935580
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/ADA%20Complaint%20Form%20revised%202-1-24.pdf?t=202508180935580
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/ADA Complaint Process revised 2-1-24.pdf?t=202508180935590
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/ADA%20Complaint%20Process%20revised%202-1-24.pdf?t=202508180935590
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/FINAL 2025 Title VI Program for City of Casper.pdf?t=202508180936040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/FINAL%202025%20Title%20VI%20Program%20for%20City%20of%20Casper.pdf?t=202508180936040
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Riders Guide - Rules and Safety Considerations.pdf?t=202508180936120
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/Riders%20Guide%20-%20Rules%20and%20Safety%20Considerations.pdf?t=202508180936120
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Statement of Rights Spanish.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/Statement%20of%20Rights%20Spanish.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Title VI Complaint Process Revised 4-30-25.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/Title%20VI%20Complaint%20Process%20Revised%204-30-25.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Title VI Discrimination Complaint Form Revised 4-30-25.pdf?t=202508180936140
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Casper%20Area%20Transit/Title%20VI%20Discrimination%20Complaint%20Form%20Revised%204-30-25.pdf?t=202508180936140
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Licenses And Permits/Citizen Self Service Portal Registration Guide.pdf?t=202508180936020
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Licenses%20And%20Permits/Citizen%20Self%20Service%20Portal%20Registration%20Guide.pdf?t=202508180936020
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Licenses And Permits/How to Reset your Citizen Self Service Account Password.pdf?t=202508180936060
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Licenses%20And%20Permits/How%20to%20Reset%20your%20Citizen%20Self%20Service%20Account%20Password.pdf?t=202508180936060
-- **external_skipped** — https://www.casperwy.gov/Documents/Services/Planning and Zoning/Plans and Studies/Summer 2017 Generation Casper_Adopted 7.5.17_Reduced.pdf?t=202508180936130
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Documents/Services/Planning%20and%20Zoning/Plans%20and%20Studies/Summer%202017%20Generation%20Casper_Adopted%207.5.17_Reduced.pdf?t=202508180936130
-- **external_skipped** — https://www.casperwy.gov/Engineering/Baler Building Dust Collectors RFP.pdf?t=202508251812020
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Engineering/Baler%20Building%20Dust%20Collectors%20RFP.pdf?t=202508251812020
-- **external_skipped** — https://www.casperwy.gov/Engineering/RFP - Alley Paving.pdf?t=202508251754040
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Engineering/RFP%20-%20Alley%20Paving.pdf?t=202508251754040
-- **external_skipped** — https://www.casperwy.gov/Engineering/RFP - Missouri Ave 15th to 21st.pdf?t=202508251758590
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Engineering/RFP%20-%20Missouri%20Ave%2015th%20to%2021st.pdf?t=202508251758590
-- **external_skipped** — https://www.casperwy.gov/Information Packets/7.11.25/7.11.25 IP.pdf?t=202508181807480
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/7.11.25/7.11.25%20IP.pdf?t=202508181807480
-- **external_skipped** — https://www.casperwy.gov/Information Packets/7.18.25/7.18.25 IP.pdf?t=202508181810380
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/7.18.25/7.18.25%20IP.pdf?t=202508181810380
-- **external_skipped** — https://www.casperwy.gov/Information Packets/7.25.25/7.25.25 IP.pdf?t=202508181816030
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/7.25.25/7.25.25%20IP.pdf?t=202508181816030
-- **external_skipped** — https://www.casperwy.gov/Information Packets/8.1.25/08.01.25 IP.pdf?t=202508181828390
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/8.1.25/08.01.25%20IP.pdf?t=202508181828390
-- **external_skipped** — https://www.casperwy.gov/Information Packets/8.15.25 IP.pdf?t=202508201333400
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/8.15.25%20IP.pdf?t=202508201333400
-- **external_skipped** — https://www.casperwy.gov/Information Packets/8.22.25 IP.pdf?t=202508221346490
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/8.22.25%20IP.pdf?t=202508221346490
-- **external_skipped** — https://www.casperwy.gov/Information Packets/8.8.25 IP.pdf?t=202508201321290
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Information%20Packets/8.8.25%20IP.pdf?t=202508201321290
-- **external_skipped** — https://www.casperwy.gov/Juror Questionnaire 8.20.25.pdf?t=202508201339170
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Juror%20Questionnaire%208.20.25.pdf?t=202508201339170
-- **external_skipped** — https://www.casperwy.gov/LGBTQ Advisory Committee Application (fillable).pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/LGBTQ%20Advisory%20Committee%20Application%20(fillable).pdf
-- **external_skipped** — https://www.casperwy.gov/Non-Discrimination Policies.pdf
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Non-Discrimination%20Policies.pdf
-- **external_skipped** — https://www.casperwy.gov/Opioid Final Cover Letter and RFP.pdf?t=202508201337440
-  - reason: redirected to external host: https://cms2.revize.com/revize/casperwy/Opioid%20Final%20Cover%20Letter%20and%20RFP.pdf?t=202508201337440
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Council Goals Summary Document - 23-25.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Documents/Appendix_FINAL_v3.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Documents/FY26 Council Priorities.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Gaming Location Survey.pdf?t=202609141130230
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example A (Arbor Day) 2023.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example B 2023.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Proclamations/Proclamation Example C 2023.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.06.23 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.13.23 Information Packet.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/10.20.23 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.03.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.17.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/11.9.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.1.23 IP Updated.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.15.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.22.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/12.8.23 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/IP 10.27.23.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2023/Packet/TOC 12-29-23 ( No Packet).pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.12.24 IP.pdf?t=202508180935540
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.19.24 IP.pdf?t=202508180935540
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.26.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/1.4.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.11.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.17.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.25.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/10.4.24 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.15.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.21.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/11.8.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.13.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.20.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.27.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/12.6.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.16.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.2.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.23.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/2.9.24 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.1.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.15.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.22.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.29.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/3.8.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.12.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.19.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.26.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/4.5.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.10.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.17.24 IP1.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.24.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/5.31.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.14.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.21.24 IP1.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/6.26.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.12.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.26.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/7.5.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.23.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.30.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/8.9.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.13.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.27.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2024/Packet/9.6.24 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/05-16-25 IP.pdf?t=202508180935520
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/06.06.25 Info Packet.pdf?t=202508180935530
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.10.25 IP.pdf?t=202508180935540
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.17.25 IP.pdf?t=202508180935540
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.24.25 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/1.31.25 IP.pdf?t=202508180935550
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.14.25 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.21.25 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.28.25 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/2.7.25 IP.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.14.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.21.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.28.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/3.7.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.11.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.18.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.25.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/4.4.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.2.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.23.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.30.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/5.9.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/6.13.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/6.27.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/City Council/Weekly Information Packets/2025/Packet/7.3.25 IP.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/CAPITAL BOOK - FY 2026 - WORK SESSION - 25 03 04.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Current Budget Year/FY25 Budget Adopted.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Fiscal Year 2024 Casper ACFR.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Five Year Capital Improvement Plan/Capital Book - Adopted - FY25 - 24 07 22.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Five Year Capital Improvement Plan/CAPITAL BOOK - FY 2026 - WORK SESSION - 25 03 04.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/FY26 Proposed Budget.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/April 2025 Financial Report.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/August 2024 Financial Report.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/Council Financial Reports_Dec 2024.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/Council Financial Reports_Working2-May2025.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/February 2025 Financial Report.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/January 2025 Financial Report.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/July 2024 - Financial Report.pdf?t=202508180936070
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/March 2025 Financial Report.pdf?t=202508180936070
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/November 2024 Financial Reports.pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/October 2024 Financial Reports.pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Monthly Financial Reports/September 2024 Financial Report.pdf?t=202508180936120
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2020 City of Casper Audited Financial Statements.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2021 FINAL Financial SECURE.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/2023 City of Casper Adopted Budget.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Adopted Budget FY21.pdf?t=202508180935590
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/April 2024 Financial Report.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/August 2023 - Financial Report.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Budget Book FY22 - Adopted.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/December 2023 Financial Report.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/February 2024 - Financial Report.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/Fiscal Year 2024 Casper ACFR.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY 22 Audited Financial Report.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY 23 Audited Financial Statements City of Casper - FINAL FS.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY24 Adopted Budget -final.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/FY25 Budget Adopted.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/January 2024 Financial Report.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/July 2023 - Financial Report.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/March 2024 - Financial Report.pdf?t=202508180936070
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/May 2024 Financial Report.pdf?t=202508180936070
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/November 2023 - Financial Report.pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/October 2023 - Financial Report.pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Finance/Previous Years Financial Documents/September 2023 - Financial Report.pdf?t=202508180936120
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/How do I apply sign up for job alerts.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/How to apply for a job.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/job-fair-flyer.pdf?t=202508201828280
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/Minors Reference Sheet 2.6.2025.pdf?t=202508180936080
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Human Resources/Job Seekers/Why the City of Casper.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Approved TIP with signatures.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/DRAFT Casper Urban Center Parking Plan.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/DRAFT Executive Summary.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Initial Parking Plan RFP.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Open House Materials - 2_13_2018.pdf?t=202508180936100
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Parking and Economic Development White Paper.pdf?t=202508180936100
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Parking Plan Consultant Contract.pdf?t=202508180936100
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Presentation to City Council - 2_13_2018.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Project Kickoff Presentation - 12_13_2017.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Supply-Demand Assessment Draft.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Casper Parking Plan/Town Hall Meeting Notes - 12_13_2017.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Connecting Crossroads Final Plan FINAL_v4_reduced.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FT24047 FAIN letter.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY 24UPWP Final.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY22 - FY25 MTIP Casper Area MPO signed.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY22 UPWP FINAL.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY23 UPWP Final.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY24 - FY27 MTIP Casper Area MPO final signed2.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Fy24-FY27 MTIP Amendment with signatures.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY25 UPWP FINAL FHA changes.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/FY26 UPWP.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Casper Area 2021 PPP Combined Reduced.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FT24047 FAIN letter.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY24 - FY27 MTIP Casper Area MPO final signed2.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY24 Annual Performance Report.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Fy24-FY27 MTIP Amendment with signatures.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/FY25 UPWP FINAL FHA changes.pdf?t=202508180936050
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Non disccrimination Statement.pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Signed Title VI Program 2019.pdf?t=202508180936120
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Statement of Rights.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Title VI Complaint Form.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/Title VI Complaint Process.pdf?t=202508201403300
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Governing Documents/UPWP Budget Revision FY25.pdf?t=202508180936150
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Master Agreement with All Signatures.pdf?t=202508201342570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/mem_RobertsonRd_Meeting1Summary_v3_web.pdf?t=202508201322180
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/MPO_Area.pdf?t=202508180936080
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/14050_Final Report_sm_063015.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/20120119_Bar_Nunn_Sub_Area_Planning_Study.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2015 TDP Update Final.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2015 Traffic Counts Report for website.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2016 Traffic COunts Report for website.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2017 Traffic Counts Report for website.pdf?t=202508180935560
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2018 Casper MPO_Recap.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2020_0401_CasperWyo_WayfindingBook_Reduced.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2022_Bar Nunn Streetsacpe Revitalization Plan FINAL Reduced.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/2023 Traffic Counts.pdf?t=202508180935570
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/7-20-23_CAT Electric Fleet Conversion Study_FINAL.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Antelope Drive and Salt Creek Highway Access Study and Plan Final.pdf?t=202508180935590
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Bar Nunn Interchange Feasibility Study.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Bar Nunn Traffic Study - Draft Report.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Beverly & 2nd Intersection Study 2013.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper 15th-21st Subarea Study 2013.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Bicycle and Pedestrian Master Plan Appendices.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Bicycle and Pedestrian Master Plan.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Area Trails, Path, and Bikeway Plan 2013.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Complete Streets Plan and Policy Appendix.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Fare Study Final Report.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper High Hazard Intersection Study Final Report 4-9-09.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Impact Fee Feasiblity Study July 23 Final.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Rail-Trail_Report_FINAL v9.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper Streets Enhancement Study - Complete Document.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Casper TSDP report FINAL.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/CasperWY_SafeRoutesToSchool_final.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Chamberlin Road Planning and Enviormental Linkage Study FINAL.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Downtown Casper Two-Way Traffic Study FINAL.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Elkhorn Report_final.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Evansville-Final-reduced.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Casper Routes and Schedule Analysis 1-6-17.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Draft - Urban Center Parking Plan Report.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/FINAL East Yellowstone Intersection Study.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Report Casper Signal Timing Study 4 5 16.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Final Texas Street Extension Corridor Report- reduced.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Highway 2026 Enhancement Study Dec 2008.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Lathrop Road Traffic Study FINAL with Appendices.pdf?t=202508180936070
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Mills Main Street Corridor Study_Final Draft.pdf?t=202508180936080
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Mills Platte River Trail Connectivity Study-FINAL.pdf?t=202508180936080
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/North Platte Park Master Plan - Final (2023).pdf?t=202508180936090
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Polaris PEL Report 2013.pdf?t=202508180936100
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Public Participation Plan FINAL.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/rep_w-app_Western_Gateway_Corridor_2023-0715.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Salt Creek Report.pdf?t=202508180936120
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts 2019 Master List.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2020_FINAL.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2021.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Traffic Counts Master List 2022.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Bar Nunn_Final_Draft August 2017.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Evansville_Final_November 2017.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Transportation Plan - Mills_Final_November 2017.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/West Belt Loop Study_Final Report PDF.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/West_Gateway-PHASE II FINAL Report_2024-10-15-reduced.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Westwinds Final Report.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/WY Platte Park PEL Report_1-12-16_FINAL DOCUMENT.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Past Project Index/Wyoming Blvd Sidepath Report_Final with Appendixes_082613_1.pdf?t=202508180936160
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Public Comment/Casper Navigating 2055_Final Plan FOR REVIEW 20250714.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/Title VI Statement of Rights.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/UPWP Budget Revision FY25.pdf?t=202508180936150
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/MPO/UPWP Budget Revision.pdf?t=202508180936150
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Change of Address, Phone or Employment.pdf?t=202508180936010
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Deft Request Form.pdf?t=202508180936030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Adult Nonstatus Offenses.doc?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Adult Status Offenses.doc?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018 Records of Arrest, Dismissal.doc?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Expungment Packet2018Juvenile.doc?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Juror Questionnaire 8.20.25.pdf?t=202508201349110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Pro Se Packet 2.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Records Check.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Request for Interpreter.docx?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Restitution and Victim Impact Statement.pdf?t=202508180936110
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Subpoena for Defendant.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Forms/Subpoena Instructions.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Government/Municipal Court/Resources/Bond Schedule for July 2024 Website version.pdf?t=202508180936000
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/ADA Complaint Form revised 2-1-24.pdf?t=202508180935580
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/ADA Complaint Process revised 2-1-24.pdf?t=202508180935590
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/FINAL 2025 Title VI Program for City of Casper.pdf?t=202508180936040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Riders Guide - Rules and Safety Considerations.pdf?t=202508180936120
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Statement of Rights Spanish.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Title VI Complaint Process Revised 4-30-25.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Casper Area Transit/Title VI Discrimination Complaint Form Revised 4-30-25.pdf?t=202508180936140
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Licenses And Permits/Citizen Self Service Portal Registration Guide.pdf?t=202508180936020
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Licenses And Permits/How to Reset your Citizen Self Service Account Password.pdf?t=202508180936060
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Documents/Services/Planning and Zoning/Plans and Studies/Summer 2017 Generation Casper_Adopted 7.5.17_Reduced.pdf?t=202508180936130
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Engineering/Baler Building Dust Collectors RFP.pdf?t=202508251812020
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Engineering/RFP - Alley Paving.pdf?t=202508251754040
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Engineering/RFP - Missouri Ave 15th to 21st.pdf?t=202508251758590
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/7.11.25/7.11.25 IP.pdf?t=202508181807480
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/7.18.25/7.18.25 IP.pdf?t=202508181810380
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/7.25.25/7.25.25 IP.pdf?t=202508181816030
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/8.1.25/08.01.25 IP.pdf?t=202508181828390
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/8.15.25 IP.pdf?t=202508201333400
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/8.22.25 IP.pdf?t=202508221346490
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Information Packets/8.8.25 IP.pdf?t=202508201321290
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Juror Questionnaire 8.20.25.pdf?t=202508201339170
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/LGBTQ Advisory Committee Application (fillable).pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Non-Discrimination Policies.pdf
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
+- **pending** — https://www.casperwy.gov/Opioid Final Cover Letter and RFP.pdf?t=202508201337440
+  - reason: requeued under approved https://cms2.revize.com/revize/casperwy/ redirect rule
 
 ## Documents
 
-Full provenance (source URL, discovery source, local path, SHA-256, size,
-fetch time, content type) is in [`manifest.json`](manifest.json).
+Full provenance (original city URL, final download URL, discovery source,
+local path, SHA-256, size, fetch time, content type) is in [`manifest.json`](manifest.json).

@@ -37,11 +37,21 @@ fixes were applied so the implementation matches its stated scope:
    document links and external redirects are never requested and are recorded as
    `external_skipped`.
 5. **Graceful run budget & true multi-run resume:** `.github/workflows/collect.yml`
-   runs `python3 collect.py --delay 3.0 --max-seconds 2700` inside the 60-minute
-   job timeout so runs exit cleanly at 45 minutes, persist `scanned_pages` and
-   `pending` documents to `manifest.json` + `MANIFEST.md`, and commit progress.
-   *(Note: a hard GitHub Actions runner timeout or cancellation before the commit
-   step will NOT preserve uncommitted work.)*
+   runs `python3 collect.py --delay 3.0 --max-new ... --max-seconds 2700` inside
+   the 60-minute job timeout so runs exit cleanly at 45 minutes, persist
+   `scanned_pages` and `pending` documents to `manifest.json` + `MANIFEST.md`,
+   and commit progress. *(Note: a hard GitHub Actions runner timeout or
+   cancellation before the commit step will NOT preserve uncommitted work.)*
+6. **Narrowly scoped Revize Casper document-storage redirect rule:** Run #1
+   (`5ead8af`) verified that 878/878 `https://www.casperwy.gov/<path>` document
+   URLs redirect 1-to-1 to `https://cms2.revize.com/revize/casperwy/<path>`.
+   `collect.py` validates every redirect hop and allows document downloads from
+   exact `https://cms2.revize.com/revize/casperwy/<non-empty-path>` (rejecting
+   HTTP, other `revize.com` hosts, other tenants on `cms2.revize.com`, `..`
+   traversal, and any subsequent off-scope redirect), honors `robots.txt` and
+   `crawl-delay` on each contacted host, records both `url` and `final_url` in
+   provenance, and requeues qualifying prior `external_skipped` manifest entries
+   without losing existing discovery state.
 
 ---
 

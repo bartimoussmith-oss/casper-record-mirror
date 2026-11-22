@@ -19,18 +19,19 @@ Casper.
 
 This is a municipal site. The crawler:
 
-- reads and honors `robots.txt` (including `Disallow`, `Sitemap`, and `crawl-delay`) before crawling;
+- reads and honors `robots.txt` (including `Disallow`, `Sitemap`, and `crawl-delay`) for every contacted host;
 - identifies itself with a custom `User-Agent` (`casper-record-mirror/1.0`);
-- waits at least 3.0 seconds between sequential requests to `casperwy.gov` (and honors any larger `crawl-delay` declared by the site), with no concurrency;
-- archives original public document binaries only — no media/images or HTML pages are stored in `documents/`, and external hosts are never requested;
+- waits at least 3.0 seconds between sequential requests (and honors any larger `crawl-delay` declared by a contacted host), with no concurrency;
+- archives original public document binaries only — no media/images or HTML pages are stored in `documents/`;
+- validates every redirect hop, allowing document downloads only from `casperwy.gov` and Casper's official Revize document-storage path prefix `https://cms2.revize.com/revize/casperwy/` (blocking all other `revize.com` hosts/tenants, non-HTTPS schemes, `..` traversal, and arbitrary external destinations);
 - is resumable and idempotent (documents already archived on disk and recorded in `manifest.json` are skipped).
 
 ## Coverage & scope
 
 See `MANIFEST.md` and `manifest.json` for exact discovery counts, archived byte totals, and bucket breakdowns.
 
-- **In scope:** documents listed directly in `casperwy.gov` sitemaps (including `<sitemapindex>` child sitemaps), document links discovered on sitemap-listed `casperwy.gov` HTML pages, and documents linked from the City Council documents page (`https://www.casperwy.gov/government/city_council/documents.php`). Unlinked files on the origin server outside sitemaps and linked pages are outside discovery scope.
-- **Recorded exclusions & errors:** documents that fail (`failed`), exceed the 50 MiB per-file limit (`oversized`), are disallowed by `robots.txt` (`robots_refused`), point to non-`casperwy.gov` hosts (`external_skipped`), or await a follow-up run (`pending`) are explicitly listed in `manifest.json` and `MANIFEST.md`; nothing is silently dropped.
+- **In scope:** documents listed directly in `casperwy.gov` sitemaps (including `<sitemapindex>` child sitemaps), document links discovered on sitemap-listed `casperwy.gov` HTML pages, and documents linked from the City Council documents page (`https://www.casperwy.gov/government/city_council/documents.php`), including official HTTP redirects strictly under `https://cms2.revize.com/revize/casperwy/`. Unlinked files on the origin server outside sitemaps and linked pages are outside discovery scope.
+- **Recorded exclusions & errors:** documents that fail (`failed`), exceed the 50 MiB per-file limit (`oversized`), are disallowed by `robots.txt` (`robots_refused`), point or redirect outside the approved Casper scope (`external_skipped`), or await a follow-up run (`pending`) are explicitly listed in `manifest.json` and `MANIFEST.md`; nothing is silently dropped.
 
 ## How it runs
 

@@ -33,6 +33,16 @@ Usage:
   python3 collect.py --dry-run                 # discover URLs without downloading documents
   python3 collect.py --headline-only           # only the city-council documents page
   python3 collect.py --delay 3.0               # polite pacing (>= 3.0 seconds between hits)
+  python3 collect.py --source wayback --dry-run  # enumerate archived Casper docs via Wayback CDX
+  python3 collect.py --source wayback --max-new 5  # archive 5 docs from web.archive.org
+
+Wayback mode (--source wayback): discovery comes from the Wayback Machine CDX
+index (see wayback_source.py) and downloads come from web.archive.org, never
+from the live site. The live site's robots.txt is therefore never consulted
+by this crawler in Wayback mode. Verified 2026-11-23: CDX holds 1,387 unique
+Revize PDF URLs all-time (238 in 2026); Wayback replay of a Revize PDF
+returned HTTP 200 / valid PDF 1.7. Limits: a document never captured by the
+Wayback crawler is not in CDX; captures lag the live site by days-weeks.
 """
 from __future__ import annotations
 
@@ -54,6 +64,12 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.robotparser import RobotFileParser
+
+try:
+    from wayback_source import enumerate_wayback_documents, fetch_wayback_bytes
+except ImportError:  # live mode does not need it
+    enumerate_wayback_documents = None
+    fetch_wayback_bytes = None
 
 SITE = "https://www.casperwy.gov"
 SITEMAP_URL = SITE + "/sitemap.xml"
@@ -811,6 +827,12 @@ def main(argv: list[str] | None = None) -> int:
                     help="start a fresh HTML page scan even if an earlier sweep was partway through")
     ap.add_argument("--dry-run", action="store_true",
                     help="list discovered URLs without downloading documents")
+    ap.add_argument("--source", choices=["live", "wayback"], default="live",
+                    help="live: sitemaps + HTML scan of casperwy.gov (robots.txt honored). "
+                    "wayback: CDX enumeration + downloads from web.archive.org; "
+                    "the live site is never contacted (default: live)")
+    ap.add_argument("--wayback-from", default="2024",
+                    help="earliest capture year for --source wayback (default: 2024)")
     args = ap.parse_args(argv)
 
     start_mono = time.monotonic()
@@ -873,6 +895,23 @@ def main(argv: list[str] | None = None) -> int:
             print(f"[*] Resuming partial sweep with {len(scanned_pages)} HTML pages already scanned")
 
         client = PoliteClient(args.delay)
+        wayback_records: dict[str, dict] = {}
+        if args.source == "wayback":
+            if enumerate_wayback_documents is None:
+                print("ERROR: wayback_source.py is required for --source wayback", flush=True)
+                return 2
+            print("[*] Wayback mode: enumerating archived Casper documents via CDX ...")
+            for rec in enumerate_wayback_documents(from_year=args.wayback_from):
+                key = normalize_key(rec["original_url"])
+                if key not in discovered:
+                    discovered[key] = {"url": rec["original_url"], "source": "wayback-cdx"}
+                    wayback_records[key] = rec
+            print(f"[*] Wayback mode: {len(discovered)} unique archived documents in CDX")
+            # Skip all live-site discovery; the download loop below (section 4)
+            # processes `discovered` unchanged.
+            args.no_sitemap = True
+            args.no_page_scan = True
+            args.headline_only = False
         robots_sitemaps = client.ensure_robots(SITE)
 
         new_count = 0
@@ -1063,7 +1102,8 @@ def main(argv: list[str] | None = None) -> int:
             return newly_added_keys
 
         # ---- 2. Explicit seed: City Council documents page ----
-        if not check_budget():
+        # Skipped in Wayback mode: it would contact the live site.
+        if args.source != "wayback" and not check_budget():
             scan_html_page(HEADLINE_PAGE, "documents.php")
             print(f"[*] After council documents page: {len(discovered)} unique Casper documents known")
 
@@ -1118,7 +1158,9 @@ def main(argv: list[str] | None = None) -> int:
                 return
 
             tried_this_run.add(key)
-            if not client.robots_allowed(url, allow_approved_revize=True):
+            if entry.get("source") == "wayback-cdx":
+                pass  # Wayback replay: no live-site fetch, no live robots.txt
+            elif not client.robots_allowed(url, allow_approved_revize=True):
                 print(f"[robots] Disallowed — skipping {url}")
                 docs_by_key[key] = {
                     "url": url,
@@ -1131,13 +1173,22 @@ def main(argv: list[str] | None = None) -> int:
 
             print(f"[*] Downloading {url}")
             try:
-                _, headers, body, final_url, redirect_chain = client.fetch_raw(
-                    url,
-                    max_bytes=args.max_bytes,
-                    timeout=90,
-                    accept="*/*",
-                    allow_approved_revize=True,
-                )
+                if entry.get("source") == "wayback-cdx" and key in wayback_records:
+                    rec = wayback_records[key]
+                    body = fetch_wayback_bytes(rec)
+                    if len(body) > args.max_bytes:
+                        raise OversizedDocumentError(len(body), args.max_bytes)
+                    headers = {"Content-Type": rec.get("mimetype", "")}
+                    final_url = rec["wayback_url"]
+                    redirect_chain = []
+                else:
+                    _, headers, body, final_url, redirect_chain = client.fetch_raw(
+                        url,
+                        max_bytes=args.max_bytes,
+                        timeout=90,
+                        accept="*/*",
+                        allow_approved_revize=True,
+                    )
                 ctype = headers.get("Content-Type", "")
                 if looks_like_html_error_page(ctype, body):
                     raise RuntimeError(f"server returned HTML ({ctype or 'html body'}) instead of original document")
@@ -1157,6 +1208,10 @@ def main(argv: list[str] | None = None) -> int:
                     "fetched_at": now_iso(),
                     "source": entry["source"],
                 }
+                if entry.get("source") == "wayback-cdx" and key in wayback_records:
+                    record["wayback_timestamp"] = wayback_records[key]["wayback_timestamp"]
+                    record["wayback_url"] = wayback_records[key]["wayback_url"]
+                    record["cdx_digest"] = wayback_records[key]["cdx_digest"]
                 if redirect_chain:
                     record["redirect_chain"] = redirect_chain
                 docs_by_key[key] = record
